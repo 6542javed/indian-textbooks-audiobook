@@ -1,4 +1,4 @@
-RIght now only two lessons done:
+Right now only two lessons done:
 
 https://indian-textbooks-audiobook.vercel.app/class10/hornbill/thefuntheyhad.html
 https://indian-textbooks-audiobook.vercel.app/class4/snowflakes/merrylegs.html
