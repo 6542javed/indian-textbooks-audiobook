@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="../../load-custom-font.css" type="text/css">
+  <link rel="stylesheet" href="stylesheet.css" type="text/css" charset="utf-8" />
+  <style>
+    div { font-family: 'itc_bookman_stdregular', Arial, sans-serif; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div id="transcript"></div>
+    <!-- <div id="transcript_2"></div> -->
+    <audio id="myAudio" src="thesoundofmusic.mp3" controls></audio>
+  </div>
+</body>
+<script>
+const filePath = 'thesoundofmusic.srt';
+
+var audio = document.getElementById('myAudio');
+var currentTime = audio.currentTime;
+
+let fileData;
+let filteredSrtData;
+let showFileredSrtData;
+let convertedSRT;
+
+var words = [];
+var paragraphArray = [4];
+
+// var parseSRT = require('parse-srt'); 
+
+function convertSRT(input) {
+  // Split the input into blocks based on empty lines
+  const blocks = input.trim().split('\n\n');
+
+  // Initialize an array to hold the new blocks
+  let newBlocks = [];
+  let counter = 0; // To keep track of the subtitle index
+
+  // Iterate over each block
+  blocks.forEach(block => {
+    // Split the block into lines
+    const lines = block.split('\n');
+
+    // Extract the time range
+    const timeRange = lines[1];
+
+    // Find the word highlighted in green using regex
+    const match = /<font color="#00ff00">(.*?)<\/font>/.exec(lines[2]);
+    if (match && match[1]) {
+      // Create a new block with the extracted word and updated time range
+      const newBlock = [
+        counter,
+        timeRange,
+        match[1].replace(/<.*?>/g, '').trim() // Remove HTML tags from the word
+      ].join('\n');
+
+      // Add the new block to the array
+      newBlocks.push(newBlock);
+      counter++; // Increment the subtitle index
+    }
+  });
+
+  // Join the new blocks with double newlines
+  return newBlocks.join('\n\n');
+}
+
+fetch(filePath)
+  .then(response => {
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
+    return response.text();
+  })
+  .then(data => {
+    fileData = data; // Assigning data to a variable in the outer scope
+    convertedSRT = convertSRT(fileData);
+    // console.log(convertedSRT);
+    filteredSrtData = convertSRTToText(convertedSRT);
+    document.getElementById('transcript').innerHTML = formatTranscript(filteredSrtData, 0);
+    // console.log(convertedSRT);
+  })
+  .catch(error => {
+    console.error('There was a problem with the fetch operation:', error);
+  });
+
+function convertSRTToText(srtContent) {
+  const lines = srtContent.trim().split(/\n\s*\n/);
+  const textLines = lines.map(line => {
+      const parts = line.split('\n');
+      return parts.slice(2).join(' ');
+  });
+  return textLines.join(' ');
+}
+
+// Function to parse SRT data and find the closest time
+function returnClosestLine(srtData, currentTime) {
+    const lines = srtData.split('\n\n');
+    let closestTime = Infinity;
+    let closestText = '';
+    let closestIndex = -1;
+    lines.forEach((line, index) => {
+        const [timeRange, ...textLines] = line.split('\n').slice(1);
+        const [startTime] = timeRange.split(' --> ');
+        const [hours, minutes, seconds] = startTime.split(':');
+        const [secondsValue, millisecondsValue] = seconds.split(',');
+        const timeInSeconds = parseInt(hours, 10) * 3600 + parseInt(minutes, 10) * 60 + parseInt(secondsValue, 10) + parseInt(millisecondsValue, 10) / 1000;
+        const timeDifference = Math.abs(timeInSeconds - currentTime);
+        if (timeDifference < closestTime) {
+            closestTime = timeDifference;
+            closestText = textLines.join('\n');
+            closestIndex = index;
+        }
+    });
+    return { text: closestText, index: closestIndex };
+}
+
+// Function to parse SRT data and find the closest time
+function returnClosestLineIndex(srtData, currentTime) {
+    const lines = srtData.split('\n\n');
+    let closestTime = Infinity;
+    let closestIndex = -1;
+    lines.forEach(line => {
+        const [index, timeRange] = line.split('\n');
+        const [startTime] = timeRange.split(' --> ');
+        const [hours, minutes, seconds] = startTime.split(':');
+        const [secondsValue, millisecondsValue] = seconds.split(',');
+        const timeInSeconds = parseInt(hours, 10) * 3600 + parseInt(minutes, 10) * 60 + parseInt(secondsValue, 10) + parseInt(millisecondsValue, 10) / 1000;
+        const timeDifference = Math.abs(timeInSeconds - currentTime);
+        if (timeDifference < closestTime) {
+            closestTime = timeDifference;
+            closestIndex = parseInt(index, 10);
+        }
+    });
+    return closestIndex;
+}
+
+// audio.addEventListener('timeupdate', function() {
+//   var currentTime = audio.currentTime;
+//   const { text: textForClosestTime, index: closestLineIndex } = returnClosestLine(convertedSRT, currentTime);
+//   // console.log(textForClosestTime);
+//   // console.log(closestLineIndex);
+  
+//   // Wrap the current word in a <span> element with a class
+//     let words = filteredSrtData.split(' ');
+//     words[closestLineIndex] = `<span class="current-word">${words[closestLineIndex]}</span>`;
+//     // displayText();
+//     // add paragraphs here
+//     var paragraphArray = [10, 20, 30];
+//     var result = '';
+//     var wordCount = 0;
+//     for (var i = 0; i < words.length; i++) {
+//       result += words[i] + ' ';
+//       wordCount++;
+    
+//       if (paragraphArray.includes(wordCount)) {
+//         result += '\n\n';
+//       }
+//     }
+//     console.log(result);
+//     document.getElementById('transcript').innerHTML = result;
+// });
+
+function formatTranscript(filteredSrtData, closestLineIndex) {
+  // Split the filteredSrtData into an array of words
+  words = filteredSrtData.split(' ');
+  
+  // Wrap the current word in a <span> element with a class
+  words[closestLineIndex] = `<span class="current-word">${words[closestLineIndex]}</span>`;
+  
+  var result = '';
+  var wordCount = 0;
+  
+  for (var i = 0; i < words.length; i++) {
+    result += words[i] + ' ';
+    wordCount++;
+    
+    if (paragraphArray.includes(wordCount)) {
+      result += '</p><p>';
+    }
+  }
+  
+  // Wrap the result in <p> tags
+    result = '<p>' + result + '</p>';  
+    return result;
+}
+
+// Usage
+audio.addEventListener('timeupdate', function() {
+  var currentTime = audio.currentTime;
+  const { text: textForClosestTime, index: closestLineIndex } = returnClosestLine(convertedSRT, currentTime);
+  
+  var formattedTranscript = formatTranscript(filteredSrtData, closestLineIndex);
+  document.getElementById('transcript').innerHTML = formattedTranscript;
+});
+
+// function displayText() {
+//   var inputText = filteredSrtData;
+//   // var paragraphArray = JSON.parse(document.getElementById('paragraphArray').value);
+//   var paragraphArray = [10, 20, 30];
+//   var outputText = document.getElementById('transcript_2');
+//   console.log(inputText);
+//   var words = inputText.split(' ');
+//   var result = '';
+//   var wordCount = 0;
+  
+//   for (var i = 0; i < words.length; i++) {
+//     result += words[i] + ' ';
+//     wordCount++;
+    
+//     if (paragraphArray.includes(wordCount)) {
+//       result += '\n\n';
+//     }
+//   }
+//   console.log(result);
+//   outputText.innerHTML = result;
+// }
+
+</script>
+<style>
+  /* .current-word {
+      color: red;
+      font-weight: bold;
+  } */
+
+  audio{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f0f0f0;
+    padding: 10px;
+    box-sizing: border-box;
+    z-index: 9999;
+  }
+
+  body {
+    line-height: 1.6;
+  }
+
+  #transcript p:first-of-type { text-indent: 0 }
+  p { text-indent: 30px; margin-bottom: -0.75em; }
+
+  span{
+    border-radius: 3px;
+    padding: 2px 5px;
+  }
+
+  .current-word {
+  background-color: #fff2ac;
+  color: #000;
+  /* padding: 2px 5px; */
+  /* border-radius: 3px; */
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+  /* line-height: 1.6; */
+  position: relative;
+  z-index: 1;
+}
+
+.current-word:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: inherit;
+  border-radius: inherit;
+  box-shadow: inherit;
+  z-index: -1;
+}
+
+
+.current-word:hover {
+  background-color: #ffe678;
+}
+
+.container{
+  max-width: 62.5%;
+  margin: auto;
+  padding-bottom: 6%;
+}
+
+@media (max-width: 768px) {
+  .container {
+    max-width: 100%;
+    margin: 0;
+    padding-bottom: 15%;
+  }
+}
+</style>
+</html>

@@ -1,0 +1,3771 @@
+1
+00:00:00,080 --> 00:00:00,180
+<font color="#00ff00">The</font> sound of music.
+
+2
+00:00:00,180 --> 00:00:00,560
+the <font color="#00ff00">sound</font> of music.
+
+3
+00:00:00,560 --> 00:00:00,900
+the sound <font color="#00ff00">of</font> music.
+
+4
+00:00:00,900 --> 00:00:01,420
+the sound of <font color="#00ff00">music.</font>
+
+5
+00:00:03,940 --> 00:00:04,320
+<font color="#00ff00">Evelyn</font> Glennie listens to sound without hearing it.
+
+6
+00:00:04,320 --> 00:00:05,180
+Evelyn <font color="#00ff00">Glennie</font> listens to sound without hearing it.
+
+7
+00:00:05,180 --> 00:00:06,060
+Evelyn Glennie <font color="#00ff00">listens</font> to sound without hearing it.
+
+8
+00:00:06,060 --> 00:00:06,360
+Evelyn Glennie listens <font color="#00ff00">to</font> sound without hearing it.
+
+9
+00:00:06,360 --> 00:00:06,720
+Evelyn Glenny listens to <font color="#00ff00">sound</font> without hearing it.
+
+10
+00:00:06,720 --> 00:00:07,060
+Evelyn Glenny listens to sound <font color="#00ff00">without</font> hearing it.
+
+11
+00:00:07,060 --> 00:00:07,500
+Evelyn Glenny listens to sound without <font color="#00ff00">hearing</font> it.
+
+12
+00:00:07,500 --> 00:00:07,760
+Evelyn Glenny listens to sound without hearing <font color="#00ff00">it.</font>
+
+13
+00:00:08,660 --> 00:00:08,860
+<font color="#00ff00">Rush</font> our crowds jostle for position on the underground train platform.
+
+14
+00:00:08,860 --> 00:00:09,140
+Rush <font color="#00ff00">our</font> crowds jostle for position on the underground train platform.
+
+15
+00:00:09,140 --> 00:00:09,580
+Rush our <font color="#00ff00">crowds</font> jostle for position on the underground train platform.
+
+16
+00:00:09,580 --> 00:00:09,820
+Rush our crowds jostle for position on the underground train platform.
+
+17
+00:00:09,820 --> 00:00:10,140
+Rush our crowds <font color="#00ff00">jostle</font> for position on the underground train platform.
+
+18
+00:00:10,140 --> 00:00:10,220
+Rush our crowds jostle for position on the underground train platform.
+
+19
+00:00:10,220 --> 00:00:10,320
+Rush our crowds jostle <font color="#00ff00">for</font> position on the underground train platform.
+
+20
+00:00:10,320 --> 00:00:10,720
+Rush our crowds jostle for <font color="#00ff00">position</font> on the underground train platform.
+
+21
+00:00:10,720 --> 00:00:10,920
+Rush our crowds jostle for position <font color="#00ff00">on</font> the underground train platform.
+
+22
+00:00:10,920 --> 00:00:11,040
+Rush our crowds jostle for position on <font color="#00ff00">the</font> underground train platform.
+
+23
+00:00:11,040 --> 00:00:11,480
+Rush our crowds jostle for position on the <font color="#00ff00">underground</font> train platform.
+
+24
+00:00:11,480 --> 00:00:11,880
+Rush our crowds jostle for position on the underground <font color="#00ff00">train</font> platform.
+
+25
+00:00:11,880 --> 00:00:12,520
+Rush our crowds jostle for position on the underground train <font color="#00ff00">platform.</font>
+
+26
+00:00:13,220 --> 00:00:13,320
+<font color="#00ff00">A</font> slight girl, looking younger than her 17 years,
+
+27
+00:00:13,320 --> 00:00:13,640
+A <font color="#00ff00">slight</font> girl, looking younger than her 17 years,
+
+28
+00:00:13,640 --> 00:00:14,260
+A slight <font color="#00ff00">girl,</font> looking younger than her 17 years,
+
+29
+00:00:14,260 --> 00:00:14,460
+A slight girl, looking younger than her 17 years,
+
+30
+00:00:14,460 --> 00:00:14,720
+A slight girl, <font color="#00ff00">looking</font> younger than her 17 years,
+
+31
+00:00:14,720 --> 00:00:15,100
+A slight girl, looking <font color="#00ff00">younger</font> than her 17 years,
+
+32
+00:00:15,100 --> 00:00:15,300
+A slight girl, looking younger <font color="#00ff00">than</font> her 17 years,
+
+33
+00:00:15,300 --> 00:00:15,440
+A slight girl, looking younger than <font color="#00ff00">her</font> 17 years,
+
+34
+00:00:15,440 --> 00:00:15,880
+A slight girl, looking younger than her <font color="#00ff00">17</font> years,
+
+35
+00:00:15,880 --> 00:00:16,560
+A slight girl, looking younger than her 17 <font color="#00ff00">years,</font>
+
+36
+00:00:16,840 --> 00:00:16,980
+<font color="#00ff00">was</font> nervous yet excited as she felt the vibrations of the approaching train.
+
+37
+00:00:16,980 --> 00:00:17,380
+was <font color="#00ff00">nervous</font> yet excited as she felt the vibrations of the approaching train.
+
+38
+00:00:17,380 --> 00:00:17,740
+was nervous <font color="#00ff00">yet</font> excited as she felt the vibrations of the approaching train.
+
+39
+00:00:17,740 --> 00:00:18,560
+was nervous yet <font color="#00ff00">excited</font> as she felt the vibrations of the approaching train.
+
+40
+00:00:18,560 --> 00:00:18,860
+was nervous yet excited <font color="#00ff00">as</font> she felt the vibrations of the approaching train.
+
+41
+00:00:18,860 --> 00:00:19,000
+was nervous yet excited as <font color="#00ff00">she</font> felt the vibrations of the approaching train.
+
+42
+00:00:19,000 --> 00:00:19,200
+was nervous yet excited as she <font color="#00ff00">felt</font> the vibrations of the approaching train.
+
+43
+00:00:19,200 --> 00:00:19,400
+was nervous yet excited as she felt <font color="#00ff00">the</font> vibrations of the approaching train.
+
+44
+00:00:19,400 --> 00:00:19,860
+was nervous yet excited as she felt the <font color="#00ff00">vibrations</font> of the approaching train.
+
+45
+00:00:19,860 --> 00:00:20,260
+was nervous yet excited as she felt the vibrations <font color="#00ff00">of</font> the approaching train.
+
+46
+00:00:20,260 --> 00:00:20,400
+was nervous yet excited as she felt the vibrations of <font color="#00ff00">the</font> approaching train.
+
+47
+00:00:20,400 --> 00:00:20,860
+was nervous yet excited as she felt the vibrations of the <font color="#00ff00">approaching</font> train.
+
+48
+00:00:20,860 --> 00:00:21,620
+was nervous yet excited as she felt the vibrations of the approaching <font color="#00ff00">train.</font>
+
+49
+00:00:22,060 --> 00:00:22,160
+<font color="#00ff00">It</font> was her first day at the prestigious Royal Academy of Music in London,
+
+50
+00:00:22,160 --> 00:00:22,300
+It <font color="#00ff00">was</font> her first day at the prestigious Royal Academy of Music in London,
+
+51
+00:00:22,300 --> 00:00:22,480
+It was <font color="#00ff00">her</font> first day at the prestigious Royal Academy of Music in London,
+
+52
+00:00:22,480 --> 00:00:22,860
+It was her <font color="#00ff00">first</font> day at the prestigious Royal Academy of Music in London,
+
+53
+00:00:22,860 --> 00:00:22,980
+It was her first day at the prestigious Royal Academy of Music in London,
+
+54
+00:00:22,980 --> 00:00:23,120
+It was her first <font color="#00ff00">day</font> at the prestigious Royal Academy of Music in London,
+
+55
+00:00:23,120 --> 00:00:23,280
+It was her first day <font color="#00ff00">at</font> the prestigious Royal Academy of Music in London,
+
+56
+00:00:23,280 --> 00:00:23,380
+It was her first day at <font color="#00ff00">the</font> prestigious Royal Academy of Music in London,
+
+57
+00:00:23,380 --> 00:00:23,460
+It was her first day at the prestigious Royal Academy of Music in London,
+
+58
+00:00:23,460 --> 00:00:24,020
+It was her first day at the <font color="#00ff00">prestigious</font> Royal Academy of Music in London,
+
+59
+00:00:24,020 --> 00:00:24,560
+It was her first day at the prestigious <font color="#00ff00">Royal</font> Academy of Music in London,
+
+60
+00:00:24,560 --> 00:00:25,000
+It was her first day at the prestigious Royal <font color="#00ff00">Academy</font> of Music in London,
+
+61
+00:00:25,000 --> 00:00:25,240
+It was her first day at the prestigious Royal Academy <font color="#00ff00">of</font> Music in London,
+
+62
+00:00:25,240 --> 00:00:25,520
+It was her first day at the prestigious Royal Academy of <font color="#00ff00">Music</font> in London,
+
+63
+00:00:25,520 --> 00:00:25,800
+It was her first day at the prestigious Royal Academy of Music <font color="#00ff00">in</font> London,
+
+64
+00:00:25,800 --> 00:00:26,260
+It was her first day at the prestigious Royal Academy of Music in <font color="#00ff00">London,</font>
+
+65
+00:00:26,700 --> 00:00:26,840
+<font color="#00ff00">and</font> daunting enough for any teenager fresh from a Scottish farm.
+
+66
+00:00:26,840 --> 00:00:27,200
+and <font color="#00ff00">daunting</font> enough for any teenager fresh from a Scottish farm.
+
+67
+00:00:27,200 --> 00:00:27,660
+and daunting <font color="#00ff00">enough</font> for any teenager fresh from a Scottish farm.
+
+68
+00:00:27,660 --> 00:00:27,920
+and daunting enough <font color="#00ff00">for</font> any teenager fresh from a Scottish farm.
+
+69
+00:00:27,920 --> 00:00:28,020
+and daunting enough for any teenager fresh from a Scottish farm.
+
+70
+00:00:28,020 --> 00:00:28,180
+and daunting enough for <font color="#00ff00">any</font> teenager fresh from a Scottish farm.
+
+71
+00:00:28,180 --> 00:00:28,700
+and daunting enough for any <font color="#00ff00">teenager</font> fresh from a Scottish farm.
+
+72
+00:00:28,700 --> 00:00:29,100
+and daunting enough for any teenager <font color="#00ff00">fresh</font> from a Scottish farm.
+
+73
+00:00:29,100 --> 00:00:29,340
+and daunting enough for any teenager fresh <font color="#00ff00">from</font> a Scottish farm.
+
+74
+00:00:29,340 --> 00:00:29,440
+and daunting enough for any teenager fresh from <font color="#00ff00">a</font> Scottish farm.
+
+75
+00:00:29,440 --> 00:00:29,780
+and daunting enough for any teenager fresh from a <font color="#00ff00">Scottish</font> farm.
+
+76
+00:00:29,780 --> 00:00:30,300
+and daunting enough for any teenager fresh from a Scottish <font color="#00ff00">farm.</font>
+
+77
+00:00:31,000 --> 00:00:31,200
+<font color="#00ff00">But</font> this aspiring musician
+
+78
+00:00:31,200 --> 00:00:31,300
+But this aspiring musician
+
+79
+00:00:31,300 --> 00:00:31,440
+But <font color="#00ff00">this</font> aspiring musician
+
+80
+00:00:31,440 --> 00:00:32,060
+But this <font color="#00ff00">aspiring</font> musician
+
+81
+00:00:32,060 --> 00:00:32,680
+But this aspiring <font color="#00ff00">musician</font>
+
+82
+00:00:33,240 --> 00:00:33,380
+<font color="#00ff00">faced</font> a bigger challenge than most.
+
+83
+00:00:33,380 --> 00:00:33,600
+faced <font color="#00ff00">a</font> bigger challenge than most.
+
+84
+00:00:33,600 --> 00:00:33,840
+faced a <font color="#00ff00">bigger</font> challenge than most.
+
+85
+00:00:33,840 --> 00:00:34,240
+faced a bigger <font color="#00ff00">challenge</font> than most.
+
+86
+00:00:34,240 --> 00:00:34,540
+faced a bigger challenge <font color="#00ff00">than</font> most.
+
+87
+00:00:34,540 --> 00:00:34,880
+faced a bigger challenge than <font color="#00ff00">most.</font>
+
+88
+00:00:35,880 --> 00:00:35,980
+<font color="#00ff00">She</font> was profoundly deaf.
+
+89
+00:00:35,980 --> 00:00:36,140
+She <font color="#00ff00">was</font> profoundly deaf.
+
+90
+00:00:36,140 --> 00:00:36,780
+She was <font color="#00ff00">profoundly</font> deaf.
+
+91
+00:00:36,780 --> 00:00:37,120
+She was profoundly <font color="#00ff00">deaf.</font>
+
+92
+00:00:38,040 --> 00:00:38,360
+<font color="#00ff00">Evelyn</font> Glenney's loss of hearing had been gradual.
+
+93
+00:00:38,360 --> 00:00:39,020
+Evelyn <font color="#00ff00">Glenney's</font> loss of hearing had been gradual.
+
+94
+00:00:39,020 --> 00:00:39,220
+Evelyn Glenney's <font color="#00ff00">loss</font> of hearing had been gradual.
+
+95
+00:00:39,220 --> 00:00:39,540
+Evelyn Glenney's loss <font color="#00ff00">of</font> hearing had been gradual.
+
+96
+00:00:39,540 --> 00:00:39,820
+Evelyn Glenney's loss of <font color="#00ff00">hearing</font> had been gradual.
+
+97
+00:00:39,820 --> 00:00:40,100
+Evelyn Glenney's loss of hearing <font color="#00ff00">had</font> been gradual.
+
+98
+00:00:40,100 --> 00:00:40,200
+Evelyn Glenney's loss of hearing had been gradual.
+
+99
+00:00:40,200 --> 00:00:40,360
+Evelyn Glenney's loss of hearing had <font color="#00ff00">been</font> gradual.
+
+100
+00:00:40,360 --> 00:00:41,080
+Evelyn Glenney's loss of hearing had been <font color="#00ff00">gradual.</font>
+
+101
+00:00:41,600 --> 00:00:41,700
+<font color="#00ff00">Her</font> mother remembers noticing something was wrong when the eight-year-old Evelyn was waiting to play the piano.
+
+102
+00:00:41,700 --> 00:00:41,940
+Her <font color="#00ff00">mother</font> remembers noticing something was wrong when the eight-year-old Evelyn was waiting to play the piano.
+
+103
+00:00:41,940 --> 00:00:42,420
+Her mother <font color="#00ff00">remembers</font> noticing something was wrong when the eight-year-old Evelyn was waiting to play the piano.
+
+104
+00:00:42,420 --> 00:00:42,940
+Her mother remembers <font color="#00ff00">noticing</font> something was wrong when the eight-year-old Evelyn was waiting to play the piano.
+
+105
+00:00:42,940 --> 00:00:43,420
+Her mother remembers noticing <font color="#00ff00">something</font> was wrong when the eight-year-old Evelyn was waiting to play the piano.
+
+106
+00:00:43,420 --> 00:00:43,660
+Her mother remembers noticing something <font color="#00ff00">was</font> wrong when the eight-year-old Evelyn was waiting to play the piano.
+
+107
+00:00:43,660 --> 00:00:43,980
+Her mother remembers noticing something was <font color="#00ff00">wrong</font> when the eight-year-old Evelyn was waiting to play the piano.
+
+108
+00:00:43,980 --> 00:00:44,260
+Her mother remembers noticing something was wrong <font color="#00ff00">when</font> the eight-year-old Evelyn was waiting to play the piano.
+
+109
+00:00:44,260 --> 00:00:44,440
+Her mother remembers noticing something was wrong when <font color="#00ff00">the</font> eight-year-old Evelyn was waiting to play the piano.
+
+110
+00:00:44,440 --> 00:00:44,640
+Her mother remembers noticing something was wrong when the <font color="#00ff00">eight</font>-year-old Evelyn was waiting to play the piano.
+
+111
+00:00:44,640 --> 00:00:44,660
+Her mother remembers noticing something was wrong when the eight-year-old Evelyn was waiting to play the piano.
+
+112
+00:00:44,660 --> 00:00:44,800
+Her mother remembers noticing something was wrong when the eight<font color="#00ff00">-year</font>-old Evelyn was waiting to play the piano.
+
+113
+00:00:44,800 --> 00:00:45,000
+Her mother remembers noticing something was wrong when the eight-year<font color="#00ff00">-old</font> Evelyn was waiting to play the piano.
+
+114
+00:00:45,000 --> 00:00:45,260
+Her mother remembers noticing something was wrong when the eight-year-old Evelyn was waiting to play the piano.
+
+115
+00:00:45,260 --> 00:00:45,380
+Her mother remembers noticing something was wrong when the eight-year-old <font color="#00ff00">Evelyn</font> was waiting to play the piano.
+
+116
+00:00:45,380 --> 00:00:45,640
+Her mother remembers noticing something was wrong when the eight-year-old Evelyn <font color="#00ff00">was</font> waiting to play the piano.
+
+117
+00:00:45,640 --> 00:00:45,980
+Her mother remembers noticing something was wrong when the eight-year-old Evelyn was <font color="#00ff00">waiting</font> to play the piano.
+
+118
+00:00:45,980 --> 00:00:46,200
+Her mother remembers noticing something was wrong when the eight-year-old Evelyn was waiting <font color="#00ff00">to</font> play the piano.
+
+119
+00:00:46,200 --> 00:00:46,380
+Her mother remembers noticing something was wrong when the eight-year-old Evelyn was waiting to <font color="#00ff00">play</font> the piano.
+
+120
+00:00:46,380 --> 00:00:46,520
+Her mother remembers noticing something was wrong when the eight-year-old Evelyn was waiting to play <font color="#00ff00">the</font> piano.
+
+121
+00:00:46,520 --> 00:00:46,620
+Her mother remembers noticing something was wrong when the eight-year-old Evelyn was waiting to play the <font color="#00ff00">piano.</font>
+
+122
+00:00:47,980 --> 00:00:48,100
+<font color="#00ff00">They</font> called her name and she didn't move.
+
+123
+00:00:48,100 --> 00:00:48,480
+They <font color="#00ff00">called</font> her name and she didn't move.
+
+124
+00:00:48,480 --> 00:00:48,780
+They called <font color="#00ff00">her</font> name and she didn't move.
+
+125
+00:00:48,780 --> 00:00:49,100
+They called her <font color="#00ff00">name</font> and she didn't move.
+
+126
+00:00:49,100 --> 00:00:49,400
+They called her name <font color="#00ff00">and</font> she didn't move.
+
+127
+00:00:49,400 --> 00:00:49,660
+They called her name and <font color="#00ff00">she</font> didn't move.
+
+128
+00:00:49,660 --> 00:00:50,060
+They called her name and she <font color="#00ff00">didn't</font> move.
+
+129
+00:00:50,060 --> 00:00:50,520
+They called her name and she didn't <font color="#00ff00">move.</font>
+
+130
+00:00:51,300 --> 00:00:51,400
+<font color="#00ff00">"I</font> suddenly realized she hadn't heard,"
+
+131
+00:00:51,400 --> 00:00:51,780
+"I <font color="#00ff00">suddenly</font> realized she hadn't heard,"
+
+132
+00:00:51,780 --> 00:00:52,120
+"I suddenly realized she hadn't heard,"
+
+133
+00:00:52,120 --> 00:00:52,240
+"I suddenly <font color="#00ff00">realized</font> she hadn't heard,"
+
+134
+00:00:52,240 --> 00:00:52,800
+"I suddenly realized <font color="#00ff00">she</font> hadn't heard,"
+
+135
+00:00:52,800 --> 00:00:53,140
+"I suddenly realized she <font color="#00ff00">hadn't</font> heard,"
+
+136
+00:00:53,140 --> 00:00:53,600
+"I suddenly realized she hadn't <font color="#00ff00">heard,"</font>
+
+137
+00:00:54,160 --> 00:00:54,280
+<font color="#00ff00">says</font> Isabelle Glenny.
+
+138
+00:00:54,280 --> 00:00:54,740
+says <font color="#00ff00">Isabelle</font> Glenny.
+
+139
+00:00:54,740 --> 00:00:55,100
+says Isabelle <font color="#00ff00">Glenny.</font>
+
+140
+00:00:55,640 --> 00:00:55,740
+<font color="#00ff00">"For</font> quite a while Evelyn managed to conceal her growing deafness from friends and teachers.
+
+141
+00:00:55,740 --> 00:00:56,020
+"For <font color="#00ff00">quite</font> a while Evelyn managed to conceal her growing deafness from friends and teachers.
+
+142
+00:00:56,020 --> 00:00:56,180
+"For quite <font color="#00ff00">a</font> while Evelyn managed to conceal her growing deafness from friends and teachers.
+
+143
+00:00:56,180 --> 00:00:56,400
+"For quite a <font color="#00ff00">while</font> Evelyn managed to conceal her growing deafness from friends and teachers.
+
+144
+00:00:56,400 --> 00:00:56,840
+"For quite a while <font color="#00ff00">Evelyn</font> managed to conceal her growing deafness from friends and teachers.
+
+145
+00:00:56,840 --> 00:00:57,200
+"For quite a while Evelyn <font color="#00ff00">managed</font> to conceal her growing deafness from friends and teachers.
+
+146
+00:00:57,200 --> 00:00:57,320
+"For quite a while Evelyn managed to conceal her growing deafness from friends and teachers.
+
+147
+00:00:57,320 --> 00:00:57,420
+"For quite a while Evelyn managed <font color="#00ff00">to</font> conceal her growing deafness from friends and teachers.
+
+148
+00:00:57,420 --> 00:00:57,780
+"For quite a while Evelyn managed to <font color="#00ff00">conceal</font> her growing deafness from friends and teachers.
+
+149
+00:00:57,780 --> 00:00:58,060
+"For quite a while Evelyn managed to conceal <font color="#00ff00">her</font> growing deafness from friends and teachers.
+
+150
+00:00:58,060 --> 00:00:58,360
+"For quite a while Evelyn managed to conceal her <font color="#00ff00">growing</font> deafness from friends and teachers.
+
+151
+00:00:58,360 --> 00:00:58,820
+"For quite a while Evelyn managed to conceal her growing <font color="#00ff00">deafness</font> from friends and teachers.
+
+152
+00:00:58,820 --> 00:00:59,060
+"For quite a while Evelyn managed to conceal her growing deafness <font color="#00ff00">from</font> friends and teachers.
+
+153
+00:00:59,060 --> 00:00:59,400
+"For quite a while Evelyn managed to conceal her growing deafness from <font color="#00ff00">friends</font> and teachers.
+
+154
+00:00:59,400 --> 00:00:59,660
+"For quite a while Evelyn managed to conceal her growing deafness from friends <font color="#00ff00">and</font> teachers.
+
+155
+00:00:59,660 --> 00:01:00,160
+"For quite a while Evelyn managed to conceal her growing deafness from friends and <font color="#00ff00">teachers.</font>
+
+156
+00:01:00,640 --> 00:01:00,960
+<font color="#00ff00">But</font> by the time she was eleven,
+
+157
+00:01:00,960 --> 00:01:01,020
+But by the time she was eleven,
+
+158
+00:01:01,020 --> 00:01:01,140
+But <font color="#00ff00">by</font> the time she was eleven,
+
+159
+00:01:01,140 --> 00:01:01,300
+But by <font color="#00ff00">the</font> time she was eleven,
+
+160
+00:01:01,300 --> 00:01:01,580
+But by the <font color="#00ff00">time</font> she was eleven,
+
+161
+00:01:01,580 --> 00:01:01,820
+But by the time <font color="#00ff00">she</font> was eleven,
+
+162
+00:01:01,820 --> 00:01:01,960
+But by the time she <font color="#00ff00">was</font> eleven,
+
+163
+00:01:01,960 --> 00:01:02,560
+But by the time she was <font color="#00ff00">eleven,</font>
+
+164
+00:01:02,920 --> 00:01:03,260
+<font color="#00ff00">her marks</font> had deteriorated,
+
+165
+00:01:03,260 --> 00:01:03,320
+her marks had deteriorated,
+
+166
+00:01:03,320 --> 00:01:03,420
+her marks <font color="#00ff00">had</font> deteriorated,
+
+167
+00:01:03,420 --> 00:01:04,240
+her marks had <font color="#00ff00">deteriorated,</font>
+
+168
+00:01:04,820 --> 00:01:04,920
+<font color="#00ff00">and</font> her headmistress urged her parents to take her to a specialist.
+
+169
+00:01:04,920 --> 00:01:05,060
+and <font color="#00ff00">her</font> headmistress urged her parents to take her to a specialist.
+
+170
+00:01:05,060 --> 00:01:05,680
+and her <font color="#00ff00">headmistress</font> urged her parents to take her to a specialist.
+
+171
+00:01:05,680 --> 00:01:05,900
+and her headmistress urged her parents to take her to a specialist.
+
+172
+00:01:05,900 --> 00:01:06,120
+and her headmistress <font color="#00ff00">urged</font> her parents to take her to a specialist.
+
+173
+00:01:06,120 --> 00:01:06,360
+and her headmistress urged <font color="#00ff00">her</font> parents to take her to a specialist.
+
+174
+00:01:06,360 --> 00:01:06,740
+and her headmistress urged her <font color="#00ff00">parents</font> to take her to a specialist.
+
+175
+00:01:06,740 --> 00:01:07,220
+and her headmistress urged her parents <font color="#00ff00">to</font> take her to a specialist.
+
+176
+00:01:07,220 --> 00:01:07,280
+and her headmistress urged her parents to take her to a specialist.
+
+177
+00:01:07,280 --> 00:01:07,460
+and her headmistress urged her parents to <font color="#00ff00">take</font> her to a specialist.
+
+178
+00:01:07,460 --> 00:01:07,620
+and her headmistress urged her parents to take <font color="#00ff00">her</font> to a specialist.
+
+179
+00:01:07,620 --> 00:01:07,660
+and her headmistress urged her parents to take her to a specialist.
+
+180
+00:01:07,660 --> 00:01:07,760
+and her headmistress urged her parents to take her <font color="#00ff00">to</font> a specialist.
+
+181
+00:01:07,760 --> 00:01:07,860
+and her headmistress urged her parents to take her to <font color="#00ff00">a</font> specialist.
+
+182
+00:01:07,860 --> 00:01:08,280
+and her headmistress urged her parents to take her to a <font color="#00ff00">specialist.</font>
+
+183
+00:01:09,000 --> 00:01:09,100
+<font color="#00ff00">It</font> was then discovered that her hearing was severely impaired as a result of gradual nerve damage.
+
+184
+00:01:09,100 --> 00:01:09,260
+It <font color="#00ff00">was</font> then discovered that her hearing was severely impaired as a result of gradual nerve damage.
+
+185
+00:01:09,260 --> 00:01:09,520
+It was <font color="#00ff00">then</font> discovered that her hearing was severely impaired as a result of gradual nerve damage.
+
+186
+00:01:09,520 --> 00:01:09,960
+It was then <font color="#00ff00">discovered</font> that her hearing was severely impaired as a result of gradual nerve damage.
+
+187
+00:01:09,960 --> 00:01:10,260
+It was then discovered <font color="#00ff00">that</font> her hearing was severely impaired as a result of gradual nerve damage.
+
+188
+00:01:10,260 --> 00:01:10,360
+It was then discovered that her hearing was severely impaired as a result of gradual nerve damage.
+
+189
+00:01:10,360 --> 00:01:10,460
+It was then discovered that <font color="#00ff00">her</font> hearing was severely impaired as a result of gradual nerve damage.
+
+190
+00:01:10,460 --> 00:01:10,860
+It was then discovered that her <font color="#00ff00">hearing</font> was severely impaired as a result of gradual nerve damage.
+
+191
+00:01:10,860 --> 00:01:11,180
+It was then discovered that her hearing <font color="#00ff00">was</font> severely impaired as a result of gradual nerve damage.
+
+192
+00:01:11,180 --> 00:01:11,840
+It was then discovered that her hearing was <font color="#00ff00">severely</font> impaired as a result of gradual nerve damage.
+
+193
+00:01:11,840 --> 00:01:12,420
+It was then discovered that her hearing was severely <font color="#00ff00">impaired</font> as a result of gradual nerve damage.
+
+194
+00:01:12,420 --> 00:01:12,780
+It was then discovered that her hearing was severely impaired <font color="#00ff00">as</font> a result of gradual nerve damage.
+
+195
+00:01:12,780 --> 00:01:12,800
+It was then discovered that her hearing was severely impaired as a result of gradual nerve damage.
+
+196
+00:01:12,800 --> 00:01:12,900
+It was then discovered that her hearing was severely impaired as <font color="#00ff00">a</font> result of gradual nerve damage.
+
+197
+00:01:12,900 --> 00:01:13,200
+It was then discovered that her hearing was severely impaired as a <font color="#00ff00">result</font> of gradual nerve damage.
+
+198
+00:01:13,200 --> 00:01:13,460
+It was then discovered that her hearing was severely impaired as a result <font color="#00ff00">of</font> gradual nerve damage.
+
+199
+00:01:13,460 --> 00:01:13,580
+It was then discovered that her hearing was severely impaired as a result of gradual nerve damage.
+
+200
+00:01:13,580 --> 00:01:13,940
+It was then discovered that her hearing was severely impaired as a result of <font color="#00ff00">gradual</font> nerve damage.
+
+201
+00:01:13,940 --> 00:01:14,300
+It was then discovered that her hearing was severely impaired as a result of gradual <font color="#00ff00">nerve</font> damage.
+
+202
+00:01:14,300 --> 00:01:14,940
+It was then discovered that her hearing was severely impaired as a result of gradual nerve <font color="#00ff00">damage.</font>
+
+203
+00:01:15,660 --> 00:01:15,760
+<font color="#00ff00">They</font> were advised that she should be fitted with hearing aids and sent to a school for the deaf.
+
+204
+00:01:15,760 --> 00:01:15,900
+They <font color="#00ff00">were</font> advised that she should be fitted with hearing aids and sent to a school for the deaf.
+
+205
+00:01:15,900 --> 00:01:16,340
+They were <font color="#00ff00">advised</font> that she should be fitted with hearing aids and sent to a school for the deaf.
+
+206
+00:01:16,340 --> 00:01:16,480
+They were advised that she should be fitted with hearing aids and sent to a school for the deaf.
+
+207
+00:01:16,480 --> 00:01:16,580
+They were advised <font color="#00ff00">that</font> she should be fitted with hearing aids and sent to a school for the deaf.
+
+208
+00:01:16,580 --> 00:01:16,780
+They were advised that <font color="#00ff00">she</font> should be fitted with hearing aids and sent to a school for the deaf.
+
+209
+00:01:16,780 --> 00:01:16,960
+They were advised that she <font color="#00ff00">should</font> be fitted with hearing aids and sent to a school for the deaf.
+
+210
+00:01:16,960 --> 00:01:17,100
+They were advised that she should <font color="#00ff00">be</font> fitted with hearing aids and sent to a school for the deaf.
+
+211
+00:01:17,100 --> 00:01:17,180
+They were advised that she should be fitted with hearing aids and sent to a school for the deaf.
+
+212
+00:01:17,180 --> 00:01:17,360
+They were advised that she should be <font color="#00ff00">fitted</font> with hearing aids and sent to a school for the deaf.
+
+213
+00:01:17,360 --> 00:01:17,600
+They were advised that she should be fitted <font color="#00ff00">with</font> hearing aids and sent to a school for the deaf.
+
+214
+00:01:17,600 --> 00:01:17,680
+They were advised that she should be fitted with hearing aids and sent to a school for the deaf.
+
+215
+00:01:17,680 --> 00:01:17,860
+They were advised that she should be fitted with <font color="#00ff00">hearing</font> aids and sent to a school for the deaf.
+
+216
+00:01:17,860 --> 00:01:18,160
+They were advised that she should be fitted with hearing <font color="#00ff00">aids</font> and sent to a school for the deaf.
+
+217
+00:01:18,160 --> 00:01:18,660
+They were advised that she should be fitted with hearing aids <font color="#00ff00">and</font> sent to a school for the deaf.
+
+218
+00:01:18,660 --> 00:01:18,880
+They were advised that she should be fitted with hearing aids and <font color="#00ff00">sent</font> to a school for the deaf.
+
+219
+00:01:18,880 --> 00:01:19,100
+They were advised that she should be fitted with hearing aids and sent <font color="#00ff00">to</font> a school for the deaf.
+
+220
+00:01:19,100 --> 00:01:19,180
+They were advised that she should be fitted with hearing aids and sent to <font color="#00ff00">a</font> school for the deaf.
+
+221
+00:01:19,180 --> 00:01:19,460
+They were advised that she should be fitted with hearing aids and sent to a <font color="#00ff00">school</font> for the deaf.
+
+222
+00:01:19,460 --> 00:01:19,740
+They were advised that she should be fitted with hearing aids and sent to a school <font color="#00ff00">for</font> the deaf.
+
+223
+00:01:19,740 --> 00:01:19,860
+They were advised that she should be fitted with hearing aids and sent to a school for <font color="#00ff00">the</font> deaf.
+
+224
+00:01:19,860 --> 00:01:20,160
+They were advised that she should be fitted with hearing aids and sent to a school for the <font color="#00ff00">deaf.</font>
+
+225
+00:01:21,220 --> 00:01:21,820
+<font color="#00ff00">"Everything's</font> suddenly looked black,"
+
+226
+00:01:21,820 --> 00:01:21,900
+"Everything's suddenly looked black,"
+
+227
+00:01:21,900 --> 00:01:22,200
+"Everything's <font color="#00ff00">suddenly</font> looked black,"
+
+228
+00:01:22,200 --> 00:01:22,600
+"Everything's suddenly <font color="#00ff00">looked</font> black,"
+
+229
+00:01:22,600 --> 00:01:22,700
+"Everything's suddenly looked <font color="#00ff00">black,"</font>
+
+230
+00:01:23,700 --> 00:01:23,800
+<font color="#00ff00">says</font> Evelyn.
+
+231
+00:01:23,800 --> 00:01:24,240
+says <font color="#00ff00">Evelyn.</font>
+
+232
+00:01:24,840 --> 00:01:25,080
+<font color="#00ff00">"But</font> Evelyn was not going to give up.
+
+233
+00:01:25,080 --> 00:01:25,200
+"But Evelyn was not going to give up.
+
+234
+00:01:25,200 --> 00:01:25,480
+"But <font color="#00ff00">Evelyn</font> was not going to give up.
+
+235
+00:01:25,480 --> 00:01:25,720
+"But Evelyn <font color="#00ff00">was</font> not going to give up.
+
+236
+00:01:25,720 --> 00:01:26,000
+"But Evelyn was <font color="#00ff00">not</font> going to give up.
+
+237
+00:01:26,000 --> 00:01:26,260
+"But Evelyn was not going to give up.
+
+238
+00:01:26,260 --> 00:01:26,380
+"But Evelyn was not <font color="#00ff00">going</font> to give up.
+
+239
+00:01:26,380 --> 00:01:26,560
+"But Evelyn was not going <font color="#00ff00">to</font> give up.
+
+240
+00:01:26,560 --> 00:01:26,680
+"But Evelyn was not going to <font color="#00ff00">give</font> up.
+
+241
+00:01:26,680 --> 00:01:26,900
+"But Evelyn was not going to give <font color="#00ff00">up.</font>
+
+242
+00:01:27,620 --> 00:01:27,720
+<font color="#00ff00">She</font> was determined to lead a normal life and pursue her interest in music."
+
+243
+00:01:27,720 --> 00:01:27,860
+She <font color="#00ff00">was</font> determined to lead a normal life and pursue her interest in music."
+
+244
+00:01:27,860 --> 00:01:28,100
+She was determined to lead a normal life and pursue her interest in music."
+
+245
+00:01:28,100 --> 00:01:28,240
+She was <font color="#00ff00">determined</font> to lead a normal life and pursue her interest in music."
+
+246
+00:01:28,240 --> 00:01:28,600
+She was determined <font color="#00ff00">to</font> lead a normal life and pursue her interest in music."
+
+247
+00:01:28,600 --> 00:01:28,780
+She was determined to <font color="#00ff00">lead</font> a normal life and pursue her interest in music."
+
+248
+00:01:28,780 --> 00:01:28,820
+She was determined to lead a normal life and pursue her interest in music."
+
+249
+00:01:28,820 --> 00:01:28,920
+She was determined to lead <font color="#00ff00">a</font> normal life and pursue her interest in music."
+
+250
+00:01:28,920 --> 00:01:29,240
+She was determined to lead a <font color="#00ff00">normal</font> life and pursue her interest in music."
+
+251
+00:01:29,240 --> 00:01:29,660
+She was determined to lead a normal <font color="#00ff00">life</font> and pursue her interest in music."
+
+252
+00:01:29,660 --> 00:01:29,920
+She was determined to lead a normal life and pursue her interest in music."
+
+253
+00:01:29,920 --> 00:01:30,020
+She was determined to lead a normal life <font color="#00ff00">and</font> pursue her interest in music."
+
+254
+00:01:30,020 --> 00:01:30,420
+She was determined to lead a normal life and <font color="#00ff00">pursue</font> her interest in music."
+
+255
+00:01:30,420 --> 00:01:30,700
+She was determined to lead a normal life and pursue <font color="#00ff00">her</font> interest in music."
+
+256
+00:01:30,700 --> 00:01:31,040
+She was determined to lead a normal life and pursue her <font color="#00ff00">interest</font> in music."
+
+257
+00:01:31,040 --> 00:01:31,440
+She was determined to lead a normal life and pursue her interest <font color="#00ff00">in</font> music."
+
+258
+00:01:31,440 --> 00:01:31,880
+She was determined to lead a normal life and pursue her interest in <font color="#00ff00">music."</font>
+
+259
+00:01:32,960 --> 00:01:33,080
+<font color="#00ff00">One</font> day, she noticed a girl playing a zyler phone and decided that she wanted to play it too.
+
+260
+00:01:33,080 --> 00:01:33,480
+One <font color="#00ff00">day,</font> she noticed a girl playing a zyler phone and decided that she wanted to play it too.
+
+261
+00:01:33,480 --> 00:01:33,780
+One day, she noticed a girl playing a zyler phone and decided that she wanted to play it too.
+
+262
+00:01:33,780 --> 00:01:33,880
+One day, <font color="#00ff00">she</font> noticed a girl playing a zyler phone and decided that she wanted to play it too.
+
+263
+00:01:33,880 --> 00:01:34,160
+One day, she <font color="#00ff00">noticed</font> a girl playing a zyler phone and decided that she wanted to play it too.
+
+264
+00:01:34,160 --> 00:01:34,400
+One day, she noticed <font color="#00ff00">a</font> girl playing a zyler phone and decided that she wanted to play it too.
+
+265
+00:01:34,400 --> 00:01:34,700
+One day, she noticed a <font color="#00ff00">girl</font> playing a zyler phone and decided that she wanted to play it too.
+
+266
+00:01:34,700 --> 00:01:35,060
+One day, she noticed a girl <font color="#00ff00">playing</font> a zyler phone and decided that she wanted to play it too.
+
+267
+00:01:35,060 --> 00:01:35,260
+One day, she noticed a girl playing <font color="#00ff00">a</font> zyler phone and decided that she wanted to play it too.
+
+268
+00:01:35,260 --> 00:01:35,520
+One day, she noticed a girl playing a zyler phone and decided that she wanted to play it too.
+
+269
+00:01:35,520 --> 00:01:35,580
+One day, she noticed a girl playing a <font color="#00ff00">zyler</font> phone and decided that she wanted to play it too.
+
+270
+00:01:35,580 --> 00:01:35,880
+One day, she noticed a girl playing a zyler <font color="#00ff00">phone</font> and decided that she wanted to play it too.
+
+271
+00:01:35,880 --> 00:01:36,120
+One day, she noticed a girl playing a zyler phone <font color="#00ff00">and</font> decided that she wanted to play it too.
+
+272
+00:01:36,120 --> 00:01:36,540
+One day, she noticed a girl playing a zyler phone and <font color="#00ff00">decided</font> that she wanted to play it too.
+
+273
+00:01:36,540 --> 00:01:36,780
+One day, she noticed a girl playing a zyler phone and decided <font color="#00ff00">that</font> she wanted to play it too.
+
+274
+00:01:36,780 --> 00:01:37,040
+One day, she noticed a girl playing a zyler phone and decided that <font color="#00ff00">she</font> wanted to play it too.
+
+275
+00:01:37,040 --> 00:01:37,340
+One day, she noticed a girl playing a zyler phone and decided that she <font color="#00ff00">wanted</font> to play it too.
+
+276
+00:01:37,340 --> 00:01:37,520
+One day, she noticed a girl playing a zyler phone and decided that she wanted <font color="#00ff00">to</font> play it too.
+
+277
+00:01:37,520 --> 00:01:37,580
+One day, she noticed a girl playing a zyler phone and decided that she wanted to play it too.
+
+278
+00:01:37,580 --> 00:01:37,740
+One day, she noticed a girl playing a zyler phone and decided that she wanted to <font color="#00ff00">play</font> it too.
+
+279
+00:01:37,740 --> 00:01:37,860
+One day, she noticed a girl playing a zyler phone and decided that she wanted to play <font color="#00ff00">it</font> too.
+
+280
+00:01:37,860 --> 00:01:38,260
+One day, she noticed a girl playing a zyler phone and decided that she wanted to play it <font color="#00ff00">too.</font>
+
+281
+00:01:38,920 --> 00:01:39,160
+<font color="#00ff00">Most</font> of the teachers discouraged her,
+
+282
+00:01:39,160 --> 00:01:39,320
+Most <font color="#00ff00">of</font> the teachers discouraged her,
+
+283
+00:01:39,320 --> 00:01:39,440
+Most of <font color="#00ff00">the</font> teachers discouraged her,
+
+284
+00:01:39,440 --> 00:01:39,740
+Most of the <font color="#00ff00">teachers</font> discouraged her,
+
+285
+00:01:39,740 --> 00:01:40,220
+Most of the teachers <font color="#00ff00">discouraged</font> her,
+
+286
+00:01:40,220 --> 00:01:40,700
+Most of the teachers discouraged <font color="#00ff00">her,</font>
+
+287
+00:01:40,860 --> 00:01:40,960
+<font color="#00ff00">but</font> percussionist Ron Forbes spotted her potential.
+
+288
+00:01:40,960 --> 00:01:41,400
+but percussionist Ron Forbes spotted her potential.
+
+289
+00:01:41,400 --> 00:01:41,780
+but <font color="#00ff00">percussionist</font> Ron Forbes spotted her potential.
+
+290
+00:01:41,780 --> 00:01:41,800
+but percussionist Ron Forbes spotted her potential.
+
+291
+00:01:41,800 --> 00:01:42,040
+but percussionist <font color="#00ff00">Ron</font> Forbes spotted her potential.
+
+292
+00:01:42,040 --> 00:01:42,420
+but percussionist Ron <font color="#00ff00">Forbes</font> spotted her potential.
+
+293
+00:01:42,420 --> 00:01:43,280
+but percussionist Ron Forbes <font color="#00ff00">spotted</font> her potential.
+
+294
+00:01:43,280 --> 00:01:43,500
+but percussionist Ron Forbes spotted <font color="#00ff00">her</font> potential.
+
+295
+00:01:43,500 --> 00:01:44,100
+but percussionist Ron Forbes spotted her <font color="#00ff00">potential.</font>
+
+296
+00:01:44,700 --> 00:01:44,800
+<font color="#00ff00">He</font> began by tuning two large drums to different notes.
+
+297
+00:01:44,800 --> 00:01:45,080
+He <font color="#00ff00">began</font> by tuning two large drums to different notes.
+
+298
+00:01:45,080 --> 00:01:45,340
+He began <font color="#00ff00">by</font> tuning two large drums to different notes.
+
+299
+00:01:45,340 --> 00:01:45,640
+He began by <font color="#00ff00">tuning</font> two large drums to different notes.
+
+300
+00:01:45,640 --> 00:01:45,980
+He began by tuning <font color="#00ff00">two</font> large drums to different notes.
+
+301
+00:01:45,980 --> 00:01:46,420
+He began by tuning two <font color="#00ff00">large</font> drums to different notes.
+
+302
+00:01:46,420 --> 00:01:46,820
+He began by tuning two large <font color="#00ff00">drums</font> to different notes.
+
+303
+00:01:46,820 --> 00:01:47,100
+He began by tuning two large drums <font color="#00ff00">to</font> different notes.
+
+304
+00:01:47,100 --> 00:01:47,380
+He began by tuning two large drums to <font color="#00ff00">different</font> notes.
+
+305
+00:01:47,380 --> 00:01:47,780
+He began by tuning two large drums to different <font color="#00ff00">notes.</font>
+
+306
+00:01:48,420 --> 00:01:48,680
+<font color="#00ff00">"Don't</font> listen through your ears," he would say,
+
+307
+00:01:48,680 --> 00:01:48,700
+"Don't listen through your ears," he would say,
+
+308
+00:01:48,700 --> 00:01:48,880
+"Don't <font color="#00ff00">listen</font> through your ears," he would say,
+
+309
+00:01:48,880 --> 00:01:49,180
+"Don't listen <font color="#00ff00">through</font> your ears," he would say,
+
+310
+00:01:49,180 --> 00:01:49,400
+"Don't listen through <font color="#00ff00">your</font> ears," he would say,
+
+311
+00:01:49,400 --> 00:01:49,840
+"Don't listen through your <font color="#00ff00">ears,"</font> he would say,
+
+312
+00:01:49,840 --> 00:01:50,200
+"Don't listen through your ears," he would say,
+
+313
+00:01:50,200 --> 00:01:50,300
+"Don't listen through your ears," <font color="#00ff00">he</font> would say,
+
+314
+00:01:50,300 --> 00:01:50,440
+"Don't listen through your ears," he <font color="#00ff00">would</font> say,
+
+315
+00:01:50,440 --> 00:01:50,540
+"Don't listen through your ears," he would <font color="#00ff00">say,</font>
+
+316
+00:01:51,240 --> 00:01:51,420
+<font color="#00ff00">"try</font> to sense it some other way," says Evelyn.
+
+317
+00:01:51,420 --> 00:01:51,640
+"try <font color="#00ff00">to</font> sense it some other way," says Evelyn.
+
+318
+00:01:51,640 --> 00:01:51,860
+"try to <font color="#00ff00">sense</font> it some other way," says Evelyn.
+
+319
+00:01:51,860 --> 00:01:52,160
+"try to sense <font color="#00ff00">it</font> some other way," says Evelyn.
+
+320
+00:01:52,160 --> 00:01:52,280
+"try to sense it some other way," says Evelyn.
+
+321
+00:01:52,280 --> 00:01:52,420
+"try to sense it <font color="#00ff00">some</font> other way," says Evelyn.
+
+322
+00:01:52,420 --> 00:01:52,760
+"try to sense it some <font color="#00ff00">other</font> way," says Evelyn.
+
+323
+00:01:52,760 --> 00:01:53,140
+"try to sense it some other <font color="#00ff00">way,"</font> says Evelyn.
+
+324
+00:01:53,140 --> 00:01:53,640
+"try to sense it some other way," says Evelyn.
+
+325
+00:01:53,640 --> 00:01:53,740
+"try to sense it some other way," <font color="#00ff00">says</font> Evelyn.
+
+326
+00:01:53,740 --> 00:01:54,340
+"try to sense it some other way," says <font color="#00ff00">Evelyn.</font>
+
+327
+00:01:54,740 --> 00:01:55,320
+<font color="#00ff00">Suddenly,</font>
+
+328
+00:01:55,560 --> 00:01:55,640
+<font color="#00ff00">I</font> realized I could feel the higher drum from the waist up,
+
+329
+00:01:55,640 --> 00:01:56,040
+I <font color="#00ff00">realized</font> I could feel the higher drum from the waist up,
+
+330
+00:01:56,040 --> 00:01:56,440
+I realized <font color="#00ff00">I</font> could feel the higher drum from the waist up,
+
+331
+00:01:56,440 --> 00:01:56,600
+I realized I <font color="#00ff00">could</font> feel the higher drum from the waist up,
+
+332
+00:01:56,600 --> 00:01:56,720
+I realized I could feel the higher drum from the waist up,
+
+333
+00:01:56,720 --> 00:01:56,820
+I realized I could <font color="#00ff00">feel</font> the higher drum from the waist up,
+
+334
+00:01:56,820 --> 00:01:57,040
+I realized I could feel <font color="#00ff00">the</font> higher drum from the waist up,
+
+335
+00:01:57,040 --> 00:01:57,360
+I realized I could feel the <font color="#00ff00">higher</font> drum from the waist up,
+
+336
+00:01:57,360 --> 00:01:57,720
+I realized I could feel the higher <font color="#00ff00">drum</font> from the waist up,
+
+337
+00:01:57,720 --> 00:01:58,040
+I realized I could feel the higher drum <font color="#00ff00">from</font> the waist up,
+
+338
+00:01:58,040 --> 00:01:58,220
+I realized I could feel the higher drum from <font color="#00ff00">the</font> waist up,
+
+339
+00:01:58,220 --> 00:01:58,480
+I realized I could feel the higher drum from the <font color="#00ff00">waist</font> up,
+
+340
+00:01:58,480 --> 00:01:58,700
+I realized I could feel the higher drum from the waist <font color="#00ff00">up,</font>
+
+341
+00:01:59,220 --> 00:01:59,320
+<font color="#00ff00">and</font> the lower one from the waist down.
+
+342
+00:01:59,320 --> 00:01:59,460
+and <font color="#00ff00">the</font> lower one from the waist down.
+
+343
+00:01:59,460 --> 00:01:59,740
+and the <font color="#00ff00">lower</font> one from the waist down.
+
+344
+00:01:59,740 --> 00:01:59,960
+and the lower <font color="#00ff00">one</font> from the waist down.
+
+345
+00:01:59,960 --> 00:02:00,200
+and the lower one <font color="#00ff00">from</font> the waist down.
+
+346
+00:02:00,200 --> 00:02:00,360
+and the lower one from <font color="#00ff00">the</font> waist down.
+
+347
+00:02:00,360 --> 00:02:00,380
+and the lower one from the waist down.
+
+348
+00:02:00,380 --> 00:02:00,600
+and the lower one from the <font color="#00ff00">waist</font> down.
+
+349
+00:02:00,600 --> 00:02:00,700
+and the lower one from the waist <font color="#00ff00">down.</font>
+
+350
+00:02:02,080 --> 00:02:02,360
+<font color="#00ff00">Forbes</font> repeated the exercise,
+
+351
+00:02:02,360 --> 00:02:02,880
+Forbes <font color="#00ff00">repeated</font> the exercise,
+
+352
+00:02:02,880 --> 00:02:03,060
+Forbes repeated <font color="#00ff00">the</font> exercise,
+
+353
+00:02:03,060 --> 00:02:03,740
+Forbes repeated the <font color="#00ff00">exercise,</font>
+
+354
+00:02:04,240 --> 00:02:04,340
+<font color="#00ff00">and</font> soon Evelyn discovered that she could sense certain notes in different parts of her body.
+
+355
+00:02:04,340 --> 00:02:04,600
+and <font color="#00ff00">soon</font> Evelyn discovered that she could sense certain notes in different parts of her body.
+
+356
+00:02:04,600 --> 00:02:05,020
+and soon <font color="#00ff00">Evelyn</font> discovered that she could sense certain notes in different parts of her body.
+
+357
+00:02:05,020 --> 00:02:05,480
+and soon Evelyn <font color="#00ff00">discovered</font> that she could sense certain notes in different parts of her body.
+
+358
+00:02:05,480 --> 00:02:05,760
+and soon Evelyn discovered <font color="#00ff00">that</font> she could sense certain notes in different parts of her body.
+
+359
+00:02:05,760 --> 00:02:05,820
+and soon Evelyn discovered that she could sense certain notes in different parts of her body.
+
+360
+00:02:05,820 --> 00:02:06,020
+and soon Evelyn discovered that <font color="#00ff00">she</font> could sense certain notes in different parts of her body.
+
+361
+00:02:06,020 --> 00:02:06,220
+and soon Evelyn discovered that she <font color="#00ff00">could</font> sense certain notes in different parts of her body.
+
+362
+00:02:06,220 --> 00:02:06,360
+and soon Evelyn discovered that she could sense certain notes in different parts of her body.
+
+363
+00:02:06,360 --> 00:02:06,520
+and soon Evelyn discovered that she could <font color="#00ff00">sense</font> certain notes in different parts of her body.
+
+364
+00:02:06,520 --> 00:02:07,040
+and soon Evelyn discovered that she could sense <font color="#00ff00">certain</font> notes in different parts of her body.
+
+365
+00:02:07,040 --> 00:02:07,320
+and soon Evelyn discovered that she could sense certain <font color="#00ff00">notes</font> in different parts of her body.
+
+366
+00:02:07,320 --> 00:02:07,440
+and soon Evelyn discovered that she could sense certain notes in different parts of her body.
+
+367
+00:02:07,440 --> 00:02:07,540
+and soon Evelyn discovered that she could sense certain notes <font color="#00ff00">in</font> different parts of her body.
+
+368
+00:02:07,540 --> 00:02:07,820
+and soon Evelyn discovered that she could sense certain notes in <font color="#00ff00">different</font> parts of her body.
+
+369
+00:02:07,820 --> 00:02:08,140
+and soon Evelyn discovered that she could sense certain notes in different <font color="#00ff00">parts</font> of her body.
+
+370
+00:02:08,140 --> 00:02:08,260
+and soon Evelyn discovered that she could sense certain notes in different parts of her body.
+
+371
+00:02:08,260 --> 00:02:08,360
+and soon Evelyn discovered that she could sense certain notes in different parts <font color="#00ff00">of</font> her body.
+
+372
+00:02:08,360 --> 00:02:08,480
+and soon Evelyn discovered that she could sense certain notes in different parts of <font color="#00ff00">her</font> body.
+
+373
+00:02:08,480 --> 00:02:08,900
+and soon Evelyn discovered that she could sense certain notes in different parts of her <font color="#00ff00">body.</font>
+
+374
+00:02:09,420 --> 00:02:09,600
+<font color="#00ff00">I</font> had learnt to open my mind and body to sounds and vibrations.
+
+375
+00:02:09,600 --> 00:02:09,780
+I <font color="#00ff00">had</font> learnt to open my mind and body to sounds and vibrations.
+
+376
+00:02:09,780 --> 00:02:10,000
+I had <font color="#00ff00">learnt</font> to open my mind and body to sounds and vibrations.
+
+377
+00:02:10,000 --> 00:02:10,120
+I had learnt to open my mind and body to sounds and vibrations.
+
+378
+00:02:10,120 --> 00:02:10,220
+I had learnt <font color="#00ff00">to</font> open my mind and body to sounds and vibrations.
+
+379
+00:02:10,220 --> 00:02:10,460
+I had learnt to <font color="#00ff00">open</font> my mind and body to sounds and vibrations.
+
+380
+00:02:10,460 --> 00:02:10,680
+I had learnt to open <font color="#00ff00">my</font> mind and body to sounds and vibrations.
+
+381
+00:02:10,680 --> 00:02:11,100
+I had learnt to open my <font color="#00ff00">mind</font> and body to sounds and vibrations.
+
+382
+00:02:11,100 --> 00:02:11,240
+I had learnt to open my mind <font color="#00ff00">and</font> body to sounds and vibrations.
+
+383
+00:02:11,240 --> 00:02:11,400
+I had learnt to open my mind and body to sounds and vibrations.
+
+384
+00:02:11,400 --> 00:02:11,500
+I had learnt to open my mind and <font color="#00ff00">body</font> to sounds and vibrations.
+
+385
+00:02:11,500 --> 00:02:11,760
+I had learnt to open my mind and body <font color="#00ff00">to</font> sounds and vibrations.
+
+386
+00:02:11,760 --> 00:02:12,160
+I had learnt to open my mind and body to <font color="#00ff00">sounds</font> and vibrations.
+
+387
+00:02:12,160 --> 00:02:12,380
+I had learnt to open my mind and body to sounds <font color="#00ff00">and</font> vibrations.
+
+388
+00:02:12,380 --> 00:02:13,260
+I had learnt to open my mind and body to sounds and <font color="#00ff00">vibrations.</font>
+
+389
+00:02:13,720 --> 00:02:13,820
+<font color="#00ff00">The</font> rest was sheer determination and hard work.
+
+390
+00:02:13,820 --> 00:02:14,000
+The <font color="#00ff00">rest</font> was sheer determination and hard work.
+
+391
+00:02:14,000 --> 00:02:14,280
+The rest <font color="#00ff00">was</font> sheer determination and hard work.
+
+392
+00:02:14,280 --> 00:02:14,600
+The rest was <font color="#00ff00">sheer</font> determination and hard work.
+
+393
+00:02:14,600 --> 00:02:15,160
+The rest was sheer <font color="#00ff00">determination</font> and hard work.
+
+394
+00:02:15,160 --> 00:02:15,680
+The rest was sheer determination <font color="#00ff00">and</font> hard work.
+
+395
+00:02:15,680 --> 00:02:15,980
+The rest was sheer determination and <font color="#00ff00">hard</font> work.
+
+396
+00:02:15,980 --> 00:02:16,380
+The rest was sheer determination and hard <font color="#00ff00">work.</font>
+
+397
+00:02:17,060 --> 00:02:17,180
+<font color="#00ff00">She</font> never looked back from that point onwards.
+
+398
+00:02:17,180 --> 00:02:17,520
+She <font color="#00ff00">never</font> looked back from that point onwards.
+
+399
+00:02:17,520 --> 00:02:17,640
+She never looked back from that point onwards.
+
+400
+00:02:17,640 --> 00:02:17,800
+She never <font color="#00ff00">looked</font> back from that point onwards.
+
+401
+00:02:17,800 --> 00:02:17,880
+She never looked back from that point onwards.
+
+402
+00:02:17,880 --> 00:02:18,060
+She never looked <font color="#00ff00">back</font> from that point onwards.
+
+403
+00:02:18,060 --> 00:02:18,220
+She never looked back from that point onwards.
+
+404
+00:02:18,220 --> 00:02:18,320
+She never looked back <font color="#00ff00">from</font> that point onwards.
+
+405
+00:02:18,320 --> 00:02:18,520
+She never looked back from <font color="#00ff00">that</font> point onwards.
+
+406
+00:02:18,520 --> 00:02:18,700
+She never looked back from that point onwards.
+
+407
+00:02:18,700 --> 00:02:18,800
+She never looked back from that <font color="#00ff00">point</font> onwards.
+
+408
+00:02:18,800 --> 00:02:19,400
+She never looked back from that point <font color="#00ff00">onwards.</font>
+
+409
+00:02:20,180 --> 00:02:20,300
+<font color="#00ff00">She</font> toured the United Kingdom with a youth orchestra,
+
+410
+00:02:20,300 --> 00:02:20,720
+She <font color="#00ff00">toured</font> the United Kingdom with a youth orchestra,
+
+411
+00:02:20,720 --> 00:02:20,820
+She toured <font color="#00ff00">the</font> United Kingdom with a youth orchestra,
+
+412
+00:02:20,820 --> 00:02:20,920
+She toured the United Kingdom with a youth orchestra,
+
+413
+00:02:20,920 --> 00:02:21,160
+She toured the <font color="#00ff00">United</font> Kingdom with a youth orchestra,
+
+414
+00:02:21,160 --> 00:02:21,560
+She toured the United <font color="#00ff00">Kingdom</font> with a youth orchestra,
+
+415
+00:02:21,560 --> 00:02:21,860
+She toured the United Kingdom <font color="#00ff00">with</font> a youth orchestra,
+
+416
+00:02:21,860 --> 00:02:21,960
+She toured the United Kingdom with <font color="#00ff00">a</font> youth orchestra,
+
+417
+00:02:21,960 --> 00:02:22,300
+She toured the United Kingdom with a <font color="#00ff00">youth</font> orchestra,
+
+418
+00:02:22,300 --> 00:02:22,820
+She toured the United Kingdom with a youth <font color="#00ff00">orchestra,</font>
+
+419
+00:02:23,020 --> 00:02:23,120
+<font color="#00ff00">and</font> by the time she was 16,
+
+420
+00:02:23,120 --> 00:02:23,240
+and <font color="#00ff00">by</font> the time she was 16,
+
+421
+00:02:23,240 --> 00:02:23,380
+and by <font color="#00ff00">the</font> time she was 16,
+
+422
+00:02:23,380 --> 00:02:23,680
+and by the <font color="#00ff00">time</font> she was 16,
+
+423
+00:02:23,680 --> 00:02:23,920
+and by the time <font color="#00ff00">she</font> was 16,
+
+424
+00:02:23,920 --> 00:02:24,060
+and by the time she <font color="#00ff00">was</font> 16,
+
+425
+00:02:24,060 --> 00:02:24,780
+and by the time she was <font color="#00ff00">16,</font>
+
+426
+00:02:25,180 --> 00:02:25,280
+<font color="#00ff00">she</font> had decided to make music her life.
+
+427
+00:02:25,280 --> 00:02:25,440
+she <font color="#00ff00">had</font> decided to make music her life.
+
+428
+00:02:25,440 --> 00:02:25,840
+she had <font color="#00ff00">decided</font> to make music her life.
+
+429
+00:02:25,840 --> 00:02:26,100
+she had decided <font color="#00ff00">to</font> make music her life.
+
+430
+00:02:26,100 --> 00:02:26,340
+she had decided to <font color="#00ff00">make</font> music her life.
+
+431
+00:02:26,340 --> 00:02:26,800
+she had decided to make <font color="#00ff00">music</font> her life.
+
+432
+00:02:26,800 --> 00:02:27,100
+she had decided to make music <font color="#00ff00">her</font> life.
+
+433
+00:02:27,100 --> 00:02:27,380
+she had decided to make music her <font color="#00ff00">life.</font>
+
+434
+00:02:28,220 --> 00:02:28,340
+<font color="#00ff00">She</font> auditioned for the Royal Academy of Music and scored one of the highest marks in the history of the academy.
+
+435
+00:02:28,340 --> 00:02:28,880
+She <font color="#00ff00">auditioned</font> for the Royal Academy of Music and scored one of the highest marks in the history of the academy.
+
+436
+00:02:28,880 --> 00:02:28,960
+She auditioned <font color="#00ff00">for</font> the Royal Academy of Music and scored one of the highest marks in the history of the academy.
+
+437
+00:02:28,960 --> 00:02:29,060
+She auditioned for <font color="#00ff00">the</font> Royal Academy of Music and scored one of the highest marks in the history of the academy.
+
+438
+00:02:29,060 --> 00:02:29,360
+She auditioned for the <font color="#00ff00">Royal</font> Academy of Music and scored one of the highest marks in the history of the academy.
+
+439
+00:02:29,360 --> 00:02:29,780
+She auditioned for the Royal <font color="#00ff00">Academy</font> of Music and scored one of the highest marks in the history of the academy.
+
+440
+00:02:29,780 --> 00:02:29,980
+She auditioned for the Royal Academy of Music and scored one of the highest marks in the history of the academy.
+
+441
+00:02:29,980 --> 00:02:30,080
+She auditioned for the Royal Academy <font color="#00ff00">of</font> Music and scored one of the highest marks in the history of the academy.
+
+442
+00:02:30,080 --> 00:02:30,380
+She auditioned for the Royal Academy of <font color="#00ff00">Music</font> and scored one of the highest marks in the history of the academy.
+
+443
+00:02:30,380 --> 00:02:30,820
+She auditioned for the Royal Academy of Music and scored one of the highest marks in the history of the academy.
+
+444
+00:02:30,820 --> 00:02:30,920
+She auditioned for the Royal Academy of Music <font color="#00ff00">and</font> scored one of the highest marks in the history of the academy.
+
+445
+00:02:30,920 --> 00:02:31,160
+She auditioned for the Royal Academy of Music and <font color="#00ff00">scored</font> one of the highest marks in the history of the academy.
+
+446
+00:02:31,160 --> 00:02:31,420
+She auditioned for the Royal Academy of Music and scored <font color="#00ff00">one</font> of the highest marks in the history of the academy.
+
+447
+00:02:31,420 --> 00:02:31,520
+She auditioned for the Royal Academy of Music and scored one <font color="#00ff00">of</font> the highest marks in the history of the academy.
+
+448
+00:02:31,520 --> 00:02:31,640
+She auditioned for the Royal Academy of Music and scored one of <font color="#00ff00">the</font> highest marks in the history of the academy.
+
+449
+00:02:31,640 --> 00:02:31,780
+She auditioned for the Royal Academy of Music and scored one of the highest marks in the history of the academy.
+
+450
+00:02:31,780 --> 00:02:32,020
+She auditioned for the Royal Academy of Music and scored one of the <font color="#00ff00">highest</font> marks in the history of the academy.
+
+451
+00:02:32,020 --> 00:02:32,340
+She auditioned for the Royal Academy of Music and scored one of the highest <font color="#00ff00">marks</font> in the history of the academy.
+
+452
+00:02:32,340 --> 00:02:32,740
+She auditioned for the Royal Academy of Music and scored one of the highest marks <font color="#00ff00">in</font> the history of the academy.
+
+453
+00:02:32,740 --> 00:02:32,880
+She auditioned for the Royal Academy of Music and scored one of the highest marks in <font color="#00ff00">the</font> history of the academy.
+
+454
+00:02:32,880 --> 00:02:33,240
+She auditioned for the Royal Academy of Music and scored one of the highest marks in the <font color="#00ff00">history</font> of the academy.
+
+455
+00:02:33,240 --> 00:02:33,260
+She auditioned for the Royal Academy of Music and scored one of the highest marks in the history of the academy.
+
+456
+00:02:33,260 --> 00:02:33,500
+She auditioned for the Royal Academy of Music and scored one of the highest marks in the history <font color="#00ff00">of</font> the academy.
+
+457
+00:02:33,500 --> 00:02:33,520
+She auditioned for the Royal Academy of Music and scored one of the highest marks in the history of the academy.
+
+458
+00:02:33,520 --> 00:02:33,620
+She auditioned for the Royal Academy of Music and scored one of the highest marks in the history of <font color="#00ff00">the</font> academy.
+
+459
+00:02:33,620 --> 00:02:34,140
+She auditioned for the Royal Academy of Music and scored one of the highest marks in the history of the <font color="#00ff00">academy.</font>
+
+460
+00:02:35,140 --> 00:02:35,240
+<font color="#00ff00">She</font> gradually moved from orchestral work to solo performances.
+
+461
+00:02:35,240 --> 00:02:35,680
+She <font color="#00ff00">gradually</font> moved from orchestral work to solo performances.
+
+462
+00:02:35,680 --> 00:02:36,060
+She gradually <font color="#00ff00">moved</font> from orchestral work to solo performances.
+
+463
+00:02:36,060 --> 00:02:36,420
+She gradually moved <font color="#00ff00">from</font> orchestral work to solo performances.
+
+464
+00:02:36,420 --> 00:02:36,640
+She gradually moved from orchestral work to solo performances.
+
+465
+00:02:36,640 --> 00:02:36,760
+She gradually moved from <font color="#00ff00">orchestral</font> work to solo performances.
+
+466
+00:02:36,760 --> 00:02:37,280
+She gradually moved from orchestral <font color="#00ff00">work</font> to solo performances.
+
+467
+00:02:37,280 --> 00:02:37,780
+She gradually moved from orchestral work to solo performances.
+
+468
+00:02:37,780 --> 00:02:37,880
+She gradually moved from orchestral work <font color="#00ff00">to</font> solo performances.
+
+469
+00:02:37,880 --> 00:02:38,280
+She gradually moved from orchestral work to <font color="#00ff00">solo</font> performances.
+
+470
+00:02:38,280 --> 00:02:39,120
+She gradually moved from orchestral work to solo <font color="#00ff00">performances.</font>
+
+471
+00:02:40,020 --> 00:02:40,100
+<font color="#00ff00">At</font> the end of her three-year course,
+
+472
+00:02:40,100 --> 00:02:40,120
+At the end of her three-year course,
+
+473
+00:02:40,120 --> 00:02:40,220
+At <font color="#00ff00">the</font> end of her three-year course,
+
+474
+00:02:40,220 --> 00:02:40,480
+At the <font color="#00ff00">end</font> of her three-year course,
+
+475
+00:02:40,480 --> 00:02:40,660
+At the end <font color="#00ff00">of</font> her three-year course,
+
+476
+00:02:40,660 --> 00:02:40,780
+At the end of <font color="#00ff00">her</font> three-year course,
+
+477
+00:02:40,780 --> 00:02:41,080
+At the end of her <font color="#00ff00">three</font>-year course,
+
+478
+00:02:41,080 --> 00:02:41,340
+At the end of her three<font color="#00ff00">-year</font> course,
+
+479
+00:02:41,340 --> 00:02:41,780
+At the end of her three-year <font color="#00ff00">course,</font>
+
+480
+00:02:42,320 --> 00:02:42,420
+<font color="#00ff00">she</font> had captured most of the top awards.
+
+481
+00:02:42,420 --> 00:02:42,560
+she <font color="#00ff00">had</font> captured most of the top awards.
+
+482
+00:02:42,560 --> 00:02:42,960
+she had <font color="#00ff00">captured</font> most of the top awards.
+
+483
+00:02:42,960 --> 00:02:43,300
+she had captured <font color="#00ff00">most</font> of the top awards.
+
+484
+00:02:43,300 --> 00:02:43,640
+she had captured most <font color="#00ff00">of</font> the top awards.
+
+485
+00:02:43,640 --> 00:02:43,800
+she had captured most of <font color="#00ff00">the</font> top awards.
+
+486
+00:02:43,800 --> 00:02:44,040
+she had captured most of the <font color="#00ff00">top</font> awards.
+
+487
+00:02:44,040 --> 00:02:44,560
+she had captured most of the top <font color="#00ff00">awards.</font>
+
+488
+00:02:45,580 --> 00:02:45,740
+<font color="#00ff00">And</font> for all this,
+
+489
+00:02:45,740 --> 00:02:45,880
+And <font color="#00ff00">for</font> all this,
+
+490
+00:02:45,880 --> 00:02:45,960
+And for all this,
+
+491
+00:02:45,960 --> 00:02:46,140
+And for <font color="#00ff00">all</font> this,
+
+492
+00:02:46,140 --> 00:02:46,480
+And for all <font color="#00ff00">this,</font>
+
+493
+00:02:46,920 --> 00:02:47,260
+<font color="#00ff00">Evelyn</font> won't accept any hint of heroic achievement.
+
+494
+00:02:47,260 --> 00:02:47,680
+Evelyn <font color="#00ff00">won't</font> accept any hint of heroic achievement.
+
+495
+00:02:47,680 --> 00:02:48,020
+Evelyn won't <font color="#00ff00">accept</font> any hint of heroic achievement.
+
+496
+00:02:48,020 --> 00:02:48,500
+Evelyn won't accept <font color="#00ff00">any</font> hint of heroic achievement.
+
+497
+00:02:48,500 --> 00:02:48,780
+Evelyn won't accept any <font color="#00ff00">hint</font> of heroic achievement.
+
+498
+00:02:48,780 --> 00:02:49,080
+Evelyn won't accept any hint <font color="#00ff00">of</font> heroic achievement.
+
+499
+00:02:49,080 --> 00:02:49,440
+Evelyn won't accept any hint of <font color="#00ff00">heroic</font> achievement.
+
+500
+00:02:49,440 --> 00:02:50,180
+Evelyn won't accept any hint of heroic <font color="#00ff00">achievement.</font>
+
+501
+00:02:51,140 --> 00:02:51,240
+<font color="#00ff00">If</font> you work hard and know where you are going,
+
+502
+00:02:51,240 --> 00:02:51,440
+If <font color="#00ff00">you</font> work hard and know where you are going,
+
+503
+00:02:51,440 --> 00:02:51,760
+If you <font color="#00ff00">work</font> hard and know where you are going,
+
+504
+00:02:51,760 --> 00:02:52,160
+If you work <font color="#00ff00">hard</font> and know where you are going,
+
+505
+00:02:52,160 --> 00:02:52,460
+If you work hard <font color="#00ff00">and</font> know where you are going,
+
+506
+00:02:52,460 --> 00:02:52,720
+If you work hard and <font color="#00ff00">know</font> where you are going,
+
+507
+00:02:52,720 --> 00:02:52,920
+If you work hard and know <font color="#00ff00">where</font> you are going,
+
+508
+00:02:52,920 --> 00:02:53,060
+If you work hard and know where <font color="#00ff00">you</font> are going,
+
+509
+00:02:53,060 --> 00:02:53,160
+If you work hard and know where you <font color="#00ff00">are</font> going,
+
+510
+00:02:53,160 --> 00:02:53,600
+If you work hard and know where you are <font color="#00ff00">going,</font>
+
+511
+00:02:53,920 --> 00:02:54,120
+<font color="#00ff00">you'll</font> get there.
+
+512
+00:02:54,120 --> 00:02:54,300
+you'll <font color="#00ff00">get</font> there.
+
+513
+00:02:54,300 --> 00:02:54,620
+you'll get <font color="#00ff00">there.</font>
+
+514
+00:02:55,400 --> 00:02:55,500
+<font color="#00ff00">And</font> she got right to the top,
+
+515
+00:02:55,500 --> 00:02:55,640
+And <font color="#00ff00">she</font> got right to the top,
+
+516
+00:02:55,640 --> 00:02:55,780
+And she <font color="#00ff00">got</font> right to the top,
+
+517
+00:02:55,780 --> 00:02:56,020
+And she got <font color="#00ff00">right</font> to the top,
+
+518
+00:02:56,020 --> 00:02:56,240
+And she got right <font color="#00ff00">to</font> the top,
+
+519
+00:02:56,240 --> 00:02:56,340
+And she got right to <font color="#00ff00">the</font> top,
+
+520
+00:02:56,340 --> 00:02:56,640
+And she got right to the <font color="#00ff00">top,</font>
+
+521
+00:02:57,100 --> 00:02:57,200
+<font color="#00ff00">the</font> world's most sought-after multi-p percussionist with a mastery of some thousand instruments and hectic international schedule.
+
+522
+00:02:57,200 --> 00:02:57,620
+the <font color="#00ff00">world's</font> most sought-after multi-p percussionist with a mastery of some thousand instruments and hectic international schedule.
+
+523
+00:02:57,620 --> 00:02:57,800
+the world's <font color="#00ff00">most</font> sought-after multi-p percussionist with a mastery of some thousand instruments and hectic international schedule.
+
+524
+00:02:57,800 --> 00:02:58,160
+the world's most <font color="#00ff00">sought</font>-after multi-p percussionist with a mastery of some thousand instruments and hectic international schedule.
+
+525
+00:02:58,160 --> 00:02:58,540
+the world's most sought<font color="#00ff00">-after</font> multi-p percussionist with a mastery of some thousand instruments and hectic international schedule.
+
+526
+00:02:58,540 --> 00:02:58,920
+the world's most sought-after <font color="#00ff00">multi</font>-p percussionist with a mastery of some thousand instruments and hectic international schedule.
+
+527
+00:02:58,920 --> 00:02:59,080
+the world's most sought-after multi<font color="#00ff00">-p</font> percussionist with a mastery of some thousand instruments and hectic international schedule.
+
+528
+00:02:59,080 --> 00:02:59,180
+the world's most sought-after multi-p percussionist with a mastery of some thousand instruments and hectic international schedule.
+
+529
+00:02:59,180 --> 00:02:59,600
+the world's most sought-after multi-p <font color="#00ff00">percussionist</font> with a mastery of some thousand instruments and hectic international schedule.
+
+530
+00:02:59,600 --> 00:02:59,760
+the world's most sought-after multi-p percussionist <font color="#00ff00">with</font> a mastery of some thousand instruments and hectic international schedule.
+
+531
+00:02:59,760 --> 00:02:59,840
+the world's most sought-after multi-p percussionist with <font color="#00ff00">a</font> mastery of some thousand instruments and hectic international schedule.
+
+532
+00:02:59,840 --> 00:03:00,260
+the world's most sought-after multi-p percussionist with a <font color="#00ff00">mastery</font> of some thousand instruments and hectic international schedule.
+
+533
+00:03:00,260 --> 00:03:00,460
+the world's most sought-after multi-p percussionist with a mastery <font color="#00ff00">of</font> some thousand instruments and hectic international schedule.
+
+534
+00:03:00,460 --> 00:03:00,680
+the world's most sought-after multi-p percussionist with a mastery of <font color="#00ff00">some</font> thousand instruments and hectic international schedule.
+
+535
+00:03:00,680 --> 00:03:01,260
+the world's most sought-after multi-p percussionist with a mastery of some <font color="#00ff00">thousand</font> instruments and hectic international schedule.
+
+536
+00:03:01,260 --> 00:03:01,800
+the world's most sought-after multi-p percussionist with a mastery of some thousand <font color="#00ff00">instruments</font> and hectic international schedule.
+
+537
+00:03:01,800 --> 00:03:02,440
+the world's most sought-after multi-p percussionist with a mastery of some thousand instruments <font color="#00ff00">and</font> hectic international schedule.
+
+538
+00:03:02,440 --> 00:03:02,840
+the world's most sought-after multi-p percussionist with a mastery of some thousand instruments and <font color="#00ff00">hectic</font> international schedule.
+
+539
+00:03:02,840 --> 00:03:03,100
+the world's most sought-after multi-p percussionist with a mastery of some thousand instruments and hectic international schedule.
+
+540
+00:03:03,100 --> 00:03:03,580
+the world's most sought-after multi-p percussionist with a mastery of some thousand instruments and hectic <font color="#00ff00">international</font> schedule.
+
+541
+00:03:03,580 --> 00:03:04,240
+the world's most sought-after multi-p percussionist with a mastery of some thousand instruments and hectic international <font color="#00ff00">schedule.</font>
+
+542
+00:03:04,980 --> 00:03:05,080
+<font color="#00ff00">It</font> is intriguing to watch Evelyn function so effortlessly without hearing.
+
+543
+00:03:05,080 --> 00:03:05,220
+It <font color="#00ff00">is</font> intriguing to watch Evelyn function so effortlessly without hearing.
+
+544
+00:03:05,220 --> 00:03:05,700
+It is <font color="#00ff00">intriguing</font> to watch Evelyn function so effortlessly without hearing.
+
+545
+00:03:05,700 --> 00:03:06,060
+It is intriguing <font color="#00ff00">to</font> watch Evelyn function so effortlessly without hearing.
+
+546
+00:03:06,060 --> 00:03:06,320
+It is intriguing to <font color="#00ff00">watch</font> Evelyn function so effortlessly without hearing.
+
+547
+00:03:06,320 --> 00:03:06,680
+It is intriguing to watch Evelyn function so effortlessly without hearing.
+
+548
+00:03:06,680 --> 00:03:06,780
+It is intriguing to watch <font color="#00ff00">Evelyn</font> function so effortlessly without hearing.
+
+549
+00:03:06,780 --> 00:03:06,800
+It is intriguing to watch Evelyn function so effortlessly without hearing.
+
+550
+00:03:06,800 --> 00:03:07,260
+It is intriguing to watch Evelyn <font color="#00ff00">function</font> so effortlessly without hearing.
+
+551
+00:03:07,260 --> 00:03:07,760
+It is intriguing to watch Evelyn function <font color="#00ff00">so</font> effortlessly without hearing.
+
+552
+00:03:07,760 --> 00:03:08,360
+It is intriguing to watch Evelyn function so <font color="#00ff00">effortlessly</font> without hearing.
+
+553
+00:03:08,360 --> 00:03:08,420
+It is intriguing to watch Evelyn function so effortlessly without hearing.
+
+554
+00:03:08,420 --> 00:03:08,780
+It is intriguing to watch Evelyn function so effortlessly <font color="#00ff00">without</font> hearing.
+
+555
+00:03:08,780 --> 00:03:09,400
+It is intriguing to watch Evelyn function so effortlessly without <font color="#00ff00">hearing.</font>
+
+556
+00:03:10,000 --> 00:03:10,100
+<font color="#00ff00">In</font> our two-hour discussion,
+
+557
+00:03:10,100 --> 00:03:10,240
+In <font color="#00ff00">our</font> two-hour discussion,
+
+558
+00:03:10,240 --> 00:03:10,460
+In our <font color="#00ff00">two</font>-hour discussion,
+
+559
+00:03:10,460 --> 00:03:10,720
+In our two<font color="#00ff00">-hour</font> discussion,
+
+560
+00:03:10,720 --> 00:03:11,260
+In our two-hour <font color="#00ff00">discussion,</font>
+
+561
+00:03:11,720 --> 00:03:11,840
+<font color="#00ff00">she</font> never missed a word.
+
+562
+00:03:11,840 --> 00:03:12,220
+she <font color="#00ff00">never</font> missed a word.
+
+563
+00:03:12,220 --> 00:03:12,480
+she never <font color="#00ff00">missed</font> a word.
+
+564
+00:03:12,480 --> 00:03:12,680
+she never missed <font color="#00ff00">a</font> word.
+
+565
+00:03:12,680 --> 00:03:13,160
+she never missed a <font color="#00ff00">word.</font>
+
+566
+00:03:14,100 --> 00:03:14,320
+<font color="#00ff00">"Men</font> with bushy beards give me trouble," she laughed.
+
+567
+00:03:14,320 --> 00:03:14,580
+"Men <font color="#00ff00">with</font> bushy beards give me trouble," she laughed.
+
+568
+00:03:14,580 --> 00:03:14,920
+"Men with <font color="#00ff00">bushy</font> beards give me trouble," she laughed.
+
+569
+00:03:14,920 --> 00:03:15,340
+"Men with bushy <font color="#00ff00">beards</font> give me trouble," she laughed.
+
+570
+00:03:15,340 --> 00:03:15,400
+"Men with bushy beards give me trouble," she laughed.
+
+571
+00:03:15,400 --> 00:03:15,500
+"Men with bushy beards <font color="#00ff00">give</font> me trouble," she laughed.
+
+572
+00:03:15,500 --> 00:03:15,680
+"Men with bushy beards give <font color="#00ff00">me</font> trouble," she laughed.
+
+573
+00:03:15,680 --> 00:03:16,140
+"Men with bushy beards give me <font color="#00ff00">trouble,"</font> she laughed.
+
+574
+00:03:16,140 --> 00:03:16,360
+"Men with bushy beards give me trouble," <font color="#00ff00">she</font> laughed.
+
+575
+00:03:16,360 --> 00:03:16,640
+"Men with bushy beards give me trouble," she <font color="#00ff00">laughed.</font>
+
+576
+00:03:17,120 --> 00:03:17,220
+<font color="#00ff00">"It</font> is not just watching the lips,
+
+577
+00:03:17,220 --> 00:03:17,360
+"It <font color="#00ff00">is</font> not just watching the lips,
+
+578
+00:03:17,360 --> 00:03:17,600
+"It is <font color="#00ff00">not</font> just watching the lips,
+
+579
+00:03:17,600 --> 00:03:17,840
+"It is not <font color="#00ff00">just</font> watching the lips,
+
+580
+00:03:17,840 --> 00:03:18,020
+"It is not just watching the lips,
+
+581
+00:03:18,020 --> 00:03:18,240
+"It is not just <font color="#00ff00">watching</font> the lips,
+
+582
+00:03:18,240 --> 00:03:18,420
+"It is not just watching <font color="#00ff00">the</font> lips,
+
+583
+00:03:18,420 --> 00:03:18,660
+"It is not just watching the <font color="#00ff00">lips,</font>
+
+584
+00:03:18,860 --> 00:03:19,080
+<font color="#00ff00">it's</font> the whole face,
+
+585
+00:03:19,080 --> 00:03:19,200
+it's <font color="#00ff00">the</font> whole face,
+
+586
+00:03:19,200 --> 00:03:19,300
+it's the whole face,
+
+587
+00:03:19,300 --> 00:03:19,440
+it's the <font color="#00ff00">whole</font> face,
+
+588
+00:03:19,440 --> 00:03:19,600
+it's the whole <font color="#00ff00">face,</font>
+
+589
+00:03:20,140 --> 00:03:20,560
+<font color="#00ff00">especially</font> the eyes."
+
+590
+00:03:20,560 --> 00:03:20,960
+especially <font color="#00ff00">the</font> eyes."
+
+591
+00:03:20,960 --> 00:03:21,320
+especially the <font color="#00ff00">eyes."</font>
+
+592
+00:03:21,840 --> 00:03:21,940
+<font color="#00ff00">She</font> speaks flawlessly with a Scottish lilt.
+
+593
+00:03:21,940 --> 00:03:22,280
+She <font color="#00ff00">speaks</font> flawlessly with a Scottish lilt.
+
+594
+00:03:22,280 --> 00:03:22,400
+She speaks flawlessly with a Scottish lilt.
+
+595
+00:03:22,400 --> 00:03:22,820
+She speaks <font color="#00ff00">flawlessly</font> with a Scottish lilt.
+
+596
+00:03:22,820 --> 00:03:23,060
+She speaks flawlessly <font color="#00ff00">with</font> a Scottish lilt.
+
+597
+00:03:23,060 --> 00:03:23,140
+She speaks flawlessly with <font color="#00ff00">a</font> Scottish lilt.
+
+598
+00:03:23,140 --> 00:03:23,440
+She speaks flawlessly with a <font color="#00ff00">Scottish</font> lilt.
+
+599
+00:03:23,440 --> 00:03:23,740
+She speaks flawlessly with a Scottish <font color="#00ff00">lilt.</font>
+
+600
+00:03:24,460 --> 00:03:24,560
+<font color="#00ff00">My</font> speech is clear because I could hear till I was 11.
+
+601
+00:03:24,560 --> 00:03:24,860
+My <font color="#00ff00">speech</font> is clear because I could hear till I was 11.
+
+602
+00:03:24,860 --> 00:03:25,200
+My speech <font color="#00ff00">is</font> clear because I could hear till I was 11.
+
+603
+00:03:25,200 --> 00:03:25,480
+My speech is <font color="#00ff00">clear</font> because I could hear till I was 11.
+
+604
+00:03:25,480 --> 00:03:25,880
+My speech is clear <font color="#00ff00">because</font> I could hear till I was 11.
+
+605
+00:03:25,880 --> 00:03:26,040
+My speech is clear because I could hear till I was 11.
+
+606
+00:03:26,040 --> 00:03:26,200
+My speech is clear because <font color="#00ff00">I</font> could hear till I was 11.
+
+607
+00:03:26,200 --> 00:03:26,380
+My speech is clear because I <font color="#00ff00">could</font> hear till I was 11.
+
+608
+00:03:26,380 --> 00:03:26,480
+My speech is clear because I could hear till I was 11.
+
+609
+00:03:26,480 --> 00:03:26,640
+My speech is clear because I could <font color="#00ff00">hear</font> till I was 11.
+
+610
+00:03:26,640 --> 00:03:26,800
+My speech is clear because I could hear <font color="#00ff00">till</font> I was 11.
+
+611
+00:03:26,800 --> 00:03:26,960
+My speech is clear because I could hear till <font color="#00ff00">I</font> was 11.
+
+612
+00:03:26,960 --> 00:03:27,020
+My speech is clear because I could hear till I was 11.
+
+613
+00:03:27,020 --> 00:03:27,120
+My speech is clear because I could hear till I <font color="#00ff00">was</font> 11.
+
+614
+00:03:27,120 --> 00:03:27,640
+My speech is clear because I could hear till I was <font color="#00ff00">11.</font>
+
+615
+00:03:28,060 --> 00:03:28,160
+<font color="#00ff00">She</font> says,
+
+616
+00:03:28,160 --> 00:03:28,420
+She <font color="#00ff00">says,</font>
+
+617
+00:03:28,740 --> 00:03:28,960
+<font color="#00ff00">"But</font> that doesn't explain how she managed to learn French and master basic Japanese.
+
+618
+00:03:28,960 --> 00:03:29,040
+"But that doesn't explain how she managed to learn French and master basic Japanese.
+
+619
+00:03:29,040 --> 00:03:29,180
+"But <font color="#00ff00">that</font> doesn't explain how she managed to learn French and master basic Japanese.
+
+620
+00:03:29,180 --> 00:03:29,480
+"But that <font color="#00ff00">doesn't</font> explain how she managed to learn French and master basic Japanese.
+
+621
+00:03:29,480 --> 00:03:29,860
+"But that doesn't <font color="#00ff00">explain</font> how she managed to learn French and master basic Japanese.
+
+622
+00:03:29,860 --> 00:03:30,320
+"But that doesn't explain <font color="#00ff00">how</font> she managed to learn French and master basic Japanese.
+
+623
+00:03:30,320 --> 00:03:30,520
+"But that doesn't explain how <font color="#00ff00">she</font> managed to learn French and master basic Japanese.
+
+624
+00:03:30,520 --> 00:03:30,820
+"But that doesn't explain how she <font color="#00ff00">managed</font> to learn French and master basic Japanese.
+
+625
+00:03:30,820 --> 00:03:31,060
+"But that doesn't explain how she managed <font color="#00ff00">to</font> learn French and master basic Japanese.
+
+626
+00:03:31,060 --> 00:03:31,220
+"But that doesn't explain how she managed to <font color="#00ff00">learn</font> French and master basic Japanese.
+
+627
+00:03:31,220 --> 00:03:31,520
+"But that doesn't explain how she managed to learn <font color="#00ff00">French</font> and master basic Japanese.
+
+628
+00:03:31,520 --> 00:03:31,940
+"But that doesn't explain how she managed to learn French <font color="#00ff00">and</font> master basic Japanese.
+
+629
+00:03:31,940 --> 00:03:32,300
+"But that doesn't explain how she managed to learn French and <font color="#00ff00">master</font> basic Japanese.
+
+630
+00:03:32,300 --> 00:03:32,500
+"But that doesn't explain how she managed to learn French and master basic Japanese.
+
+631
+00:03:32,500 --> 00:03:32,720
+"But that doesn't explain how she managed to learn French and master <font color="#00ff00">basic</font> Japanese.
+
+632
+00:03:32,720 --> 00:03:33,380
+"But that doesn't explain how she managed to learn French and master basic <font color="#00ff00">Japanese.</font>
+
+633
+00:03:33,920 --> 00:03:34,040
+<font color="#00ff00">As</font> for music,
+
+634
+00:03:34,040 --> 00:03:34,200
+As <font color="#00ff00">for</font> music,
+
+635
+00:03:34,200 --> 00:03:34,600
+As for <font color="#00ff00">music,</font>
+
+636
+00:03:34,980 --> 00:03:35,160
+<font color="#00ff00">she</font> explains,
+
+637
+00:03:35,160 --> 00:03:35,780
+she <font color="#00ff00">explains,</font>
+
+638
+00:03:36,180 --> 00:03:36,320
+<font color="#00ff00">it</font> pours in through every part of my body.
+
+639
+00:03:36,320 --> 00:03:36,540
+it pours in through every part of my body.
+
+640
+00:03:36,540 --> 00:03:36,900
+it <font color="#00ff00">pours</font> in through every part of my body.
+
+641
+00:03:36,900 --> 00:03:37,040
+it pours <font color="#00ff00">in</font> through every part of my body.
+
+642
+00:03:37,040 --> 00:03:37,280
+it pours in <font color="#00ff00">through</font> every part of my body.
+
+643
+00:03:37,280 --> 00:03:37,480
+it pours in through every part of my body.
+
+644
+00:03:37,480 --> 00:03:37,800
+it pours in through <font color="#00ff00">every</font> part of my body.
+
+645
+00:03:37,800 --> 00:03:38,140
+it pours in through every <font color="#00ff00">part</font> of my body.
+
+646
+00:03:38,140 --> 00:03:38,340
+it pours in through every part <font color="#00ff00">of</font> my body.
+
+647
+00:03:38,340 --> 00:03:38,420
+it pours in through every part of my body.
+
+648
+00:03:38,420 --> 00:03:38,540
+it pours in through every part of <font color="#00ff00">my</font> body.
+
+649
+00:03:38,540 --> 00:03:39,000
+it pours in through every part of my <font color="#00ff00">body.</font>
+
+650
+00:03:39,460 --> 00:03:39,660
+<font color="#00ff00">It</font> tingles in the skin,
+
+651
+00:03:39,660 --> 00:03:39,860
+It tingles in the skin,
+
+652
+00:03:39,860 --> 00:03:40,240
+It <font color="#00ff00">tingles</font> in the skin,
+
+653
+00:03:40,240 --> 00:03:40,360
+It tingles in the skin,
+
+654
+00:03:40,360 --> 00:03:40,460
+It tingles <font color="#00ff00">in</font> the skin,
+
+655
+00:03:40,460 --> 00:03:40,580
+It tingles in the skin,
+
+656
+00:03:40,580 --> 00:03:40,620
+It tingles in <font color="#00ff00">the</font> skin,
+
+657
+00:03:40,620 --> 00:03:41,080
+It tingles in the <font color="#00ff00">skin,</font>
+
+658
+00:03:41,360 --> 00:03:41,460
+<font color="#00ff00">my</font> cheekbones and even in my hair."
+
+659
+00:03:41,460 --> 00:03:42,000
+my <font color="#00ff00">cheekbones</font> and even in my hair."
+
+660
+00:03:42,000 --> 00:03:42,240
+my cheekbones <font color="#00ff00">and</font> even in my hair."
+
+661
+00:03:42,240 --> 00:03:42,860
+my cheekbones and <font color="#00ff00">even</font> in my hair."
+
+662
+00:03:42,860 --> 00:03:43,160
+my cheekbones and even <font color="#00ff00">in</font> my hair."
+
+663
+00:03:43,160 --> 00:03:43,400
+my cheekbones and even in <font color="#00ff00">my</font> hair."
+
+664
+00:03:43,400 --> 00:03:43,820
+my cheekbones and even in my <font color="#00ff00">hair."</font>
+
+665
+00:03:44,760 --> 00:03:44,860
+<font color="#00ff00">When</font> she plays the xylophone,
+
+666
+00:03:44,860 --> 00:03:45,040
+When <font color="#00ff00">she</font> plays the xylophone,
+
+667
+00:03:45,040 --> 00:03:45,300
+When she <font color="#00ff00">plays</font> the xylophone,
+
+668
+00:03:45,300 --> 00:03:45,540
+When she plays <font color="#00ff00">the</font> xylophone,
+
+669
+00:03:45,540 --> 00:03:46,260
+When she plays the <font color="#00ff00">xylophone,</font>
+
+670
+00:03:46,540 --> 00:03:46,640
+<font color="#00ff00">she</font> can sense the sound passing up the stick into her fingertips.
+
+671
+00:03:46,640 --> 00:03:46,820
+she <font color="#00ff00">can</font> sense the sound passing up the stick into her fingertips.
+
+672
+00:03:46,820 --> 00:03:47,060
+she can <font color="#00ff00">sense</font> the sound passing up the stick into her fingertips.
+
+673
+00:03:47,060 --> 00:03:47,360
+she can sense <font color="#00ff00">the</font> sound passing up the stick into her fingertips.
+
+674
+00:03:47,360 --> 00:03:47,740
+she can sense the <font color="#00ff00">sound</font> passing up the stick into her fingertips.
+
+675
+00:03:47,740 --> 00:03:48,240
+she can sense the sound <font color="#00ff00">passing</font> up the stick into her fingertips.
+
+676
+00:03:48,240 --> 00:03:48,440
+she can sense the sound passing <font color="#00ff00">up</font> the stick into her fingertips.
+
+677
+00:03:48,440 --> 00:03:48,580
+she can sense the sound passing up <font color="#00ff00">the</font> stick into her fingertips.
+
+678
+00:03:48,580 --> 00:03:48,860
+she can sense the sound passing up the <font color="#00ff00">stick</font> into her fingertips.
+
+679
+00:03:48,860 --> 00:03:49,100
+she can sense the sound passing up the stick into her fingertips.
+
+680
+00:03:49,100 --> 00:03:49,240
+she can sense the sound passing up the stick <font color="#00ff00">into</font> her fingertips.
+
+681
+00:03:49,240 --> 00:03:49,460
+she can sense the sound passing up the stick into <font color="#00ff00">her</font> fingertips.
+
+682
+00:03:49,460 --> 00:03:49,820
+she can sense the sound passing up the stick into her <font color="#00ff00">fingertips.</font>
+
+683
+00:03:50,860 --> 00:03:50,960
+<font color="#00ff00">By</font> leaning against the drums,
+
+684
+00:03:50,960 --> 00:03:51,240
+By <font color="#00ff00">leaning</font> against the drums,
+
+685
+00:03:51,240 --> 00:03:51,580
+By leaning <font color="#00ff00">against</font> the drums,
+
+686
+00:03:51,580 --> 00:03:51,880
+By leaning against <font color="#00ff00">the</font> drums,
+
+687
+00:03:51,880 --> 00:03:52,420
+By leaning against the <font color="#00ff00">drums,</font>
+
+688
+00:03:52,420 --> 00:03:52,540
+<font color="#00ff00">she</font> can feel the resonances flowing into her body.
+
+689
+00:03:52,540 --> 00:03:52,680
+she <font color="#00ff00">can</font> feel the resonances flowing into her body.
+
+690
+00:03:52,680 --> 00:03:52,900
+she can <font color="#00ff00">feel</font> the resonances flowing into her body.
+
+691
+00:03:52,900 --> 00:03:53,100
+she can feel <font color="#00ff00">the</font> resonances flowing into her body.
+
+692
+00:03:53,100 --> 00:03:53,660
+she can feel the <font color="#00ff00">resonances</font> flowing into her body.
+
+693
+00:03:53,660 --> 00:03:54,080
+she can feel the resonances <font color="#00ff00">flowing</font> into her body.
+
+694
+00:03:54,080 --> 00:03:54,580
+she can feel the resonances flowing <font color="#00ff00">into</font> her body.
+
+695
+00:03:54,580 --> 00:03:54,960
+she can feel the resonances flowing into <font color="#00ff00">her</font> body.
+
+696
+00:03:54,960 --> 00:03:55,360
+she can feel the resonances flowing into her <font color="#00ff00">body.</font>
+
+697
+00:03:55,680 --> 00:03:55,780
+<font color="#00ff00">On</font> a wooden platform,
+
+698
+00:03:55,780 --> 00:03:55,860
+On <font color="#00ff00">a</font> wooden platform,
+
+699
+00:03:55,860 --> 00:03:56,060
+On a <font color="#00ff00">wooden</font> platform,
+
+700
+00:03:56,060 --> 00:03:56,660
+On a wooden <font color="#00ff00">platform,</font>
+
+701
+00:03:56,660 --> 00:03:56,800
+<font color="#00ff00">she</font> removes her shoes so that the vibrations pass through her bare feet
+
+702
+00:03:56,800 --> 00:03:57,120
+she <font color="#00ff00">removes</font> her shoes so that the vibrations pass through her bare feet
+
+703
+00:03:57,120 --> 00:03:57,440
+she removes <font color="#00ff00">her</font> shoes so that the vibrations pass through her bare feet
+
+704
+00:03:57,440 --> 00:03:57,760
+she removes her <font color="#00ff00">shoes</font> so that the vibrations pass through her bare feet
+
+705
+00:03:57,760 --> 00:03:58,060
+she removes her shoes <font color="#00ff00">so</font> that the vibrations pass through her bare feet
+
+706
+00:03:58,060 --> 00:03:58,200
+she removes her shoes so <font color="#00ff00">that</font> the vibrations pass through her bare feet
+
+707
+00:03:58,200 --> 00:03:58,340
+she removes her shoes so that <font color="#00ff00">the</font> vibrations pass through her bare feet
+
+708
+00:03:58,340 --> 00:03:58,440
+she removes her shoes so that the vibrations pass through her bare feet
+
+709
+00:03:58,440 --> 00:03:58,860
+she removes her shoes so that the <font color="#00ff00">vibrations</font> pass through her bare feet
+
+710
+00:03:58,860 --> 00:03:59,260
+she removes her shoes so that the vibrations <font color="#00ff00">pass</font> through her bare feet
+
+711
+00:03:59,260 --> 00:03:59,620
+she removes her shoes so that the vibrations pass <font color="#00ff00">through</font> her bare feet
+
+712
+00:03:59,620 --> 00:03:59,800
+she removes her shoes so that the vibrations pass through <font color="#00ff00">her</font> bare feet
+
+713
+00:03:59,800 --> 00:04:00,000
+she removes her shoes so that the vibrations pass through her <font color="#00ff00">bare</font> feet
+
+714
+00:04:00,000 --> 00:04:00,280
+she removes her shoes so that the vibrations pass through her bare <font color="#00ff00">feet</font>
+
+715
+00:04:00,800 --> 00:04:00,900
+<font color="#00ff00">and</font> up her legs.
+
+716
+00:04:00,900 --> 00:04:01,060
+and <font color="#00ff00">up</font> her legs.
+
+717
+00:04:01,060 --> 00:04:01,180
+and up her legs.
+
+718
+00:04:01,180 --> 00:04:01,280
+and up <font color="#00ff00">her</font> legs.
+
+719
+00:04:01,280 --> 00:04:01,520
+and up her <font color="#00ff00">legs.</font>
+
+720
+00:04:02,580 --> 00:04:02,720
+<font color="#00ff00">Not</font> surprisingly,
+
+721
+00:04:02,720 --> 00:04:03,720
+Not <font color="#00ff00">surprisingly,</font>
+
+722
+00:04:04,140 --> 00:04:04,500
+<font color="#00ff00">Evelyn</font> delights her audiences.
+
+723
+00:04:04,500 --> 00:04:05,040
+Evelyn <font color="#00ff00">delights</font> her audiences.
+
+724
+00:04:05,040 --> 00:04:05,140
+Evelyn delights her audiences.
+
+725
+00:04:05,140 --> 00:04:05,300
+Evelyn delights <font color="#00ff00">her</font> audiences.
+
+726
+00:04:05,300 --> 00:04:06,040
+Evelyn delights her <font color="#00ff00">audiences.</font>
+
+727
+00:04:06,860 --> 00:04:06,960
+<font color="#00ff00">In</font> 1991, she was presented with the Royal Philharmonic Society's prestigious soloist of the Year Award.
+
+728
+00:04:06,960 --> 00:04:08,260
+In <font color="#00ff00">1991,</font> she was presented with the Royal Philharmonic Society's prestigious soloist of the Year Award.
+
+729
+00:04:08,260 --> 00:04:08,340
+In 1991, <font color="#00ff00">she</font> was presented with the Royal Philharmonic Society's prestigious soloist of the Year Award.
+
+730
+00:04:08,340 --> 00:04:08,500
+In 1991, she <font color="#00ff00">was</font> presented with the Royal Philharmonic Society's prestigious soloist of the Year Award.
+
+731
+00:04:08,500 --> 00:04:08,700
+In 1991, she was presented with the Royal Philharmonic Society's prestigious soloist of the Year Award.
+
+732
+00:04:08,700 --> 00:04:08,980
+In 1991, she was <font color="#00ff00">presented</font> with the Royal Philharmonic Society's prestigious soloist of the Year Award.
+
+733
+00:04:08,980 --> 00:04:09,180
+In 1991, she was presented <font color="#00ff00">with</font> the Royal Philharmonic Society's prestigious soloist of the Year Award.
+
+734
+00:04:09,180 --> 00:04:09,320
+In 1991, she was presented with <font color="#00ff00">the</font> Royal Philharmonic Society's prestigious soloist of the Year Award.
+
+735
+00:04:09,320 --> 00:04:09,660
+In 1991, she was presented with the <font color="#00ff00">Royal</font> Philharmonic Society's prestigious soloist of the Year Award.
+
+736
+00:04:09,660 --> 00:04:10,440
+In 1991, she was presented with the Royal <font color="#00ff00">Philharmonic</font> Society's prestigious soloist of the Year Award.
+
+737
+00:04:10,440 --> 00:04:11,260
+In 1991, she was presented with the Royal Philharmonic <font color="#00ff00">Society's</font> prestigious soloist of the Year Award.
+
+738
+00:04:11,260 --> 00:04:11,620
+In 1991, she was presented with the Royal Philharmonic Society's prestigious soloist of the Year Award.
+
+739
+00:04:11,620 --> 00:04:11,780
+In 1991, she was presented with the Royal Philharmonic Society's <font color="#00ff00">prestigious</font> soloist of the Year Award.
+
+740
+00:04:11,780 --> 00:04:12,660
+In 1991, she was presented with the Royal Philharmonic Society's prestigious <font color="#00ff00">soloist</font> of the Year Award.
+
+741
+00:04:12,660 --> 00:04:12,800
+In 1991, she was presented with the Royal Philharmonic Society's prestigious soloist <font color="#00ff00">of</font> the Year Award.
+
+742
+00:04:12,800 --> 00:04:12,900
+In 1991, she was presented with the Royal Philharmonic Society's prestigious soloist of <font color="#00ff00">the</font> Year Award.
+
+743
+00:04:12,900 --> 00:04:13,160
+In 1991, she was presented with the Royal Philharmonic Society's prestigious soloist of the <font color="#00ff00">Year</font> Award.
+
+744
+00:04:13,160 --> 00:04:13,560
+In 1991, she was presented with the Royal Philharmonic Society's prestigious soloist of the Year <font color="#00ff00">Award.</font>
+
+745
+00:04:14,340 --> 00:04:14,440
+<font color="#00ff00">Says</font> Master percussionist James Blades,
+
+746
+00:04:14,440 --> 00:04:14,640
+Says Master percussionist James Blades,
+
+747
+00:04:14,640 --> 00:04:14,880
+Says <font color="#00ff00">Master</font> percussionist James Blades,
+
+748
+00:04:14,880 --> 00:04:15,460
+Says Master <font color="#00ff00">percussionist</font> James Blades,
+
+749
+00:04:15,460 --> 00:04:15,840
+Says Master percussionist <font color="#00ff00">James</font> Blades,
+
+750
+00:04:15,840 --> 00:04:16,280
+Says Master percussionist James <font color="#00ff00">Blades,</font>
+
+751
+00:04:16,800 --> 00:04:16,920
+<font color="#00ff00">"God</font> may have taken her hearing,
+
+752
+00:04:16,920 --> 00:04:17,160
+"God <font color="#00ff00">may</font> have taken her hearing,
+
+753
+00:04:17,160 --> 00:04:17,300
+"God may <font color="#00ff00">have</font> taken her hearing,
+
+754
+00:04:17,300 --> 00:04:17,640
+"God may have <font color="#00ff00">taken</font> her hearing,
+
+755
+00:04:17,640 --> 00:04:17,860
+"God may have taken <font color="#00ff00">her</font> hearing,
+
+756
+00:04:17,860 --> 00:04:18,400
+"God may have taken her <font color="#00ff00">hearing,</font>
+
+757
+00:04:18,400 --> 00:04:18,500
+<font color="#00ff00">but</font> he has given her back something extraordinary.
+
+758
+00:04:18,500 --> 00:04:18,700
+but <font color="#00ff00">he</font> has given her back something extraordinary.
+
+759
+00:04:18,700 --> 00:04:18,900
+but he <font color="#00ff00">has</font> given her back something extraordinary.
+
+760
+00:04:18,900 --> 00:04:19,160
+but he has <font color="#00ff00">given</font> her back something extraordinary.
+
+761
+00:04:19,160 --> 00:04:19,400
+but he has given <font color="#00ff00">her</font> back something extraordinary.
+
+762
+00:04:19,400 --> 00:04:19,540
+but he has given her back something extraordinary.
+
+763
+00:04:19,540 --> 00:04:19,640
+but he has given her <font color="#00ff00">back</font> something extraordinary.
+
+764
+00:04:19,640 --> 00:04:20,120
+but he has given her back <font color="#00ff00">something</font> extraordinary.
+
+765
+00:04:20,120 --> 00:04:21,140
+but he has given her back something <font color="#00ff00">extraordinary.</font>
+
+766
+00:04:21,900 --> 00:04:22,040
+<font color="#00ff00">What</font> we hear,
+
+767
+00:04:22,040 --> 00:04:22,200
+What <font color="#00ff00">we</font> hear,
+
+768
+00:04:22,200 --> 00:04:22,560
+What we <font color="#00ff00">hear,</font>
+
+769
+00:04:23,180 --> 00:04:23,280
+<font color="#00ff00">she</font> feels.
+
+770
+00:04:23,280 --> 00:04:23,820
+she <font color="#00ff00">feels.</font>
+
+771
+00:04:24,780 --> 00:04:24,940
+<font color="#00ff00">Far</font> more deeply than any of us.
+
+772
+00:04:24,940 --> 00:04:25,140
+Far <font color="#00ff00">more</font> deeply than any of us.
+
+773
+00:04:25,140 --> 00:04:25,440
+Far more <font color="#00ff00">deeply</font> than any of us.
+
+774
+00:04:25,440 --> 00:04:25,540
+Far more deeply than any of us.
+
+775
+00:04:25,540 --> 00:04:26,060
+Far more deeply <font color="#00ff00">than</font> any of us.
+
+776
+00:04:26,060 --> 00:04:26,480
+Far more deeply than <font color="#00ff00">any</font> of us.
+
+777
+00:04:26,480 --> 00:04:26,600
+Far more deeply than any <font color="#00ff00">of</font> us.
+
+778
+00:04:26,600 --> 00:04:26,760
+Far more deeply than any of <font color="#00ff00">us.</font>
+
+779
+00:04:27,600 --> 00:04:27,700
+<font color="#00ff00">That</font> is why she expresses music so beautifully.
+
+780
+00:04:27,700 --> 00:04:27,820
+That <font color="#00ff00">is</font> why she expresses music so beautifully.
+
+781
+00:04:27,820 --> 00:04:28,040
+That is <font color="#00ff00">why</font> she expresses music so beautifully.
+
+782
+00:04:28,040 --> 00:04:28,240
+That is why <font color="#00ff00">she</font> expresses music so beautifully.
+
+783
+00:04:28,240 --> 00:04:28,600
+That is why she <font color="#00ff00">expresses</font> music so beautifully.
+
+784
+00:04:28,600 --> 00:04:28,980
+That is why she expresses <font color="#00ff00">music</font> so beautifully.
+
+785
+00:04:28,980 --> 00:04:29,360
+That is why she expresses music <font color="#00ff00">so</font> beautifully.
+
+786
+00:04:29,360 --> 00:04:29,820
+That is why she expresses music so <font color="#00ff00">beautifully.</font>
+
+787
+00:04:30,800 --> 00:04:31,100
+<font color="#00ff00">Evelyn</font> confesses that she is something of a worker-hollic.
+
+788
+00:04:31,100 --> 00:04:31,840
+Evelyn <font color="#00ff00">confesses</font> that she is something of a worker-hollic.
+
+789
+00:04:31,840 --> 00:04:32,000
+Evelyn confesses <font color="#00ff00">that</font> she is something of a worker-hollic.
+
+790
+00:04:32,000 --> 00:04:32,100
+Evelyn confesses that she is something of a worker-hollic.
+
+791
+00:04:32,100 --> 00:04:32,240
+Evelyn confesses that <font color="#00ff00">she</font> is something of a worker-hollic.
+
+792
+00:04:32,240 --> 00:04:32,360
+Evelyn confesses that she <font color="#00ff00">is</font> something of a worker-hollic.
+
+793
+00:04:32,360 --> 00:04:32,700
+Evelyn confesses that she is <font color="#00ff00">something</font> of a worker-hollic.
+
+794
+00:04:32,700 --> 00:04:32,900
+Evelyn confesses that she is something <font color="#00ff00">of</font> a worker-hollic.
+
+795
+00:04:32,900 --> 00:04:32,980
+Evelyn confesses that she is something of <font color="#00ff00">a</font> worker-hollic.
+
+796
+00:04:32,980 --> 00:04:33,260
+Evelyn confesses that she is something of a <font color="#00ff00">worker</font>-hollic.
+
+797
+00:04:33,260 --> 00:04:33,660
+Evelyn confesses that she is something of a worker<font color="#00ff00">-hollic.</font>
+
+798
+00:04:34,620 --> 00:04:34,780
+<font color="#00ff00">I've</font> just got to work,
+
+799
+00:04:34,780 --> 00:04:34,840
+I've just got to work,
+
+800
+00:04:34,840 --> 00:04:34,980
+I've <font color="#00ff00">just</font> got to work,
+
+801
+00:04:34,980 --> 00:04:35,200
+I've just <font color="#00ff00">got</font> to work,
+
+802
+00:04:35,200 --> 00:04:35,300
+I've just got to work,
+
+803
+00:04:35,300 --> 00:04:35,400
+I've just got <font color="#00ff00">to</font> work,
+
+804
+00:04:35,400 --> 00:04:35,700
+I've just got to <font color="#00ff00">work,</font>
+
+805
+00:04:36,240 --> 00:04:36,460
+<font color="#00ff00">often</font> harder than classical musicians,
+
+806
+00:04:36,460 --> 00:04:36,700
+often <font color="#00ff00">harder</font> than classical musicians,
+
+807
+00:04:36,700 --> 00:04:36,940
+often harder <font color="#00ff00">than</font> classical musicians,
+
+808
+00:04:36,940 --> 00:04:37,280
+often harder than <font color="#00ff00">classical</font> musicians,
+
+809
+00:04:37,280 --> 00:04:38,080
+often harder than classical <font color="#00ff00">musicians,</font>
+
+810
+00:04:38,620 --> 00:04:38,720
+<font color="#00ff00">but</font> the rewards are enormous.
+
+811
+00:04:38,720 --> 00:04:38,860
+but <font color="#00ff00">the</font> rewards are enormous.
+
+812
+00:04:38,860 --> 00:04:39,280
+but the <font color="#00ff00">rewards</font> are enormous.
+
+813
+00:04:39,280 --> 00:04:39,860
+but the rewards <font color="#00ff00">are</font> enormous.
+
+814
+00:04:39,860 --> 00:04:40,740
+but the rewards are <font color="#00ff00">enormous.</font>
+
+815
+00:04:42,440 --> 00:04:42,540
+<font color="#00ff00">Apart</font> from the regular concerts,
+
+816
+00:04:42,540 --> 00:04:42,820
+Apart <font color="#00ff00">from</font> the regular concerts,
+
+817
+00:04:42,820 --> 00:04:42,940
+Apart from <font color="#00ff00">the</font> regular concerts,
+
+818
+00:04:42,940 --> 00:04:43,260
+Apart from the <font color="#00ff00">regular</font> concerts,
+
+819
+00:04:43,260 --> 00:04:44,300
+Apart from the regular <font color="#00ff00">concerts,</font>
+
+820
+00:04:44,300 --> 00:04:44,560
+<font color="#00ff00">Evelyn</font> also gives free concerts in prisons and hospitals.
+
+821
+00:04:44,560 --> 00:04:45,060
+Evelyn <font color="#00ff00">also</font> gives free concerts in prisons and hospitals.
+
+822
+00:04:45,060 --> 00:04:45,340
+Evelyn also <font color="#00ff00">gives</font> free concerts in prisons and hospitals.
+
+823
+00:04:45,340 --> 00:04:45,680
+Evelyn also gives <font color="#00ff00">free</font> concerts in prisons and hospitals.
+
+824
+00:04:45,680 --> 00:04:46,180
+Evelyn also gives free <font color="#00ff00">concerts</font> in prisons and hospitals.
+
+825
+00:04:46,180 --> 00:04:46,420
+Evelyn also gives free concerts in prisons and hospitals.
+
+826
+00:04:46,420 --> 00:04:46,520
+Evelyn also gives free concerts <font color="#00ff00">in</font> prisons and hospitals.
+
+827
+00:04:46,520 --> 00:04:46,800
+Evelyn also gives free concerts in <font color="#00ff00">prisons</font> and hospitals.
+
+828
+00:04:46,800 --> 00:04:47,020
+Evelyn also gives free concerts in prisons <font color="#00ff00">and</font> hospitals.
+
+829
+00:04:47,020 --> 00:04:47,740
+Evelyn also gives free concerts in prisons and <font color="#00ff00">hospitals.</font>
+
+830
+00:04:48,620 --> 00:04:48,720
+<font color="#00ff00">She</font> also gives high priority to classes for young musicians.
+
+831
+00:04:48,720 --> 00:04:49,080
+She <font color="#00ff00">also</font> gives high priority to classes for young musicians.
+
+832
+00:04:49,080 --> 00:04:49,100
+She also gives high priority to classes for young musicians.
+
+833
+00:04:49,100 --> 00:04:49,340
+She also <font color="#00ff00">gives</font> high priority to classes for young musicians.
+
+834
+00:04:49,340 --> 00:04:49,660
+She also gives <font color="#00ff00">high</font> priority to classes for young musicians.
+
+835
+00:04:49,660 --> 00:04:50,200
+She also gives high <font color="#00ff00">priority</font> to classes for young musicians.
+
+836
+00:04:50,200 --> 00:04:50,400
+She also gives high priority <font color="#00ff00">to</font> classes for young musicians.
+
+837
+00:04:50,400 --> 00:04:50,500
+She also gives high priority to classes for young musicians.
+
+838
+00:04:50,500 --> 00:04:50,720
+She also gives high priority to <font color="#00ff00">classes</font> for young musicians.
+
+839
+00:04:50,720 --> 00:04:51,040
+She also gives high priority to classes <font color="#00ff00">for</font> young musicians.
+
+840
+00:04:51,040 --> 00:04:51,240
+She also gives high priority to classes for <font color="#00ff00">young</font> musicians.
+
+841
+00:04:51,240 --> 00:04:52,060
+She also gives high priority to classes for young <font color="#00ff00">musicians.</font>
+
+842
+00:04:52,640 --> 00:04:52,860
+<font color="#00ff00">Anne</font> Richland of the Beethoven Fund for Deaf Children says,
+
+843
+00:04:52,860 --> 00:04:53,320
+Anne <font color="#00ff00">Richland</font> of the Beethoven Fund for Deaf Children says,
+
+844
+00:04:53,320 --> 00:04:53,620
+Anne Richland <font color="#00ff00">of</font> the Beethoven Fund for Deaf Children says,
+
+845
+00:04:53,620 --> 00:04:53,760
+Anne Richland of <font color="#00ff00">the</font> Beethoven Fund for Deaf Children says,
+
+846
+00:04:53,760 --> 00:04:54,000
+Anne Richland of the Beethoven Fund for Deaf Children says,
+
+847
+00:04:54,000 --> 00:04:54,100
+Anne Richland of the <font color="#00ff00">Beethoven</font> Fund for Deaf Children says,
+
+848
+00:04:54,100 --> 00:04:54,560
+Anne Richland of the Beethoven Fund for Deaf Children says,
+
+849
+00:04:54,560 --> 00:04:54,720
+Anne Richland of the Beethoven <font color="#00ff00">Fund</font> for Deaf Children says,
+
+850
+00:04:54,720 --> 00:04:54,960
+Anne Richland of the Beethoven Fund <font color="#00ff00">for</font> Deaf Children says,
+
+851
+00:04:54,960 --> 00:04:55,000
+Anne Richland of the Beethoven Fund for Deaf Children says,
+
+852
+00:04:55,000 --> 00:04:55,120
+Anne Richland of the Beethoven Fund for <font color="#00ff00">Deaf</font> Children says,
+
+853
+00:04:55,120 --> 00:04:55,240
+Anne Richland of the Beethoven Fund for Deaf Children says,
+
+854
+00:04:55,240 --> 00:04:55,520
+Anne Richland of the Beethoven Fund for Deaf <font color="#00ff00">Children</font> says,
+
+855
+00:04:55,520 --> 00:04:56,660
+Anne Richland of the Beethoven Fund for Deaf Children <font color="#00ff00">says,</font>
+
+856
+00:04:56,660 --> 00:04:56,780
+<font color="#00ff00">"She</font> is a shining inspiration for Deaf children.
+
+857
+00:04:56,780 --> 00:04:56,960
+"She <font color="#00ff00">is</font> a shining inspiration for Deaf children.
+
+858
+00:04:56,960 --> 00:04:57,080
+"She is <font color="#00ff00">a</font> shining inspiration for Deaf children.
+
+859
+00:04:57,080 --> 00:04:57,580
+"She is a <font color="#00ff00">shining</font> inspiration for Deaf children.
+
+860
+00:04:57,580 --> 00:04:58,180
+"She is a shining <font color="#00ff00">inspiration</font> for Deaf children.
+
+861
+00:04:58,180 --> 00:04:58,620
+"She is a shining inspiration <font color="#00ff00">for</font> Deaf children.
+
+862
+00:04:58,620 --> 00:04:58,680
+"She is a shining inspiration for Deaf children.
+
+863
+00:04:58,680 --> 00:04:58,820
+"She is a shining inspiration for <font color="#00ff00">Deaf</font> children.
+
+864
+00:04:58,820 --> 00:04:59,440
+"She is a shining inspiration for Deaf <font color="#00ff00">children.</font>
+
+865
+00:04:59,940 --> 00:05:00,040
+<font color="#00ff00">They</font> see that there is nowhere that they cannot go."
+
+866
+00:05:00,040 --> 00:05:00,380
+They <font color="#00ff00">see</font> that there is nowhere that they cannot go."
+
+867
+00:05:00,380 --> 00:05:00,680
+They see <font color="#00ff00">that</font> there is nowhere that they cannot go."
+
+868
+00:05:00,680 --> 00:05:00,900
+They see that <font color="#00ff00">there</font> is nowhere that they cannot go."
+
+869
+00:05:00,900 --> 00:05:01,020
+They see that there is nowhere that they cannot go."
+
+870
+00:05:01,020 --> 00:05:01,220
+They see that there <font color="#00ff00">is</font> nowhere that they cannot go."
+
+871
+00:05:01,220 --> 00:05:01,700
+They see that there is <font color="#00ff00">nowhere</font> that they cannot go."
+
+872
+00:05:01,700 --> 00:05:02,020
+They see that there is nowhere <font color="#00ff00">that</font> they cannot go."
+
+873
+00:05:02,020 --> 00:05:02,260
+They see that there is nowhere that <font color="#00ff00">they</font> cannot go."
+
+874
+00:05:02,260 --> 00:05:02,600
+They see that there is nowhere that they <font color="#00ff00">cannot</font> go."
+
+875
+00:05:02,600 --> 00:05:03,100
+They see that there is nowhere that they cannot <font color="#00ff00">go."</font>
+
+876
+00:05:04,480 --> 00:05:04,800
+<font color="#00ff00">Evelyn</font> G Glenney has already accomplished more than most people twice her age.
+
+877
+00:05:04,800 --> 00:05:05,100
+Evelyn <font color="#00ff00">G</font> Glenney has already accomplished more than most people twice her age.
+
+878
+00:05:05,100 --> 00:05:05,360
+Evelyn G <font color="#00ff00">Glenney</font> has already accomplished more than most people twice her age.
+
+879
+00:05:05,360 --> 00:05:05,560
+Evelyn G Glenney <font color="#00ff00">has</font> already accomplished more than most people twice her age.
+
+880
+00:05:05,560 --> 00:05:05,900
+Evelyn G Glenney has <font color="#00ff00">already</font> accomplished more than most people twice her age.
+
+881
+00:05:05,900 --> 00:05:06,540
+Evelyn G Glenney has already <font color="#00ff00">accomplished</font> more than most people twice her age.
+
+882
+00:05:06,540 --> 00:05:06,620
+Evelyn G Glenney has already accomplished more than most people twice her age.
+
+883
+00:05:06,620 --> 00:05:06,840
+Evelyn G Glenney has already accomplished <font color="#00ff00">more</font> than most people twice her age.
+
+884
+00:05:06,840 --> 00:05:06,980
+Evelyn G Glenney has already accomplished more <font color="#00ff00">than</font> most people twice her age.
+
+885
+00:05:06,980 --> 00:05:07,320
+Evelyn G Glenney has already accomplished more than <font color="#00ff00">most</font> people twice her age.
+
+886
+00:05:07,320 --> 00:05:07,640
+Evelyn G Glenney has already accomplished more than most <font color="#00ff00">people</font> twice her age.
+
+887
+00:05:07,640 --> 00:05:08,020
+Evelyn G Glenney has already accomplished more than most people <font color="#00ff00">twice</font> her age.
+
+888
+00:05:08,020 --> 00:05:08,340
+Evelyn G Glenney has already accomplished more than most people twice <font color="#00ff00">her</font> age.
+
+889
+00:05:08,340 --> 00:05:08,820
+Evelyn G Glenney has already accomplished more than most people twice her <font color="#00ff00">age.</font>
+
+890
+00:05:09,360 --> 00:05:09,460
+<font color="#00ff00">She</font> has brought percussion to the front of the orchestra and demonstrated that it can be very moving.
+
+891
+00:05:09,460 --> 00:05:09,620
+She <font color="#00ff00">has</font> brought percussion to the front of the orchestra and demonstrated that it can be very moving.
+
+892
+00:05:09,620 --> 00:05:09,840
+She has <font color="#00ff00">brought</font> percussion to the front of the orchestra and demonstrated that it can be very moving.
+
+893
+00:05:09,840 --> 00:05:10,320
+She has brought <font color="#00ff00">percussion</font> to the front of the orchestra and demonstrated that it can be very moving.
+
+894
+00:05:10,320 --> 00:05:10,620
+She has brought percussion <font color="#00ff00">to</font> the front of the orchestra and demonstrated that it can be very moving.
+
+895
+00:05:10,620 --> 00:05:10,740
+She has brought percussion to <font color="#00ff00">the</font> front of the orchestra and demonstrated that it can be very moving.
+
+896
+00:05:10,740 --> 00:05:10,960
+She has brought percussion to the <font color="#00ff00">front</font> of the orchestra and demonstrated that it can be very moving.
+
+897
+00:05:10,960 --> 00:05:11,180
+She has brought percussion to the front <font color="#00ff00">of</font> the orchestra and demonstrated that it can be very moving.
+
+898
+00:05:11,180 --> 00:05:11,320
+She has brought percussion to the front of <font color="#00ff00">the</font> orchestra and demonstrated that it can be very moving.
+
+899
+00:05:11,320 --> 00:05:11,780
+She has brought percussion to the front of the <font color="#00ff00">orchestra</font> and demonstrated that it can be very moving.
+
+900
+00:05:11,780 --> 00:05:12,120
+She has brought percussion to the front of the orchestra <font color="#00ff00">and</font> demonstrated that it can be very moving.
+
+901
+00:05:12,120 --> 00:05:12,700
+She has brought percussion to the front of the orchestra and <font color="#00ff00">demonstrated</font> that it can be very moving.
+
+902
+00:05:12,700 --> 00:05:13,040
+She has brought percussion to the front of the orchestra and demonstrated <font color="#00ff00">that</font> it can be very moving.
+
+903
+00:05:13,040 --> 00:05:13,180
+She has brought percussion to the front of the orchestra and demonstrated that <font color="#00ff00">it</font> can be very moving.
+
+904
+00:05:13,180 --> 00:05:13,280
+She has brought percussion to the front of the orchestra and demonstrated that it can be very moving.
+
+905
+00:05:13,280 --> 00:05:13,440
+She has brought percussion to the front of the orchestra and demonstrated that it <font color="#00ff00">can</font> be very moving.
+
+906
+00:05:13,440 --> 00:05:13,760
+She has brought percussion to the front of the orchestra and demonstrated that it can <font color="#00ff00">be</font> very moving.
+
+907
+00:05:13,760 --> 00:05:14,200
+She has brought percussion to the front of the orchestra and demonstrated that it can be <font color="#00ff00">very</font> moving.
+
+908
+00:05:14,200 --> 00:05:14,960
+She has brought percussion to the front of the orchestra and demonstrated that it can be very <font color="#00ff00">moving.</font>
+
+909
+00:05:15,540 --> 00:05:15,660
+<font color="#00ff00">She</font> has given inspiration to those who are handicapped,
+
+910
+00:05:15,660 --> 00:05:15,800
+She <font color="#00ff00">has</font> given inspiration to those who are handicapped,
+
+911
+00:05:15,800 --> 00:05:16,000
+She has <font color="#00ff00">given</font> inspiration to those who are handicapped,
+
+912
+00:05:16,000 --> 00:05:16,600
+She has given <font color="#00ff00">inspiration</font> to those who are handicapped,
+
+913
+00:05:16,600 --> 00:05:16,980
+She has given inspiration <font color="#00ff00">to</font> those who are handicapped,
+
+914
+00:05:16,980 --> 00:05:17,200
+She has given inspiration to <font color="#00ff00">those</font> who are handicapped,
+
+915
+00:05:17,200 --> 00:05:17,400
+She has given inspiration to those <font color="#00ff00">who</font> are handicapped,
+
+916
+00:05:17,400 --> 00:05:17,480
+She has given inspiration to those who <font color="#00ff00">are</font> handicapped,
+
+917
+00:05:17,480 --> 00:05:17,840
+She has given inspiration to those who are <font color="#00ff00">handicapped,</font>
+
+918
+00:05:18,560 --> 00:05:18,760
+<font color="#00ff00">people</font> who look to her and say,
+
+919
+00:05:18,760 --> 00:05:18,940
+people <font color="#00ff00">who</font> look to her and say,
+
+920
+00:05:18,940 --> 00:05:19,100
+people who <font color="#00ff00">look</font> to her and say,
+
+921
+00:05:19,100 --> 00:05:19,320
+people who look <font color="#00ff00">to</font> her and say,
+
+922
+00:05:19,320 --> 00:05:19,460
+people who look to <font color="#00ff00">her</font> and say,
+
+923
+00:05:19,460 --> 00:05:19,620
+people who look to her <font color="#00ff00">and</font> say,
+
+924
+00:05:19,620 --> 00:05:20,060
+people who look to her and <font color="#00ff00">say,</font>
+
+925
+00:05:20,380 --> 00:05:20,480
+<font color="#00ff00">"If</font> she can do it,
+
+926
+00:05:20,480 --> 00:05:20,660
+"If <font color="#00ff00">she</font> can do it,
+
+927
+00:05:20,660 --> 00:05:20,820
+"If she <font color="#00ff00">can</font> do it,
+
+928
+00:05:20,820 --> 00:05:20,880
+"If she can do it,
+
+929
+00:05:20,880 --> 00:05:21,000
+"If she can <font color="#00ff00">do</font> it,
+
+930
+00:05:21,000 --> 00:05:21,180
+"If she can do <font color="#00ff00">it,</font>
+
+931
+00:05:21,680 --> 00:05:21,780
+<font color="#00ff00">I</font> can."
+
+932
+00:05:21,780 --> 00:05:22,160
+I <font color="#00ff00">can."</font>
+
+933
+00:05:22,900 --> 00:05:23,100
+<font color="#00ff00">And</font> not the least,
+
+934
+00:05:23,100 --> 00:05:23,420
+And <font color="#00ff00">not</font> the least,
+
+935
+00:05:23,420 --> 00:05:23,620
+And not <font color="#00ff00">the</font> least,
+
+936
+00:05:23,620 --> 00:05:23,920
+And not the <font color="#00ff00">least,</font>
+
+937
+00:05:24,260 --> 00:05:24,360
+<font color="#00ff00">she</font> has given enormous pleasure to millions.
+
+938
+00:05:24,360 --> 00:05:24,540
+she <font color="#00ff00">has</font> given enormous pleasure to millions.
+
+939
+00:05:24,540 --> 00:05:24,800
+she has <font color="#00ff00">given</font> enormous pleasure to millions.
+
+940
+00:05:24,800 --> 00:05:25,440
+she has given <font color="#00ff00">enormous</font> pleasure to millions.
+
+941
+00:05:25,440 --> 00:05:25,960
+she has given enormous <font color="#00ff00">pleasure</font> to millions.
+
+942
+00:05:25,960 --> 00:05:26,140
+she has given enormous pleasure <font color="#00ff00">to</font> millions.
+
+943
+00:05:26,140 --> 00:05:26,720
+she has given enormous pleasure to <font color="#00ff00">millions.</font>
