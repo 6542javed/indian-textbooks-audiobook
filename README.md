@@ -1,13 +1,14 @@
 Right now only two lessons done:
 
 https://indian-textbooks-audiobook.vercel.app/class10/hornbill/thefuntheyhad.html
+
 https://indian-textbooks-audiobook.vercel.app/class4/snowflakes/merrylegs.html
 
 Find the live version at https://indian-textbooks-audiobook.vercel.app/
 
 I will appreciate contributions.
 
-This is the google colab I used to create the srts from the audio. The audio I got from eleven labs. The NCERT books are available online easily.
+This is the google colab I used to create the srts from the audio. The audio I got from eleven labs (https://elevenlabs.io/). The NCERT books are available online easily.
 
 https://colab.research.google.com/drive/1C1JIYyYfovVtmFzCsecElR1cFkQU59Ky?usp=sharing
 
