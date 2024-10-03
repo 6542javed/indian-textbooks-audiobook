@@ -6,9 +6,12 @@ Find the live version at https://indian-textbooks-audiobook.vercel.app/
 
 I will appreciate contributions.
 
-This is the google colab I used to create the srts from the audio. The audio I got from eleven labs (https://elevenlabs.io/). The NCERT books are available online easily.
+This is the kaggle script / google colab script I used to create the srts from the audio. The audio I got from eleven labs (https://elevenlabs.io/). The NCERT books are available online easily.
+
+https://www.kaggle.com/code/javedansari7878687/srt-script
 
 https://colab.research.google.com/drive/1C1JIYyYfovVtmFzCsecElR1cFkQU59Ky?usp=sharing
+
 
 How to create new lessons:
 1. First write out the lesson in text. Maybe use some sort of OCR method to get the text.
