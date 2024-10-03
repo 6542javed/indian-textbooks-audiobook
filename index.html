@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indian Textbooks Menu</title>
+    <style>
+        /* :root {
+            --background-start-rgb: 255, 255, 255; 
+            --background-end-rgb: 230, 230, 230;   
+        } */
+        :root {
+            --foreground-rgb: 0, 0, 0;
+            --background-start-rgb: 214, 219, 220;
+            --background-end-rgb: 255, 255, 255;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            /* background: linear-gradient(to right, #ece9e6, #ffffff); */
+            background: linear-gradient(to bottom,transparent,rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb))
+        }
+        .container {
+            text-align: center;
+        }
+        .menu, .submenu, .lesson-menu {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-top: 20px;
+        }
+        .menu-item, .submenu-item, .lesson-item {
+            margin: 10px;
+            padding: 15px;
+            background: #f7f7f7;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        .menu-item:hover, .submenu-item:hover, .lesson-item:hover {
+            background: #e0e0e0;
+        }
+        .submenu, .lesson-menu {
+            display: none;
+            flex-direction: column;
+            align-items: center;
+        }
+        .back-button {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            padding: 10px 15px;
+            background: #f7f7f7;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        .back-button:hover {
+            background: #e0e0e0;
+        }
+        a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Indian Textbooks</h1>
+        <div class="menu">
+            <div class="menu-item" data-class="1">Class I</div>
+            <div class="menu-item" data-class="2">Class II</div>
+            <div class="menu-item" data-class="3">Class III</div>
+            <div class="menu-item" data-class="4">Class IV</div>
+            <div class="menu-item" data-class="5">Class V</div>
+            <div class="menu-item" data-class="6">Class VI</div>
+            <div class="menu-item" data-class="7">Class VII</div>
+            <div class="menu-item" data-class="8">Class VIII</div>
+            <div class="menu-item" data-class="9">Class IX</div>
+            <div class="menu-item" data-class="10">Class X</div>
+            <div class="menu-item" data-class="11">Class XI</div>
+            <div class="menu-item" data-class="12">Class XII</div>
+        </div>
+
+        <div class="submenu" id="class-4-submenu">
+            <div class="submenu-item" data-book="snowflakes">Snowflakes Book</div>
+        </div>
+        <div class="submenu" id="class-9-submenu">
+            <div class="submenu-item" data-book="firstflight">First Flight Book</div>
+        </div>
+        <div class="submenu" id="class-10-submenu">
+            <div class="submenu-item" data-book="hornbill">Hornbill Book</div>
+        </div>
+
+        <div class="lesson-menu" id="snowflakes-lessons">
+            <a href="class4/snowflakes/kitten.html"><div class="lesson-item">Lesson 1: The Kitten at Play</div></a>
+            <a href="class4/snowflakes/merrylegs.html"><div class="lesson-item">Lesson 6: Merrylegs</div></a>
+        </div>
+        <div class="lesson-menu" id="firstflight-lessons">
+            <a href="class9/thesoundofmusic.html"><div class="lesson-item">Lesson 2: The Sound Of Music</div></a>
+        </div>
+        <div class="lesson-menu" id="hornbill-lessons">
+            <a href="class10/hornbill/thefuntheyhad.html"><div class="lesson-item">Lesson 1: The Fun They Had</div></a>
+        </div>
+    </div>
+
+    <div class="back-button" style="display: none;">Back</div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            var currentMenu = 'menu';
+            var previousMenu = '';
+            var currentClass = '';
+
+            $('.menu-item').click(function(){
+                var classNumber = $(this).data('class');
+                currentClass = classNumber;
+                previousMenu = 'menu';
+                currentMenu = 'submenu';
+                $('.menu').hide();
+                $('.submenu').hide();
+                $('#class-' + classNumber + '-submenu').show();
+                $('.back-button').show();
+            });
+
+            $('.submenu-item').click(function(){
+                var bookName = $(this).data('book');
+                previousMenu = 'submenu';
+                currentMenu = 'lesson-menu';
+                $('.submenu').hide();
+                $('#' + bookName + '-lessons').show();
+                $('.back-button').show();
+            });
+
+            $('.back-button').click(function(){
+                if (currentMenu === 'lesson-menu') {
+                    $('.lesson-menu').hide();
+                    $('#class-' + currentClass + '-submenu').show();
+                    currentMenu = 'submenu';
+                } else if (currentMenu === 'submenu') {
+                    $('.submenu').hide();
+                    $('.menu').show();
+                    $('.back-button').hide();
+                    currentMenu = 'menu';
+                }
+            });
+        });
+    </script>
+</body>
+</html>

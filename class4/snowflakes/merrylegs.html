@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Transcript Highlighter - Merrylegs</title>
+  <link rel="stylesheet" href="../../../load-custom-font.css" type="text/css">
+  <link rel="stylesheet" href="../../../styles/stylesheet.css" type="text/css" charset="utf-8" />
+  <style>
+    body {
+      font-family: 'itc_bookman_stdregular', Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0 20px;
+    }
+    .container {
+      max-width: 62.5%;
+      margin: auto;
+      padding-bottom: 6%;
+    }
+    @media (max-width: 768px) {
+      .container {
+        max-width: 100%;
+        padding-bottom: 15%;
+      }
+    }
+    #transcript p {
+      text-indent: 30px;
+      margin-bottom: -0.75em;
+    }
+    #transcript p:first-of-type {
+      text-indent: 0;
+    }
+    .current-word {
+      background-color: #fff2ac;
+      color: #000;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+      transition: background-color 0.3s ease;
+      position: relative;
+      z-index: 1;
+    }
+    .current-word::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: inherit;
+      box-shadow: inherit;
+      z-index: -1;
+      border-radius: 3px;
+    }
+    .current-word:hover {
+      background-color: #ffe678;
+    }
+    audio {
+      width: 100%;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      background-color: #f0f0f0;
+      padding: 10px;
+      box-sizing: border-box;
+      z-index: 9999;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div id="transcript"></div>
+    <audio id="myAudio" src="merrylegs.mp3" controls></audio>
+  </div>
+
+  <!-- Shared Transcript Highlighter Script -->
+  <script src="../../../scripts/transcriptHighlighter.js"></script>
+  <!-- Lesson-Specific Configuration -->
+</body>
+<script>
+
+document.addEventListener('DOMContentLoaded', () => {
+  const transcriptElement = document.getElementById('transcript');
+  const audioElement = document.getElementById('myAudio');
+  const filePath = 'merrylegs.srt';
+  const paragraphBreaks = new Set([89, 127, 135, 182, 206, 328, 641, 665, 863]);
+
+  new TranscriptHighlighter({
+    filePath,
+    audioElement,
+    transcriptElement,
+    paragraphBreaks
+  });
+});
+</script>
+</html>
