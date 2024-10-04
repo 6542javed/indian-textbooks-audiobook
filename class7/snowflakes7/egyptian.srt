@@ -1,14 +1,14 @@
 1
 00:00:00,760 --> 00:00:00,960
-<font color="#00ff00">The</font> Egyptians invent.
+<font color="#00ff00">The</font> Egyptians invent
 
 2
 00:00:00,960 --> 00:00:01,680
-The <font color="#00ff00">Egyptians</font> invent.
+The <font color="#00ff00">Egyptians</font> invent
 
 3
 00:00:01,680 --> 00:00:05,000
-The Egyptians <font color="#00ff00">invent.</font>
+The Egyptians <font color="#00ff00">invent</font>
 
 4
 00:00:05,000 --> 00:00:05,340
