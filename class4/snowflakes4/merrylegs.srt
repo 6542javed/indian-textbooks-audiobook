@@ -1,0 +1,4467 @@
+1
+00:00:00,090 --> 00:00:00,640
+<font color="#00ff00">Mr.</font>
+
+2
+00:00:00,640 --> 00:00:01,340
+<font color="#00ff00">Bloomfield,</font> the vicar, had a large family of boys and girls.
+
+3
+00:00:01,340 --> 00:00:01,520
+Bloomfield, <font color="#00ff00">the</font> vicar, had a large family of boys and girls.
+
+4
+00:00:01,520 --> 00:00:02,200
+Bloomfield, the <font color="#00ff00">vicar,</font> had a large family of boys and girls.
+
+5
+00:00:02,200 --> 00:00:02,360
+Bloomfield, the vicar, <font color="#00ff00">had</font> a large family of boys and girls.
+
+6
+00:00:02,360 --> 00:00:02,580
+Bloomfield, the vicar, had <font color="#00ff00">a</font> large family of boys and girls.
+
+7
+00:00:02,580 --> 00:00:03,000
+Bloomfield, the vicar, had a <font color="#00ff00">large</font> family of boys and girls.
+
+8
+00:00:03,000 --> 00:00:03,060
+Bloomfield, the vicar, had a large family of boys and girls.
+
+9
+00:00:03,060 --> 00:00:03,360
+Bloomfield, the vicar, had a large <font color="#00ff00">family</font> of boys and girls.
+
+10
+00:00:03,360 --> 00:00:03,580
+Bloomfield, the vicar, had a large family <font color="#00ff00">of</font> boys and girls.
+
+11
+00:00:03,580 --> 00:00:04,000
+Bloomfield, the vicar, had a large family of <font color="#00ff00">boys</font> and girls.
+
+12
+00:00:04,000 --> 00:00:04,200
+Bloomfield, the vicar, had a large family of boys <font color="#00ff00">and</font> girls.
+
+13
+00:00:04,200 --> 00:00:04,680
+Bloomfield, the vicar, had a large family of boys and <font color="#00ff00">girls.</font>
+
+14
+00:00:05,320 --> 00:00:05,900
+<font color="#00ff00">Sometimes</font> they used to come and play with Miss Jessie and Flora.
+
+15
+00:00:05,900 --> 00:00:06,080
+Sometimes <font color="#00ff00">they</font> used to come and play with Miss Jessie and Flora.
+
+16
+00:00:06,080 --> 00:00:06,340
+Sometimes they <font color="#00ff00">used</font> to come and play with Miss Jessie and Flora.
+
+17
+00:00:06,340 --> 00:00:06,480
+Sometimes they used <font color="#00ff00">to</font> come and play with Miss Jessie and Flora.
+
+18
+00:00:06,480 --> 00:00:06,640
+Sometimes they used to <font color="#00ff00">come</font> and play with Miss Jessie and Flora.
+
+19
+00:00:06,640 --> 00:00:06,840
+Sometimes they used to come <font color="#00ff00">and</font> play with Miss Jessie and Flora.
+
+20
+00:00:06,840 --> 00:00:07,000
+Sometimes they used to come and <font color="#00ff00">play</font> with Miss Jessie and Flora.
+
+21
+00:00:07,000 --> 00:00:07,180
+Sometimes they used to come and play <font color="#00ff00">with</font> Miss Jessie and Flora.
+
+22
+00:00:07,180 --> 00:00:07,500
+Sometimes they used to come and play with <font color="#00ff00">Miss</font> Jessie and Flora.
+
+23
+00:00:07,500 --> 00:00:07,740
+Sometimes they used to come and play with Miss <font color="#00ff00">Jessie</font> and Flora.
+
+24
+00:00:07,740 --> 00:00:08,020
+Sometimes they used to come and play with Miss Jessie <font color="#00ff00">and</font> Flora.
+
+25
+00:00:08,020 --> 00:00:08,300
+Sometimes they used to come and play with Miss Jessie and <font color="#00ff00">Flora.</font>
+
+26
+00:00:09,500 --> 00:00:09,760
+<font color="#00ff00">One</font> of the girls was as old as Miss Jessie,
+
+27
+00:00:09,760 --> 00:00:09,880
+One <font color="#00ff00">of</font> the girls was as old as Miss Jessie,
+
+28
+00:00:09,880 --> 00:00:10,000
+One of <font color="#00ff00">the</font> girls was as old as Miss Jessie,
+
+29
+00:00:10,000 --> 00:00:10,320
+One of the <font color="#00ff00">girls</font> was as old as Miss Jessie,
+
+30
+00:00:10,320 --> 00:00:10,520
+One of the girls <font color="#00ff00">was</font> as old as Miss Jessie,
+
+31
+00:00:10,520 --> 00:00:10,780
+One of the girls was <font color="#00ff00">as</font> old as Miss Jessie,
+
+32
+00:00:10,780 --> 00:00:11,080
+One of the girls was as <font color="#00ff00">old</font> as Miss Jessie,
+
+33
+00:00:11,080 --> 00:00:11,220
+One of the girls was as old <font color="#00ff00">as</font> Miss Jessie,
+
+34
+00:00:11,220 --> 00:00:11,400
+One of the girls was as old as Miss Jessie,
+
+35
+00:00:11,400 --> 00:00:11,500
+One of the girls was as old as <font color="#00ff00">Miss</font> Jessie,
+
+36
+00:00:11,500 --> 00:00:11,880
+One of the girls was as old as Miss <font color="#00ff00">Jessie,</font>
+
+37
+00:00:12,240 --> 00:00:12,440
+<font color="#00ff00">two</font> of the boys were older,
+
+38
+00:00:12,440 --> 00:00:12,640
+two <font color="#00ff00">of</font> the boys were older,
+
+39
+00:00:12,640 --> 00:00:12,720
+two of <font color="#00ff00">the</font> boys were older,
+
+40
+00:00:12,720 --> 00:00:13,020
+two of the <font color="#00ff00">boys</font> were older,
+
+41
+00:00:13,020 --> 00:00:13,280
+two of the boys <font color="#00ff00">were</font> older,
+
+42
+00:00:13,280 --> 00:00:13,680
+two of the boys were <font color="#00ff00">older,</font>
+
+43
+00:00:14,040 --> 00:00:14,220
+<font color="#00ff00">and</font> there were several little ones.
+
+44
+00:00:14,220 --> 00:00:14,360
+and <font color="#00ff00">there</font> were several little ones.
+
+45
+00:00:14,360 --> 00:00:14,480
+and there were several little ones.
+
+46
+00:00:14,480 --> 00:00:14,580
+and there <font color="#00ff00">were</font> several little ones.
+
+47
+00:00:14,580 --> 00:00:14,940
+and there were <font color="#00ff00">several</font> little ones.
+
+48
+00:00:14,940 --> 00:00:15,240
+and there were several <font color="#00ff00">little</font> ones.
+
+49
+00:00:15,240 --> 00:00:15,560
+and there were several little <font color="#00ff00">ones.</font>
+
+50
+00:00:16,500 --> 00:00:16,720
+<font color="#00ff00">When</font> they came, there was plenty of work for merrylegs,
+
+51
+00:00:16,720 --> 00:00:16,980
+When <font color="#00ff00">they</font> came, there was plenty of work for merrylegs,
+
+52
+00:00:16,980 --> 00:00:17,360
+When they <font color="#00ff00">came,</font> there was plenty of work for merrylegs,
+
+53
+00:00:17,360 --> 00:00:17,440
+When they came, <font color="#00ff00">there</font> was plenty of work for merrylegs,
+
+54
+00:00:17,440 --> 00:00:17,660
+When they came, there <font color="#00ff00">was</font> plenty of work for merrylegs,
+
+55
+00:00:17,660 --> 00:00:17,720
+When they came, there was plenty of work for merrylegs,
+
+56
+00:00:17,720 --> 00:00:18,020
+When they came, there was <font color="#00ff00">plenty</font> of work for merrylegs,
+
+57
+00:00:18,020 --> 00:00:18,260
+When they came, there was plenty <font color="#00ff00">of</font> work for merrylegs,
+
+58
+00:00:18,260 --> 00:00:18,400
+When they came, there was plenty of <font color="#00ff00">work</font> for merrylegs,
+
+59
+00:00:18,400 --> 00:00:18,420
+When they came, there was plenty of work for merrylegs,
+
+60
+00:00:18,420 --> 00:00:18,560
+When they came, there was plenty of work <font color="#00ff00">for</font> merrylegs,
+
+61
+00:00:18,560 --> 00:00:18,740
+When they came, there was plenty of work for merrylegs,
+
+62
+00:00:18,740 --> 00:00:18,940
+When they came, there was plenty of work for <font color="#00ff00">merrylegs,</font>
+
+63
+00:00:19,600 --> 00:00:19,760
+<font color="#00ff00">for</font> nothing pleased them so much as getting on him by turns and riding him all about the orchard and the home paddock,
+
+64
+00:00:19,760 --> 00:00:20,060
+for <font color="#00ff00">nothing</font> pleased them so much as getting on him by turns and riding him all about the orchard and the home paddock,
+
+65
+00:00:20,060 --> 00:00:20,400
+for nothing <font color="#00ff00">pleased</font> them so much as getting on him by turns and riding him all about the orchard and the home paddock,
+
+66
+00:00:20,400 --> 00:00:20,680
+for nothing pleased <font color="#00ff00">them</font> so much as getting on him by turns and riding him all about the orchard and the home paddock,
+
+67
+00:00:20,680 --> 00:00:20,980
+for nothing pleased them <font color="#00ff00">so</font> much as getting on him by turns and riding him all about the orchard and the home paddock,
+
+68
+00:00:20,980 --> 00:00:21,180
+for nothing pleased them so <font color="#00ff00">much</font> as getting on him by turns and riding him all about the orchard and the home paddock,
+
+69
+00:00:21,180 --> 00:00:21,260
+for nothing pleased them so much as getting on him by turns and riding him all about the orchard and the home paddock,
+
+70
+00:00:21,260 --> 00:00:21,360
+for nothing pleased them so much <font color="#00ff00">as</font> getting on him by turns and riding him all about the orchard and the home paddock,
+
+71
+00:00:21,360 --> 00:00:21,620
+for nothing pleased them so much as <font color="#00ff00">getting</font> on him by turns and riding him all about the orchard and the home paddock,
+
+72
+00:00:21,620 --> 00:00:21,780
+for nothing pleased them so much as getting <font color="#00ff00">on</font> him by turns and riding him all about the orchard and the home paddock,
+
+73
+00:00:21,780 --> 00:00:21,920
+for nothing pleased them so much as getting on <font color="#00ff00">him</font> by turns and riding him all about the orchard and the home paddock,
+
+74
+00:00:21,920 --> 00:00:22,260
+for nothing pleased them so much as getting on him <font color="#00ff00">by</font> turns and riding him all about the orchard and the home paddock,
+
+75
+00:00:22,260 --> 00:00:22,560
+for nothing pleased them so much as getting on him by <font color="#00ff00">turns</font> and riding him all about the orchard and the home paddock,
+
+76
+00:00:22,560 --> 00:00:22,740
+for nothing pleased them so much as getting on him by turns <font color="#00ff00">and</font> riding him all about the orchard and the home paddock,
+
+77
+00:00:22,740 --> 00:00:23,020
+for nothing pleased them so much as getting on him by turns and <font color="#00ff00">riding</font> him all about the orchard and the home paddock,
+
+78
+00:00:23,020 --> 00:00:23,180
+for nothing pleased them so much as getting on him by turns and riding him all about the orchard and the home paddock,
+
+79
+00:00:23,180 --> 00:00:23,280
+for nothing pleased them so much as getting on him by turns and riding <font color="#00ff00">him</font> all about the orchard and the home paddock,
+
+80
+00:00:23,280 --> 00:00:23,600
+for nothing pleased them so much as getting on him by turns and riding him <font color="#00ff00">all</font> about the orchard and the home paddock,
+
+81
+00:00:23,600 --> 00:00:23,780
+for nothing pleased them so much as getting on him by turns and riding him all <font color="#00ff00">about</font> the orchard and the home paddock,
+
+82
+00:00:23,780 --> 00:00:23,920
+for nothing pleased them so much as getting on him by turns and riding him all about the orchard and the home paddock,
+
+83
+00:00:23,920 --> 00:00:24,020
+for nothing pleased them so much as getting on him by turns and riding him all about <font color="#00ff00">the</font> orchard and the home paddock,
+
+84
+00:00:24,020 --> 00:00:24,400
+for nothing pleased them so much as getting on him by turns and riding him all about the <font color="#00ff00">orchard</font> and the home paddock,
+
+85
+00:00:24,400 --> 00:00:24,540
+for nothing pleased them so much as getting on him by turns and riding him all about the orchard <font color="#00ff00">and</font> the home paddock,
+
+86
+00:00:24,540 --> 00:00:24,740
+for nothing pleased them so much as getting on him by turns and riding him all about the orchard and <font color="#00ff00">the</font> home paddock,
+
+87
+00:00:24,740 --> 00:00:24,960
+for nothing pleased them so much as getting on him by turns and riding him all about the orchard and the <font color="#00ff00">home</font> paddock,
+
+88
+00:00:24,960 --> 00:00:25,140
+for nothing pleased them so much as getting on him by turns and riding him all about the orchard and the home <font color="#00ff00">paddock,</font>
+
+89
+00:00:25,640 --> 00:00:25,900
+<font color="#00ff00">and</font> this they would do by the hour together.
+
+90
+00:00:25,900 --> 00:00:26,140
+and <font color="#00ff00">this</font> they would do by the hour together.
+
+91
+00:00:26,140 --> 00:00:26,280
+and this <font color="#00ff00">they</font> would do by the hour together.
+
+92
+00:00:26,280 --> 00:00:26,520
+and this they <font color="#00ff00">would</font> do by the hour together.
+
+93
+00:00:26,520 --> 00:00:26,640
+and this they would <font color="#00ff00">do</font> by the hour together.
+
+94
+00:00:26,640 --> 00:00:26,880
+and this they would do <font color="#00ff00">by</font> the hour together.
+
+95
+00:00:26,880 --> 00:00:27,100
+and this they would do by <font color="#00ff00">the</font> hour together.
+
+96
+00:00:27,100 --> 00:00:27,280
+and this they would do by the <font color="#00ff00">hour</font> together.
+
+97
+00:00:27,280 --> 00:00:27,380
+and this they would do by the hour <font color="#00ff00">together.</font>
+
+98
+00:00:28,680 --> 00:00:28,920
+<font color="#00ff00">One</font> afternoon he had been out with them a long time,
+
+99
+00:00:28,920 --> 00:00:29,440
+One <font color="#00ff00">afternoon</font> he had been out with them a long time,
+
+100
+00:00:29,440 --> 00:00:29,580
+One afternoon <font color="#00ff00">he</font> had been out with them a long time,
+
+101
+00:00:29,580 --> 00:00:29,720
+One afternoon he <font color="#00ff00">had</font> been out with them a long time,
+
+102
+00:00:29,720 --> 00:00:29,880
+One afternoon he had <font color="#00ff00">been</font> out with them a long time,
+
+103
+00:00:29,880 --> 00:00:30,100
+One afternoon he had been <font color="#00ff00">out</font> with them a long time,
+
+104
+00:00:30,100 --> 00:00:30,220
+One afternoon he had been out <font color="#00ff00">with</font> them a long time,
+
+105
+00:00:30,220 --> 00:00:30,380
+One afternoon he had been out with <font color="#00ff00">them</font> a long time,
+
+106
+00:00:30,380 --> 00:00:30,540
+One afternoon he had been out with them <font color="#00ff00">a</font> long time,
+
+107
+00:00:30,540 --> 00:00:30,820
+One afternoon he had been out with them a <font color="#00ff00">long</font> time,
+
+108
+00:00:30,820 --> 00:00:31,120
+One afternoon he had been out with them a long <font color="#00ff00">time,</font>
+
+109
+00:00:31,520 --> 00:00:31,640
+<font color="#00ff00">and</font> when James brought him in and put on his halter, he said,
+
+110
+00:00:31,640 --> 00:00:31,840
+and <font color="#00ff00">when</font> James brought him in and put on his halter, he said,
+
+111
+00:00:31,840 --> 00:00:32,160
+and when <font color="#00ff00">James</font> brought him in and put on his halter, he said,
+
+112
+00:00:32,160 --> 00:00:32,200
+and when James brought him in and put on his halter, he said,
+
+113
+00:00:32,200 --> 00:00:32,440
+and when James <font color="#00ff00">brought</font> him in and put on his halter, he said,
+
+114
+00:00:32,440 --> 00:00:32,620
+and when James brought <font color="#00ff00">him</font> in and put on his halter, he said,
+
+115
+00:00:32,620 --> 00:00:32,820
+and when James brought him <font color="#00ff00">in</font> and put on his halter, he said,
+
+116
+00:00:32,820 --> 00:00:32,920
+and when James brought him in <font color="#00ff00">and</font> put on his halter, he said,
+
+117
+00:00:32,920 --> 00:00:33,120
+and when James brought him in and <font color="#00ff00">put</font> on his halter, he said,
+
+118
+00:00:33,120 --> 00:00:33,260
+and when James brought him in and put <font color="#00ff00">on</font> his halter, he said,
+
+119
+00:00:33,260 --> 00:00:33,480
+and when James brought him in and put on <font color="#00ff00">his</font> halter, he said,
+
+120
+00:00:33,480 --> 00:00:33,820
+and when James brought him in and put on his <font color="#00ff00">halter,</font> he said,
+
+121
+00:00:33,820 --> 00:00:33,920
+and when James brought him in and put on his halter, he said,
+
+122
+00:00:33,920 --> 00:00:34,020
+and when James brought him in and put on his halter, <font color="#00ff00">he</font> said,
+
+123
+00:00:34,020 --> 00:00:34,260
+and when James brought him in and put on his halter, he <font color="#00ff00">said,</font>
+
+124
+00:00:34,840 --> 00:00:35,420
+<font color="#00ff00">"There,</font> you rogue, mind how you behave yourself,
+
+125
+00:00:35,420 --> 00:00:35,620
+"There, <font color="#00ff00">you</font> rogue, mind how you behave yourself,
+
+126
+00:00:35,620 --> 00:00:35,960
+"There, you <font color="#00ff00">rogue,</font> mind how you behave yourself,
+
+127
+00:00:35,960 --> 00:00:36,160
+"There, you rogue, <font color="#00ff00">mind</font> how you behave yourself,
+
+128
+00:00:36,160 --> 00:00:36,320
+"There, you rogue, mind <font color="#00ff00">how</font> you behave yourself,
+
+129
+00:00:36,320 --> 00:00:36,540
+"There, you rogue, mind how <font color="#00ff00">you</font> behave yourself,
+
+130
+00:00:36,540 --> 00:00:36,820
+"There, you rogue, mind how you <font color="#00ff00">behave</font> yourself,
+
+131
+00:00:36,820 --> 00:00:37,280
+"There, you rogue, mind how you behave <font color="#00ff00">yourself,</font>
+
+132
+00:00:38,020 --> 00:00:38,280
+<font color="#00ff00">or</font> we shall get into trouble."
+
+133
+00:00:38,280 --> 00:00:38,420
+or <font color="#00ff00">we</font> shall get into trouble."
+
+134
+00:00:38,420 --> 00:00:38,560
+or we <font color="#00ff00">shall</font> get into trouble."
+
+135
+00:00:38,560 --> 00:00:38,760
+or we shall <font color="#00ff00">get</font> into trouble."
+
+136
+00:00:38,760 --> 00:00:39,020
+or we shall get <font color="#00ff00">into</font> trouble."
+
+137
+00:00:39,020 --> 00:00:39,360
+or we shall get into <font color="#00ff00">trouble."</font>
+
+138
+00:00:40,400 --> 00:00:40,580
+<font color="#00ff00">"What</font> have you been doing, merrylegs?"
+
+139
+00:00:40,580 --> 00:00:40,740
+"What <font color="#00ff00">have</font> you been doing, merrylegs?"
+
+140
+00:00:40,740 --> 00:00:40,820
+"What have <font color="#00ff00">you</font> been doing, merrylegs?"
+
+141
+00:00:40,820 --> 00:00:41,040
+"What have you <font color="#00ff00">been</font> doing, merrylegs?"
+
+142
+00:00:41,040 --> 00:00:41,500
+"What have you been <font color="#00ff00">doing,</font> merrylegs?"
+
+143
+00:00:41,500 --> 00:00:41,760
+"What have you been doing, <font color="#00ff00">merrylegs?"</font>
+
+144
+00:00:42,280 --> 00:00:42,500
+<font color="#00ff00">I</font> asked.
+
+145
+00:00:42,500 --> 00:00:42,660
+I <font color="#00ff00">asked.</font>
+
+146
+00:00:43,520 --> 00:00:43,900
+<font color="#00ff00">"Oh,"</font> said he, tossing his little head,
+
+147
+00:00:43,900 --> 00:00:44,340
+"Oh," said he, tossing his little head,
+
+148
+00:00:44,340 --> 00:00:44,540
+"Oh," <font color="#00ff00">said</font> he, tossing his little head,
+
+149
+00:00:44,540 --> 00:00:44,780
+"Oh," said <font color="#00ff00">he,</font> tossing his little head,
+
+150
+00:00:44,780 --> 00:00:44,960
+"Oh," said he, tossing his little head,
+
+151
+00:00:44,960 --> 00:00:45,240
+"Oh," said he, <font color="#00ff00">tossing</font> his little head,
+
+152
+00:00:45,240 --> 00:00:45,260
+"Oh," said he, tossing his little head,
+
+153
+00:00:45,260 --> 00:00:45,360
+"Oh," said he, tossing <font color="#00ff00">his</font> little head,
+
+154
+00:00:45,360 --> 00:00:45,620
+"Oh," said he, tossing his <font color="#00ff00">little</font> head,
+
+155
+00:00:45,620 --> 00:00:45,880
+"Oh," said he, tossing his little <font color="#00ff00">head,</font>
+
+156
+00:00:46,380 --> 00:00:46,480
+<font color="#00ff00">"I</font> have only been giving those young people a lesson.
+
+157
+00:00:46,480 --> 00:00:46,620
+"I <font color="#00ff00">have</font> only been giving those young people a lesson.
+
+158
+00:00:46,620 --> 00:00:46,820
+"I have <font color="#00ff00">only</font> been giving those young people a lesson.
+
+159
+00:00:46,820 --> 00:00:47,060
+"I have only <font color="#00ff00">been</font> giving those young people a lesson.
+
+160
+00:00:47,060 --> 00:00:47,240
+"I have only been <font color="#00ff00">giving</font> those young people a lesson.
+
+161
+00:00:47,240 --> 00:00:47,520
+"I have only been giving <font color="#00ff00">those</font> young people a lesson.
+
+162
+00:00:47,520 --> 00:00:47,780
+"I have only been giving those <font color="#00ff00">young</font> people a lesson.
+
+163
+00:00:47,780 --> 00:00:48,080
+"I have only been giving those young <font color="#00ff00">people</font> a lesson.
+
+164
+00:00:48,080 --> 00:00:48,300
+"I have only been giving those young people <font color="#00ff00">a</font> lesson.
+
+165
+00:00:48,300 --> 00:00:48,400
+"I have only been giving those young people a <font color="#00ff00">lesson.</font>
+
+166
+00:00:49,340 --> 00:00:49,480
+<font color="#00ff00">They</font> did not know when they had had enough,
+
+167
+00:00:49,480 --> 00:00:49,760
+They <font color="#00ff00">did</font> not know when they had had enough,
+
+168
+00:00:49,760 --> 00:00:49,940
+They did <font color="#00ff00">not</font> know when they had had enough,
+
+169
+00:00:49,940 --> 00:00:50,180
+They did not <font color="#00ff00">know</font> when they had had enough,
+
+170
+00:00:50,180 --> 00:00:50,400
+They did not know <font color="#00ff00">when</font> they had had enough,
+
+171
+00:00:50,400 --> 00:00:50,540
+They did not know when <font color="#00ff00">they</font> had had enough,
+
+172
+00:00:50,540 --> 00:00:50,740
+They did not know when they <font color="#00ff00">had</font> had enough,
+
+173
+00:00:50,740 --> 00:00:50,940
+They did not know when they had <font color="#00ff00">had</font> enough,
+
+174
+00:00:50,940 --> 00:00:51,500
+They did not know when they had had <font color="#00ff00">enough,</font>
+
+175
+00:00:51,500 --> 00:00:51,660
+<font color="#00ff00">nor</font> when I had had enough,
+
+176
+00:00:51,660 --> 00:00:51,820
+nor <font color="#00ff00">when</font> I had had enough,
+
+177
+00:00:51,820 --> 00:00:52,020
+nor when <font color="#00ff00">I</font> had had enough,
+
+178
+00:00:52,020 --> 00:00:52,200
+nor when I <font color="#00ff00">had</font> had enough,
+
+179
+00:00:52,200 --> 00:00:52,300
+nor when I had had enough,
+
+180
+00:00:52,300 --> 00:00:52,400
+nor when I had <font color="#00ff00">had</font> enough,
+
+181
+00:00:52,400 --> 00:00:52,600
+nor when I had had <font color="#00ff00">enough,</font>
+
+182
+00:00:53,120 --> 00:00:53,220
+<font color="#00ff00">so</font> I just pitched them off backward.
+
+183
+00:00:53,220 --> 00:00:53,380
+so <font color="#00ff00">I</font> just pitched them off backward.
+
+184
+00:00:53,380 --> 00:00:53,640
+so I <font color="#00ff00">just</font> pitched them off backward.
+
+185
+00:00:53,640 --> 00:00:53,820
+so I just <font color="#00ff00">pitched</font> them off backward.
+
+186
+00:00:53,820 --> 00:00:53,840
+so I just pitched them off backward.
+
+187
+00:00:53,840 --> 00:00:54,040
+so I just pitched <font color="#00ff00">them</font> off backward.
+
+188
+00:00:54,040 --> 00:00:54,260
+so I just pitched them <font color="#00ff00">off</font> backward.
+
+189
+00:00:54,260 --> 00:00:54,380
+so I just pitched them off <font color="#00ff00">backward.</font>
+
+190
+00:00:55,440 --> 00:00:55,540
+<font color="#00ff00">That</font> was the only thing they could understand." "What?"
+
+191
+00:00:55,540 --> 00:00:55,760
+That <font color="#00ff00">was</font> the only thing they could understand." "What?"
+
+192
+00:00:55,760 --> 00:00:55,880
+That was <font color="#00ff00">the</font> only thing they could understand." "What?"
+
+193
+00:00:55,880 --> 00:00:56,120
+That was the <font color="#00ff00">only</font> thing they could understand." "What?"
+
+194
+00:00:56,120 --> 00:00:56,140
+That was the only thing they could understand." "What?"
+
+195
+00:00:56,140 --> 00:00:56,340
+That was the only <font color="#00ff00">thing</font> they could understand." "What?"
+
+196
+00:00:56,340 --> 00:00:56,480
+That was the only thing <font color="#00ff00">they</font> could understand." "What?"
+
+197
+00:00:56,480 --> 00:00:56,520
+That was the only thing they could understand." "What?"
+
+198
+00:00:56,520 --> 00:00:56,680
+That was the only thing they <font color="#00ff00">could</font> understand." "What?"
+
+199
+00:00:56,680 --> 00:00:57,400
+That was the only thing they could <font color="#00ff00">understand."</font> "What?"
+
+200
+00:00:57,400 --> 00:00:57,720
+That was the only thing they could understand." "What?"
+
+201
+00:00:57,720 --> 00:00:58,220
+That was the only thing they could understand." <font color="#00ff00">"What?"</font>
+
+202
+00:00:58,760 --> 00:00:58,960
+<font color="#00ff00">said</font> I.
+
+203
+00:00:58,960 --> 00:00:59,180
+said <font color="#00ff00">I.</font>
+
+204
+00:00:59,700 --> 00:00:59,800
+<font color="#00ff00">"You</font> threw the children off?
+
+205
+00:00:59,800 --> 00:00:59,980
+"You <font color="#00ff00">threw</font> the children off?
+
+206
+00:00:59,980 --> 00:01:00,240
+"You threw <font color="#00ff00">the</font> children off?
+
+207
+00:01:00,240 --> 00:01:00,520
+"You threw the <font color="#00ff00">children</font> off?
+
+208
+00:01:00,520 --> 00:01:00,620
+"You threw the children <font color="#00ff00">off?</font>
+
+209
+00:01:01,280 --> 00:01:01,520
+<font color="#00ff00">I</font> thought you did know better than that.
+
+210
+00:01:01,520 --> 00:01:01,700
+I <font color="#00ff00">thought</font> you did know better than that.
+
+211
+00:01:01,700 --> 00:01:01,860
+I thought you did know better than that.
+
+212
+00:01:01,860 --> 00:01:01,960
+I thought <font color="#00ff00">you</font> did know better than that.
+
+213
+00:01:01,960 --> 00:01:02,220
+I thought you <font color="#00ff00">did</font> know better than that.
+
+214
+00:01:02,220 --> 00:01:02,420
+I thought you did <font color="#00ff00">know</font> better than that.
+
+215
+00:01:02,420 --> 00:01:02,640
+I thought you did know <font color="#00ff00">better</font> than that.
+
+216
+00:01:02,640 --> 00:01:02,900
+I thought you did know better <font color="#00ff00">than</font> that.
+
+217
+00:01:02,900 --> 00:01:03,040
+I thought you did know better than <font color="#00ff00">that.</font>
+
+218
+00:01:03,740 --> 00:01:03,860
+<font color="#00ff00">Did</font> you throw Miss Jessie or Miss Flora?"
+
+219
+00:01:03,860 --> 00:01:04,020
+Did <font color="#00ff00">you</font> throw Miss Jessie or Miss Flora?"
+
+220
+00:01:04,020 --> 00:01:04,060
+Did you throw Miss Jessie or Miss Flora?"
+
+221
+00:01:04,060 --> 00:01:04,240
+Did you <font color="#00ff00">throw</font> Miss Jessie or Miss Flora?"
+
+222
+00:01:04,240 --> 00:01:04,600
+Did you throw <font color="#00ff00">Miss</font> Jessie or Miss Flora?"
+
+223
+00:01:04,600 --> 00:01:04,980
+Did you throw Miss <font color="#00ff00">Jessie</font> or Miss Flora?"
+
+224
+00:01:04,980 --> 00:01:05,280
+Did you throw Miss Jessie <font color="#00ff00">or</font> Miss Flora?"
+
+225
+00:01:05,280 --> 00:01:05,620
+Did you throw Miss Jessie or <font color="#00ff00">Miss</font> Flora?"
+
+226
+00:01:05,620 --> 00:01:06,060
+Did you throw Miss Jessie or Miss <font color="#00ff00">Flora?"</font>
+
+227
+00:01:06,980 --> 00:01:07,080
+<font color="#00ff00">He</font> looked very much offended and said,
+
+228
+00:01:07,080 --> 00:01:07,300
+He <font color="#00ff00">looked</font> very much offended and said,
+
+229
+00:01:07,300 --> 00:01:07,340
+He looked very much offended and said,
+
+230
+00:01:07,340 --> 00:01:07,660
+He looked <font color="#00ff00">very</font> much offended and said,
+
+231
+00:01:07,660 --> 00:01:07,840
+He looked very <font color="#00ff00">much</font> offended and said,
+
+232
+00:01:07,840 --> 00:01:07,900
+He looked very much offended and said,
+
+233
+00:01:07,900 --> 00:01:08,260
+He looked very much <font color="#00ff00">offended</font> and said,
+
+234
+00:01:08,260 --> 00:01:08,500
+He looked very much offended <font color="#00ff00">and</font> said,
+
+235
+00:01:08,500 --> 00:01:08,700
+He looked very much offended and <font color="#00ff00">said,</font>
+
+236
+00:01:09,160 --> 00:01:09,500
+<font color="#00ff00">"Of</font> course not.
+
+237
+00:01:09,500 --> 00:01:09,860
+"Of <font color="#00ff00">course</font> not.
+
+238
+00:01:09,860 --> 00:01:10,040
+"Of course <font color="#00ff00">not.</font>
+
+239
+00:01:10,560 --> 00:01:10,840
+<font color="#00ff00">I</font> would not do such a thing for the best oats that ever came into the stable.
+
+240
+00:01:10,840 --> 00:01:11,060
+I <font color="#00ff00">would</font> not do such a thing for the best oats that ever came into the stable.
+
+241
+00:01:11,060 --> 00:01:11,220
+I would <font color="#00ff00">not</font> do such a thing for the best oats that ever came into the stable.
+
+242
+00:01:11,220 --> 00:01:11,460
+I would not <font color="#00ff00">do</font> such a thing for the best oats that ever came into the stable.
+
+243
+00:01:11,460 --> 00:01:11,780
+I would not do <font color="#00ff00">such</font> a thing for the best oats that ever came into the stable.
+
+244
+00:01:11,780 --> 00:01:11,960
+I would not do such <font color="#00ff00">a</font> thing for the best oats that ever came into the stable.
+
+245
+00:01:11,960 --> 00:01:12,100
+I would not do such a <font color="#00ff00">thing</font> for the best oats that ever came into the stable.
+
+246
+00:01:12,100 --> 00:01:12,240
+I would not do such a thing <font color="#00ff00">for</font> the best oats that ever came into the stable.
+
+247
+00:01:12,240 --> 00:01:12,500
+I would not do such a thing for <font color="#00ff00">the</font> best oats that ever came into the stable.
+
+248
+00:01:12,500 --> 00:01:12,760
+I would not do such a thing for the <font color="#00ff00">best</font> oats that ever came into the stable.
+
+249
+00:01:12,760 --> 00:01:13,000
+I would not do such a thing for the best <font color="#00ff00">oats</font> that ever came into the stable.
+
+250
+00:01:13,000 --> 00:01:13,020
+I would not do such a thing for the best oats that ever came into the stable.
+
+251
+00:01:13,020 --> 00:01:13,320
+I would not do such a thing for the best oats <font color="#00ff00">that</font> ever came into the stable.
+
+252
+00:01:13,320 --> 00:01:13,540
+I would not do such a thing for the best oats that <font color="#00ff00">ever</font> came into the stable.
+
+253
+00:01:13,540 --> 00:01:13,560
+I would not do such a thing for the best oats that ever came into the stable.
+
+254
+00:01:13,560 --> 00:01:13,800
+I would not do such a thing for the best oats that ever <font color="#00ff00">came</font> into the stable.
+
+255
+00:01:13,800 --> 00:01:14,060
+I would not do such a thing for the best oats that ever came <font color="#00ff00">into</font> the stable.
+
+256
+00:01:14,060 --> 00:01:14,340
+I would not do such a thing for the best oats that ever came into <font color="#00ff00">the</font> stable.
+
+257
+00:01:14,340 --> 00:01:14,480
+I would not do such a thing for the best oats that ever came into the <font color="#00ff00">stable.</font>
+
+258
+00:01:15,480 --> 00:01:15,880
+<font color="#00ff00">Why,</font> I am as careful of our young ladies as the master could be,
+
+259
+00:01:15,880 --> 00:01:16,080
+Why, <font color="#00ff00">I</font> am as careful of our young ladies as the master could be,
+
+260
+00:01:16,080 --> 00:01:16,340
+Why, I <font color="#00ff00">am</font> as careful of our young ladies as the master could be,
+
+261
+00:01:16,340 --> 00:01:16,660
+Why, I am <font color="#00ff00">as</font> careful of our young ladies as the master could be,
+
+262
+00:01:16,660 --> 00:01:16,940
+Why, I am as <font color="#00ff00">careful</font> of our young ladies as the master could be,
+
+263
+00:01:16,940 --> 00:01:17,120
+Why, I am as careful <font color="#00ff00">of</font> our young ladies as the master could be,
+
+264
+00:01:17,120 --> 00:01:17,300
+Why, I am as careful of <font color="#00ff00">our</font> young ladies as the master could be,
+
+265
+00:01:17,300 --> 00:01:17,540
+Why, I am as careful of our <font color="#00ff00">young</font> ladies as the master could be,
+
+266
+00:01:17,540 --> 00:01:17,920
+Why, I am as careful of our young <font color="#00ff00">ladies</font> as the master could be,
+
+267
+00:01:17,920 --> 00:01:18,020
+Why, I am as careful of our young ladies as the master could be,
+
+268
+00:01:18,020 --> 00:01:18,120
+Why, I am as careful of our young ladies <font color="#00ff00">as</font> the master could be,
+
+269
+00:01:18,120 --> 00:01:18,400
+Why, I am as careful of our young ladies as <font color="#00ff00">the</font> master could be,
+
+270
+00:01:18,400 --> 00:01:18,720
+Why, I am as careful of our young ladies as the <font color="#00ff00">master</font> could be,
+
+271
+00:01:18,720 --> 00:01:18,860
+Why, I am as careful of our young ladies as the master could be,
+
+272
+00:01:18,860 --> 00:01:18,960
+Why, I am as careful of our young ladies as the master <font color="#00ff00">could</font> be,
+
+273
+00:01:18,960 --> 00:01:19,180
+Why, I am as careful of our young ladies as the master could <font color="#00ff00">be,</font>
+
+274
+00:01:19,740 --> 00:01:19,900
+<font color="#00ff00">and</font> as for the little ones it is I who teach them to ride.
+
+275
+00:01:19,900 --> 00:01:20,160
+and <font color="#00ff00">as</font> for the little ones it is I who teach them to ride.
+
+276
+00:01:20,160 --> 00:01:20,260
+and as <font color="#00ff00">for</font> the little ones it is I who teach them to ride.
+
+277
+00:01:20,260 --> 00:01:20,500
+and as for <font color="#00ff00">the</font> little ones it is I who teach them to ride.
+
+278
+00:01:20,500 --> 00:01:20,740
+and as for the <font color="#00ff00">little</font> ones it is I who teach them to ride.
+
+279
+00:01:20,740 --> 00:01:21,080
+and as for the little <font color="#00ff00">ones</font> it is I who teach them to ride.
+
+280
+00:01:21,080 --> 00:01:21,160
+and as for the little ones it is I who teach them to ride.
+
+281
+00:01:21,160 --> 00:01:21,340
+and as for the little ones <font color="#00ff00">it</font> is I who teach them to ride.
+
+282
+00:01:21,340 --> 00:01:21,360
+and as for the little ones it is I who teach them to ride.
+
+283
+00:01:21,360 --> 00:01:21,700
+and as for the little ones it <font color="#00ff00">is</font> I who teach them to ride.
+
+284
+00:01:21,700 --> 00:01:22,140
+and as for the little ones it is <font color="#00ff00">I</font> who teach them to ride.
+
+285
+00:01:22,140 --> 00:01:22,400
+and as for the little ones it is I <font color="#00ff00">who</font> teach them to ride.
+
+286
+00:01:22,400 --> 00:01:22,560
+and as for the little ones it is I who teach them to ride.
+
+287
+00:01:22,560 --> 00:01:22,660
+and as for the little ones it is I who <font color="#00ff00">teach</font> them to ride.
+
+288
+00:01:22,660 --> 00:01:22,860
+and as for the little ones it is I who teach <font color="#00ff00">them</font> to ride.
+
+289
+00:01:22,860 --> 00:01:23,160
+and as for the little ones it is I who teach them <font color="#00ff00">to</font> ride.
+
+290
+00:01:23,160 --> 00:01:23,460
+and as for the little ones it is I who teach them to <font color="#00ff00">ride.</font>
+
+291
+00:01:24,880 --> 00:01:25,120
+<font color="#00ff00">When</font> they seem frightened or a little unsteady on my back,
+
+292
+00:01:25,120 --> 00:01:25,380
+When <font color="#00ff00">they</font> seem frightened or a little unsteady on my back,
+
+293
+00:01:25,380 --> 00:01:25,680
+When they <font color="#00ff00">seem</font> frightened or a little unsteady on my back,
+
+294
+00:01:25,680 --> 00:01:25,780
+When they seem frightened or a little unsteady on my back,
+
+295
+00:01:25,780 --> 00:01:26,260
+When they seem <font color="#00ff00">frightened</font> or a little unsteady on my back,
+
+296
+00:01:26,260 --> 00:01:26,360
+When they seem frightened or a little unsteady on my back,
+
+297
+00:01:26,360 --> 00:01:26,660
+When they seem frightened <font color="#00ff00">or</font> a little unsteady on my back,
+
+298
+00:01:26,660 --> 00:01:26,800
+When they seem frightened or <font color="#00ff00">a</font> little unsteady on my back,
+
+299
+00:01:26,800 --> 00:01:27,120
+When they seem frightened or a <font color="#00ff00">little</font> unsteady on my back,
+
+300
+00:01:27,120 --> 00:01:27,700
+When they seem frightened or a little <font color="#00ff00">unsteady</font> on my back,
+
+301
+00:01:27,700 --> 00:01:27,880
+When they seem frightened or a little unsteady <font color="#00ff00">on</font> my back,
+
+302
+00:01:27,880 --> 00:01:28,180
+When they seem frightened or a little unsteady on <font color="#00ff00">my</font> back,
+
+303
+00:01:28,180 --> 00:01:28,340
+When they seem frightened or a little unsteady on my <font color="#00ff00">back,</font>
+
+304
+00:01:28,800 --> 00:01:29,060
+<font color="#00ff00">I</font> go as smooth and as quiet as old pussy when she is after a bird and when they are all right,
+
+305
+00:01:29,060 --> 00:01:29,420
+I <font color="#00ff00">go</font> as smooth and as quiet as old pussy when she is after a bird and when they are all right,
+
+306
+00:01:29,420 --> 00:01:29,720
+I go <font color="#00ff00">as</font> smooth and as quiet as old pussy when she is after a bird and when they are all right,
+
+307
+00:01:29,720 --> 00:01:30,100
+I go as <font color="#00ff00">smooth</font> and as quiet as old pussy when she is after a bird and when they are all right,
+
+308
+00:01:30,100 --> 00:01:30,300
+I go as smooth <font color="#00ff00">and</font> as quiet as old pussy when she is after a bird and when they are all right,
+
+309
+00:01:30,300 --> 00:01:30,500
+I go as smooth and as quiet as old pussy when she is after a bird and when they are all right,
+
+310
+00:01:30,500 --> 00:01:30,600
+I go as smooth and <font color="#00ff00">as</font> quiet as old pussy when she is after a bird and when they are all right,
+
+311
+00:01:30,600 --> 00:01:30,840
+I go as smooth and as <font color="#00ff00">quiet</font> as old pussy when she is after a bird and when they are all right,
+
+312
+00:01:30,840 --> 00:01:31,080
+I go as smooth and as quiet <font color="#00ff00">as</font> old pussy when she is after a bird and when they are all right,
+
+313
+00:01:31,080 --> 00:01:31,200
+I go as smooth and as quiet as old pussy when she is after a bird and when they are all right,
+
+314
+00:01:31,200 --> 00:01:31,300
+I go as smooth and as quiet as <font color="#00ff00">old</font> pussy when she is after a bird and when they are all right,
+
+315
+00:01:31,300 --> 00:01:31,600
+I go as smooth and as quiet as old <font color="#00ff00">pussy</font> when she is after a bird and when they are all right,
+
+316
+00:01:31,600 --> 00:01:31,800
+I go as smooth and as quiet as old pussy <font color="#00ff00">when</font> she is after a bird and when they are all right,
+
+317
+00:01:31,800 --> 00:01:32,020
+I go as smooth and as quiet as old pussy when <font color="#00ff00">she</font> is after a bird and when they are all right,
+
+318
+00:01:32,020 --> 00:01:32,200
+I go as smooth and as quiet as old pussy when she <font color="#00ff00">is</font> after a bird and when they are all right,
+
+319
+00:01:32,200 --> 00:01:32,500
+I go as smooth and as quiet as old pussy when she is <font color="#00ff00">after</font> a bird and when they are all right,
+
+320
+00:01:32,500 --> 00:01:32,700
+I go as smooth and as quiet as old pussy when she is after <font color="#00ff00">a</font> bird and when they are all right,
+
+321
+00:01:32,700 --> 00:01:33,000
+I go as smooth and as quiet as old pussy when she is after a <font color="#00ff00">bird</font> and when they are all right,
+
+322
+00:01:33,000 --> 00:01:33,300
+I go as smooth and as quiet as old pussy when she is after a bird and when they are all right,
+
+323
+00:01:33,300 --> 00:01:33,640
+I go as smooth and as quiet as old pussy when she is after a bird <font color="#00ff00">and</font> when they are all right,
+
+324
+00:01:33,640 --> 00:01:33,840
+I go as smooth and as quiet as old pussy when she is after a bird and <font color="#00ff00">when</font> they are all right,
+
+325
+00:01:33,840 --> 00:01:34,040
+I go as smooth and as quiet as old pussy when she is after a bird and when <font color="#00ff00">they</font> are all right,
+
+326
+00:01:34,040 --> 00:01:34,200
+I go as smooth and as quiet as old pussy when she is after a bird and when they <font color="#00ff00">are</font> all right,
+
+327
+00:01:34,200 --> 00:01:34,400
+I go as smooth and as quiet as old pussy when she is after a bird and when they are <font color="#00ff00">all</font> right,
+
+328
+00:01:34,400 --> 00:01:34,620
+I go as smooth and as quiet as old pussy when she is after a bird and when they are all <font color="#00ff00">right,</font>
+
+329
+00:01:35,080 --> 00:01:35,400
+<font color="#00ff00">I</font> go on again faster,
+
+330
+00:01:35,400 --> 00:01:35,640
+I <font color="#00ff00">go</font> on again faster,
+
+331
+00:01:35,640 --> 00:01:35,880
+I go <font color="#00ff00">on</font> again faster,
+
+332
+00:01:35,880 --> 00:01:36,220
+I go on <font color="#00ff00">again</font> faster,
+
+333
+00:01:36,220 --> 00:01:36,820
+I go on again <font color="#00ff00">faster,</font>
+
+334
+00:01:37,160 --> 00:01:37,440
+<font color="#00ff00">you</font> see,
+
+335
+00:01:37,440 --> 00:01:37,620
+you <font color="#00ff00">see,</font>
+
+336
+00:01:38,180 --> 00:01:38,280
+<font color="#00ff00">just</font> to use them to it.
+
+337
+00:01:38,280 --> 00:01:38,520
+just <font color="#00ff00">to</font> use them to it.
+
+338
+00:01:38,520 --> 00:01:38,700
+just to <font color="#00ff00">use</font> them to it.
+
+339
+00:01:38,700 --> 00:01:38,720
+just to use them to it.
+
+340
+00:01:38,720 --> 00:01:38,920
+just to use <font color="#00ff00">them</font> to it.
+
+341
+00:01:38,920 --> 00:01:39,140
+just to use them <font color="#00ff00">to</font> it.
+
+342
+00:01:39,140 --> 00:01:39,240
+just to use them to <font color="#00ff00">it.</font>
+
+343
+00:01:39,920 --> 00:01:40,160
+<font color="#00ff00">So</font> don't you trouble yourself preaching to me.
+
+344
+00:01:40,160 --> 00:01:40,480
+So <font color="#00ff00">don't</font> you trouble yourself preaching to me.
+
+345
+00:01:40,480 --> 00:01:40,700
+So don't <font color="#00ff00">you</font> trouble yourself preaching to me.
+
+346
+00:01:40,700 --> 00:01:40,940
+So don't you <font color="#00ff00">trouble</font> yourself preaching to me.
+
+347
+00:01:40,940 --> 00:01:41,420
+So don't you trouble <font color="#00ff00">yourself</font> preaching to me.
+
+348
+00:01:41,420 --> 00:01:41,480
+So don't you trouble yourself preaching to me.
+
+349
+00:01:41,480 --> 00:01:41,840
+So don't you trouble yourself <font color="#00ff00">preaching</font> to me.
+
+350
+00:01:41,840 --> 00:01:42,120
+So don't you trouble yourself preaching <font color="#00ff00">to</font> me.
+
+351
+00:01:42,120 --> 00:01:42,320
+So don't you trouble yourself preaching to <font color="#00ff00">me.</font>
+
+352
+00:01:42,740 --> 00:01:43,080
+<font color="#00ff00">I</font> am the best friend and the best riding master those children have."
+
+353
+00:01:43,080 --> 00:01:43,360
+I <font color="#00ff00">am</font> the best friend and the best riding master those children have."
+
+354
+00:01:43,360 --> 00:01:43,620
+I am <font color="#00ff00">the</font> best friend and the best riding master those children have."
+
+355
+00:01:43,620 --> 00:01:44,020
+I am the <font color="#00ff00">best</font> friend and the best riding master those children have."
+
+356
+00:01:44,020 --> 00:01:44,060
+I am the best friend and the best riding master those children have."
+
+357
+00:01:44,060 --> 00:01:44,380
+I am the best <font color="#00ff00">friend</font> and the best riding master those children have."
+
+358
+00:01:44,380 --> 00:01:44,640
+I am the best friend and the best riding master those children have."
+
+359
+00:01:44,640 --> 00:01:44,820
+I am the best friend <font color="#00ff00">and</font> the best riding master those children have."
+
+360
+00:01:44,820 --> 00:01:45,080
+I am the best friend and <font color="#00ff00">the</font> best riding master those children have."
+
+361
+00:01:45,080 --> 00:01:45,440
+I am the best friend and the <font color="#00ff00">best</font> riding master those children have."
+
+362
+00:01:45,440 --> 00:01:45,760
+I am the best friend and the best <font color="#00ff00">riding</font> master those children have."
+
+363
+00:01:45,760 --> 00:01:46,220
+I am the best friend and the best riding <font color="#00ff00">master</font> those children have."
+
+364
+00:01:46,220 --> 00:01:46,580
+I am the best friend and the best riding master <font color="#00ff00">those</font> children have."
+
+365
+00:01:46,580 --> 00:01:47,020
+I am the best friend and the best riding master those <font color="#00ff00">children</font> have."
+
+366
+00:01:47,020 --> 00:01:47,340
+I am the best friend and the best riding master those children <font color="#00ff00">have."</font>
+
+367
+00:01:48,500 --> 00:01:48,620
+<font color="#00ff00">"It</font> is not them,
+
+368
+00:01:48,620 --> 00:01:48,900
+"It <font color="#00ff00">is</font> not them,
+
+369
+00:01:48,900 --> 00:01:49,160
+"It is <font color="#00ff00">not</font> them,
+
+370
+00:01:49,160 --> 00:01:49,460
+"It is not <font color="#00ff00">them,</font>
+
+371
+00:01:49,880 --> 00:01:50,040
+<font color="#00ff00">it</font> is the boys," said he,
+
+372
+00:01:50,040 --> 00:01:50,280
+it <font color="#00ff00">is</font> the boys," said he,
+
+373
+00:01:50,280 --> 00:01:50,460
+it is <font color="#00ff00">the</font> boys," said he,
+
+374
+00:01:50,460 --> 00:01:50,820
+it is the <font color="#00ff00">boys,"</font> said he,
+
+375
+00:01:50,820 --> 00:01:51,320
+it is the boys," said he,
+
+376
+00:01:51,320 --> 00:01:51,580
+it is the boys," <font color="#00ff00">said</font> he,
+
+377
+00:01:51,580 --> 00:01:51,940
+it is the boys," said <font color="#00ff00">he,</font>
+
+378
+00:01:51,940 --> 00:01:52,260
+<font color="#00ff00">shaking</font> his mane.
+
+379
+00:01:52,260 --> 00:01:52,500
+shaking <font color="#00ff00">his</font> mane.
+
+380
+00:01:52,500 --> 00:01:52,700
+shaking his mane.
+
+381
+00:01:52,700 --> 00:01:52,840
+shaking his <font color="#00ff00">mane.</font>
+
+382
+00:01:53,240 --> 00:01:53,520
+<font color="#00ff00">"Boys</font> are quite different.
+
+383
+00:01:53,520 --> 00:01:53,620
+"Boys are quite different.
+
+384
+00:01:53,620 --> 00:01:53,720
+"Boys <font color="#00ff00">are</font> quite different.
+
+385
+00:01:53,720 --> 00:01:53,980
+"Boys are <font color="#00ff00">quite</font> different.
+
+386
+00:01:53,980 --> 00:01:54,360
+"Boys are quite <font color="#00ff00">different.</font>
+
+387
+00:01:54,780 --> 00:01:54,940
+<font color="#00ff00">They</font> must be broken in,
+
+388
+00:01:54,940 --> 00:01:55,220
+They <font color="#00ff00">must</font> be broken in,
+
+389
+00:01:55,220 --> 00:01:55,420
+They must <font color="#00ff00">be</font> broken in,
+
+390
+00:01:55,420 --> 00:01:55,740
+They must be <font color="#00ff00">broken</font> in,
+
+391
+00:01:55,740 --> 00:01:56,000
+They must be broken <font color="#00ff00">in,</font>
+
+392
+00:01:56,200 --> 00:01:56,400
+<font color="#00ff00">as</font> we were broken in when we were colts,
+
+393
+00:01:56,400 --> 00:01:56,620
+as <font color="#00ff00">we</font> were broken in when we were colts,
+
+394
+00:01:56,620 --> 00:01:56,820
+as we <font color="#00ff00">were</font> broken in when we were colts,
+
+395
+00:01:56,820 --> 00:01:57,140
+as we were <font color="#00ff00">broken</font> in when we were colts,
+
+396
+00:01:57,140 --> 00:01:57,440
+as we were broken <font color="#00ff00">in</font> when we were colts,
+
+397
+00:01:57,440 --> 00:01:57,560
+as we were broken in when we were colts,
+
+398
+00:01:57,560 --> 00:01:57,740
+as we were broken in <font color="#00ff00">when</font> we were colts,
+
+399
+00:01:57,740 --> 00:01:57,900
+as we were broken in when <font color="#00ff00">we</font> were colts,
+
+400
+00:01:57,900 --> 00:01:58,120
+as we were broken in when we <font color="#00ff00">were</font> colts,
+
+401
+00:01:58,120 --> 00:01:58,560
+as we were broken in when we were <font color="#00ff00">colts,</font>
+
+402
+00:01:58,860 --> 00:01:59,100
+<font color="#00ff00">and</font> just be taught what's what."
+
+403
+00:01:59,100 --> 00:01:59,460
+and <font color="#00ff00">just</font> be taught what's what."
+
+404
+00:01:59,460 --> 00:01:59,680
+and just be taught what's what."
+
+405
+00:01:59,680 --> 00:01:59,780
+and just <font color="#00ff00">be</font> taught what's what."
+
+406
+00:01:59,780 --> 00:02:00,040
+and just be <font color="#00ff00">taught</font> what's what."
+
+407
+00:02:00,040 --> 00:02:00,060
+and just be taught what's what."
+
+408
+00:02:00,060 --> 00:02:00,520
+and just be taught <font color="#00ff00">what's</font> what."
+
+409
+00:02:00,520 --> 00:02:00,620
+and just be taught what's <font color="#00ff00">what."</font>
+
+410
+00:02:01,880 --> 00:02:02,000
+<font color="#00ff00">The</font> other children had ridden me about for nearly two hours,
+
+411
+00:02:02,000 --> 00:02:02,280
+The <font color="#00ff00">other</font> children had ridden me about for nearly two hours,
+
+412
+00:02:02,280 --> 00:02:02,620
+The other <font color="#00ff00">children</font> had ridden me about for nearly two hours,
+
+413
+00:02:02,620 --> 00:02:02,860
+The other children <font color="#00ff00">had</font> ridden me about for nearly two hours,
+
+414
+00:02:02,860 --> 00:02:03,100
+The other children had <font color="#00ff00">ridden</font> me about for nearly two hours,
+
+415
+00:02:03,100 --> 00:02:03,260
+The other children had ridden <font color="#00ff00">me</font> about for nearly two hours,
+
+416
+00:02:03,260 --> 00:02:03,520
+The other children had ridden me <font color="#00ff00">about</font> for nearly two hours,
+
+417
+00:02:03,520 --> 00:02:03,580
+The other children had ridden me about for nearly two hours,
+
+418
+00:02:03,580 --> 00:02:03,700
+The other children had ridden me about <font color="#00ff00">for</font> nearly two hours,
+
+419
+00:02:03,700 --> 00:02:03,900
+The other children had ridden me about for nearly two hours,
+
+420
+00:02:03,900 --> 00:02:04,000
+The other children had ridden me about for <font color="#00ff00">nearly</font> two hours,
+
+421
+00:02:04,000 --> 00:02:04,340
+The other children had ridden me about for nearly <font color="#00ff00">two</font> hours,
+
+422
+00:02:04,340 --> 00:02:04,640
+The other children had ridden me about for nearly two <font color="#00ff00">hours,</font>
+
+423
+00:02:05,100 --> 00:02:05,220
+<font color="#00ff00">and</font> then the boys thought it was their turn,
+
+424
+00:02:05,220 --> 00:02:05,400
+and <font color="#00ff00">then</font> the boys thought it was their turn,
+
+425
+00:02:05,400 --> 00:02:05,580
+and then <font color="#00ff00">the</font> boys thought it was their turn,
+
+426
+00:02:05,580 --> 00:02:05,820
+and then the <font color="#00ff00">boys</font> thought it was their turn,
+
+427
+00:02:05,820 --> 00:02:06,040
+and then the boys <font color="#00ff00">thought</font> it was their turn,
+
+428
+00:02:06,040 --> 00:02:06,160
+and then the boys thought <font color="#00ff00">it</font> was their turn,
+
+429
+00:02:06,160 --> 00:02:06,360
+and then the boys thought it <font color="#00ff00">was</font> their turn,
+
+430
+00:02:06,360 --> 00:02:06,660
+and then the boys thought it was <font color="#00ff00">their</font> turn,
+
+431
+00:02:06,660 --> 00:02:06,960
+and then the boys thought it was their <font color="#00ff00">turn,</font>
+
+432
+00:02:07,320 --> 00:02:07,560
+<font color="#00ff00">and</font> so it was,
+
+433
+00:02:07,560 --> 00:02:07,780
+and <font color="#00ff00">so</font> it was,
+
+434
+00:02:07,780 --> 00:02:08,000
+and so <font color="#00ff00">it</font> was,
+
+435
+00:02:08,000 --> 00:02:08,220
+and so it <font color="#00ff00">was,</font>
+
+436
+00:02:08,640 --> 00:02:08,860
+<font color="#00ff00">and</font> I was quite agreeable.
+
+437
+00:02:08,860 --> 00:02:09,140
+and <font color="#00ff00">I</font> was quite agreeable.
+
+438
+00:02:09,140 --> 00:02:09,400
+and I <font color="#00ff00">was</font> quite agreeable.
+
+439
+00:02:09,400 --> 00:02:09,460
+and I was quite agreeable.
+
+440
+00:02:09,460 --> 00:02:09,820
+and I was <font color="#00ff00">quite</font> agreeable.
+
+441
+00:02:09,820 --> 00:02:10,380
+and I was quite <font color="#00ff00">agreeable.</font>
+
+442
+00:02:11,060 --> 00:02:11,220
+<font color="#00ff00">They</font> rode me by turns,
+
+443
+00:02:11,220 --> 00:02:11,480
+They <font color="#00ff00">rode</font> me by turns,
+
+444
+00:02:11,480 --> 00:02:11,640
+They rode <font color="#00ff00">me</font> by turns,
+
+445
+00:02:11,640 --> 00:02:11,900
+They rode me <font color="#00ff00">by</font> turns,
+
+446
+00:02:11,900 --> 00:02:12,380
+They rode me by <font color="#00ff00">turns,</font>
+
+447
+00:02:12,640 --> 00:02:12,860
+<font color="#00ff00">and</font> so I galloped them about,
+
+448
+00:02:12,860 --> 00:02:13,140
+and <font color="#00ff00">so</font> I galloped them about,
+
+449
+00:02:13,140 --> 00:02:13,420
+and so <font color="#00ff00">I</font> galloped them about,
+
+450
+00:02:13,420 --> 00:02:13,700
+and so I <font color="#00ff00">galloped</font> them about,
+
+451
+00:02:13,700 --> 00:02:13,920
+and so I galloped <font color="#00ff00">them</font> about,
+
+452
+00:02:13,920 --> 00:02:14,620
+and so I galloped them <font color="#00ff00">about,</font>
+
+453
+00:02:14,620 --> 00:02:14,940
+<font color="#00ff00">up</font> and down the fields and all about the orchard for a good hour.
+
+454
+00:02:14,940 --> 00:02:15,200
+up <font color="#00ff00">and</font> down the fields and all about the orchard for a good hour.
+
+455
+00:02:15,200 --> 00:02:15,360
+up and <font color="#00ff00">down</font> the fields and all about the orchard for a good hour.
+
+456
+00:02:15,360 --> 00:02:15,600
+up and down <font color="#00ff00">the</font> fields and all about the orchard for a good hour.
+
+457
+00:02:15,600 --> 00:02:15,820
+up and down the fields and all about the orchard for a good hour.
+
+458
+00:02:15,820 --> 00:02:15,920
+up and down the <font color="#00ff00">fields</font> and all about the orchard for a good hour.
+
+459
+00:02:15,920 --> 00:02:16,200
+up and down the fields <font color="#00ff00">and</font> all about the orchard for a good hour.
+
+460
+00:02:16,200 --> 00:02:16,480
+up and down the fields and <font color="#00ff00">all</font> about the orchard for a good hour.
+
+461
+00:02:16,480 --> 00:02:16,600
+up and down the fields and all about the orchard for a good hour.
+
+462
+00:02:16,600 --> 00:02:16,700
+up and down the fields and all <font color="#00ff00">about</font> the orchard for a good hour.
+
+463
+00:02:16,700 --> 00:02:16,920
+up and down the fields and all about <font color="#00ff00">the</font> orchard for a good hour.
+
+464
+00:02:16,920 --> 00:02:17,280
+up and down the fields and all about the <font color="#00ff00">orchard</font> for a good hour.
+
+465
+00:02:17,280 --> 00:02:17,320
+up and down the fields and all about the orchard for a good hour.
+
+466
+00:02:17,320 --> 00:02:17,440
+up and down the fields and all about the orchard <font color="#00ff00">for</font> a good hour.
+
+467
+00:02:17,440 --> 00:02:17,660
+up and down the fields and all about the orchard for <font color="#00ff00">a</font> good hour.
+
+468
+00:02:17,660 --> 00:02:17,880
+up and down the fields and all about the orchard for a <font color="#00ff00">good</font> hour.
+
+469
+00:02:17,880 --> 00:02:18,040
+up and down the fields and all about the orchard for a good <font color="#00ff00">hour.</font>
+
+470
+00:02:19,080 --> 00:02:19,220
+<font color="#00ff00">They</font> had each cut a great hazel stick for a riding whip,
+
+471
+00:02:19,220 --> 00:02:19,360
+They had each cut a great hazel stick for a riding whip,
+
+472
+00:02:19,360 --> 00:02:19,460
+They <font color="#00ff00">had</font> each cut a great hazel stick for a riding whip,
+
+473
+00:02:19,460 --> 00:02:19,840
+They had <font color="#00ff00">each</font> cut a great hazel stick for a riding whip,
+
+474
+00:02:19,840 --> 00:02:20,020
+They had each <font color="#00ff00">cut</font> a great hazel stick for a riding whip,
+
+475
+00:02:20,020 --> 00:02:20,260
+They had each cut <font color="#00ff00">a</font> great hazel stick for a riding whip,
+
+476
+00:02:20,260 --> 00:02:20,540
+They had each cut a <font color="#00ff00">great</font> hazel stick for a riding whip,
+
+477
+00:02:20,540 --> 00:02:21,060
+They had each cut a great <font color="#00ff00">hazel</font> stick for a riding whip,
+
+478
+00:02:21,060 --> 00:02:21,320
+They had each cut a great hazel <font color="#00ff00">stick</font> for a riding whip,
+
+479
+00:02:21,320 --> 00:02:21,400
+They had each cut a great hazel stick for a riding whip,
+
+480
+00:02:21,400 --> 00:02:21,540
+They had each cut a great hazel stick <font color="#00ff00">for</font> a riding whip,
+
+481
+00:02:21,540 --> 00:02:21,660
+They had each cut a great hazel stick for <font color="#00ff00">a</font> riding whip,
+
+482
+00:02:21,660 --> 00:02:22,040
+They had each cut a great hazel stick for a <font color="#00ff00">riding</font> whip,
+
+483
+00:02:22,040 --> 00:02:22,140
+They had each cut a great hazel stick for a riding <font color="#00ff00">whip,</font>
+
+484
+00:02:22,600 --> 00:02:22,820
+<font color="#00ff00">and</font> laid it on a little too hard,
+
+485
+00:02:22,820 --> 00:02:23,000
+and <font color="#00ff00">laid</font> it on a little too hard,
+
+486
+00:02:23,000 --> 00:02:23,220
+and laid <font color="#00ff00">it</font> on a little too hard,
+
+487
+00:02:23,220 --> 00:02:23,440
+and laid it <font color="#00ff00">on</font> a little too hard,
+
+488
+00:02:23,440 --> 00:02:23,540
+and laid it on <font color="#00ff00">a</font> little too hard,
+
+489
+00:02:23,540 --> 00:02:23,800
+and laid it on a <font color="#00ff00">little</font> too hard,
+
+490
+00:02:23,800 --> 00:02:23,820
+and laid it on a little too hard,
+
+491
+00:02:23,820 --> 00:02:24,200
+and laid it on a little <font color="#00ff00">too</font> hard,
+
+492
+00:02:24,200 --> 00:02:24,420
+and laid it on a little too <font color="#00ff00">hard,</font>
+
+493
+00:02:24,880 --> 00:02:24,980
+<font color="#00ff00">but</font> I took it in good part till at last I thought we had had enough,
+
+494
+00:02:24,980 --> 00:02:25,120
+but <font color="#00ff00">I</font> took it in good part till at last I thought we had had enough,
+
+495
+00:02:25,120 --> 00:02:25,280
+but I <font color="#00ff00">took</font> it in good part till at last I thought we had had enough,
+
+496
+00:02:25,280 --> 00:02:25,420
+but I took <font color="#00ff00">it</font> in good part till at last I thought we had had enough,
+
+497
+00:02:25,420 --> 00:02:25,520
+but I took it <font color="#00ff00">in</font> good part till at last I thought we had had enough,
+
+498
+00:02:25,520 --> 00:02:25,840
+but I took it in <font color="#00ff00">good</font> part till at last I thought we had had enough,
+
+499
+00:02:25,840 --> 00:02:26,120
+but I took it in good <font color="#00ff00">part</font> till at last I thought we had had enough,
+
+500
+00:02:26,120 --> 00:02:26,160
+but I took it in good part till at last I thought we had had enough,
+
+501
+00:02:26,160 --> 00:02:26,280
+but I took it in good part <font color="#00ff00">till</font> at last I thought we had had enough,
+
+502
+00:02:26,280 --> 00:02:26,540
+but I took it in good part till <font color="#00ff00">at</font> last I thought we had had enough,
+
+503
+00:02:26,540 --> 00:02:26,860
+but I took it in good part till at <font color="#00ff00">last</font> I thought we had had enough,
+
+504
+00:02:26,860 --> 00:02:27,080
+but I took it in good part till at last I thought we had had enough,
+
+505
+00:02:27,080 --> 00:02:27,240
+but I took it in good part till at last <font color="#00ff00">I</font> thought we had had enough,
+
+506
+00:02:27,240 --> 00:02:27,440
+but I took it in good part till at last I <font color="#00ff00">thought</font> we had had enough,
+
+507
+00:02:27,440 --> 00:02:27,600
+but I took it in good part till at last I thought <font color="#00ff00">we</font> had had enough,
+
+508
+00:02:27,600 --> 00:02:27,740
+but I took it in good part till at last I thought we <font color="#00ff00">had</font> had enough,
+
+509
+00:02:27,740 --> 00:02:27,920
+but I took it in good part till at last I thought we had <font color="#00ff00">had</font> enough,
+
+510
+00:02:27,920 --> 00:02:28,140
+but I took it in good part till at last I thought we had had <font color="#00ff00">enough,</font>
+
+511
+00:02:28,700 --> 00:02:28,840
+<font color="#00ff00">so</font> I stopped two or three times by way of a hint.
+
+512
+00:02:28,840 --> 00:02:29,100
+so <font color="#00ff00">I</font> stopped two or three times by way of a hint.
+
+513
+00:02:29,100 --> 00:02:29,280
+so I <font color="#00ff00">stopped</font> two or three times by way of a hint.
+
+514
+00:02:29,280 --> 00:02:29,340
+so I stopped two or three times by way of a hint.
+
+515
+00:02:29,340 --> 00:02:29,520
+so I stopped <font color="#00ff00">two</font> or three times by way of a hint.
+
+516
+00:02:29,520 --> 00:02:29,580
+so I stopped two <font color="#00ff00">or</font> three times by way of a hint.
+
+517
+00:02:29,580 --> 00:02:29,740
+so I stopped two or three times by way of a hint.
+
+518
+00:02:29,740 --> 00:02:29,840
+so I stopped two or <font color="#00ff00">three</font> times by way of a hint.
+
+519
+00:02:29,840 --> 00:02:30,260
+so I stopped two or three <font color="#00ff00">times</font> by way of a hint.
+
+520
+00:02:30,260 --> 00:02:30,300
+so I stopped two or three times by way of a hint.
+
+521
+00:02:30,300 --> 00:02:30,460
+so I stopped two or three times <font color="#00ff00">by</font> way of a hint.
+
+522
+00:02:30,460 --> 00:02:30,660
+so I stopped two or three times by <font color="#00ff00">way</font> of a hint.
+
+523
+00:02:30,660 --> 00:02:30,780
+so I stopped two or three times by way <font color="#00ff00">of</font> a hint.
+
+524
+00:02:30,780 --> 00:02:30,900
+so I stopped two or three times by way of <font color="#00ff00">a</font> hint.
+
+525
+00:02:30,900 --> 00:02:31,040
+so I stopped two or three times by way of a <font color="#00ff00">hint.</font>
+
+526
+00:02:31,780 --> 00:02:32,160
+<font color="#00ff00">Boys,</font> you see,
+
+527
+00:02:32,160 --> 00:02:32,200
+Boys, you see,
+
+528
+00:02:32,200 --> 00:02:32,440
+Boys, <font color="#00ff00">you</font> see,
+
+529
+00:02:32,440 --> 00:02:32,640
+Boys, you <font color="#00ff00">see,</font>
+
+530
+00:02:32,940 --> 00:02:33,120
+<font color="#00ff00">think</font> a horse or pony is like a steam engine or a thrashing machine and can go on as long and as fast as they please.
+
+531
+00:02:33,120 --> 00:02:33,340
+think <font color="#00ff00">a</font> horse or pony is like a steam engine or a thrashing machine and can go on as long and as fast as they please.
+
+532
+00:02:33,340 --> 00:02:33,520
+think a <font color="#00ff00">horse</font> or pony is like a steam engine or a thrashing machine and can go on as long and as fast as they please.
+
+533
+00:02:33,520 --> 00:02:33,580
+think a horse or pony is like a steam engine or a thrashing machine and can go on as long and as fast as they please.
+
+534
+00:02:33,580 --> 00:02:33,680
+think a horse <font color="#00ff00">or</font> pony is like a steam engine or a thrashing machine and can go on as long and as fast as they please.
+
+535
+00:02:33,680 --> 00:02:33,880
+think a horse or <font color="#00ff00">pony</font> is like a steam engine or a thrashing machine and can go on as long and as fast as they please.
+
+536
+00:02:33,880 --> 00:02:34,020
+think a horse or pony <font color="#00ff00">is</font> like a steam engine or a thrashing machine and can go on as long and as fast as they please.
+
+537
+00:02:34,020 --> 00:02:34,160
+think a horse or pony is <font color="#00ff00">like</font> a steam engine or a thrashing machine and can go on as long and as fast as they please.
+
+538
+00:02:34,160 --> 00:02:34,300
+think a horse or pony is like a steam engine or a thrashing machine and can go on as long and as fast as they please.
+
+539
+00:02:34,300 --> 00:02:34,400
+think a horse or pony is like <font color="#00ff00">a</font> steam engine or a thrashing machine and can go on as long and as fast as they please.
+
+540
+00:02:34,400 --> 00:02:34,640
+think a horse or pony is like a <font color="#00ff00">steam</font> engine or a thrashing machine and can go on as long and as fast as they please.
+
+541
+00:02:34,640 --> 00:02:34,960
+think a horse or pony is like a steam <font color="#00ff00">engine</font> or a thrashing machine and can go on as long and as fast as they please.
+
+542
+00:02:34,960 --> 00:02:35,120
+think a horse or pony is like a steam engine <font color="#00ff00">or</font> a thrashing machine and can go on as long and as fast as they please.
+
+543
+00:02:35,120 --> 00:02:35,320
+think a horse or pony is like a steam engine or <font color="#00ff00">a</font> thrashing machine and can go on as long and as fast as they please.
+
+544
+00:02:35,320 --> 00:02:35,600
+think a horse or pony is like a steam engine or a <font color="#00ff00">thrashing</font> machine and can go on as long and as fast as they please.
+
+545
+00:02:35,600 --> 00:02:35,640
+think a horse or pony is like a steam engine or a thrashing machine and can go on as long and as fast as they please.
+
+546
+00:02:35,640 --> 00:02:36,100
+think a horse or pony is like a steam engine or a thrashing <font color="#00ff00">machine</font> and can go on as long and as fast as they please.
+
+547
+00:02:36,100 --> 00:02:36,340
+think a horse or pony is like a steam engine or a thrashing machine and can go on as long and as fast as they please.
+
+548
+00:02:36,340 --> 00:02:36,460
+think a horse or pony is like a steam engine or a thrashing machine <font color="#00ff00">and</font> can go on as long and as fast as they please.
+
+549
+00:02:36,460 --> 00:02:36,680
+think a horse or pony is like a steam engine or a thrashing machine and <font color="#00ff00">can</font> go on as long and as fast as they please.
+
+550
+00:02:36,680 --> 00:02:36,920
+think a horse or pony is like a steam engine or a thrashing machine and can <font color="#00ff00">go</font> on as long and as fast as they please.
+
+551
+00:02:36,920 --> 00:02:37,140
+think a horse or pony is like a steam engine or a thrashing machine and can go <font color="#00ff00">on</font> as long and as fast as they please.
+
+552
+00:02:37,140 --> 00:02:37,380
+think a horse or pony is like a steam engine or a thrashing machine and can go on <font color="#00ff00">as</font> long and as fast as they please.
+
+553
+00:02:37,380 --> 00:02:37,540
+think a horse or pony is like a steam engine or a thrashing machine and can go on as <font color="#00ff00">long</font> and as fast as they please.
+
+554
+00:02:37,540 --> 00:02:37,720
+think a horse or pony is like a steam engine or a thrashing machine and can go on as long <font color="#00ff00">and</font> as fast as they please.
+
+555
+00:02:37,720 --> 00:02:37,940
+think a horse or pony is like a steam engine or a thrashing machine and can go on as long and <font color="#00ff00">as</font> fast as they please.
+
+556
+00:02:37,940 --> 00:02:38,160
+think a horse or pony is like a steam engine or a thrashing machine and can go on as long and as <font color="#00ff00">fast</font> as they please.
+
+557
+00:02:38,160 --> 00:02:38,300
+think a horse or pony is like a steam engine or a thrashing machine and can go on as long and as fast <font color="#00ff00">as</font> they please.
+
+558
+00:02:38,300 --> 00:02:38,580
+think a horse or pony is like a steam engine or a thrashing machine and can go on as long and as fast as <font color="#00ff00">they</font> please.
+
+559
+00:02:38,580 --> 00:02:38,760
+think a horse or pony is like a steam engine or a thrashing machine and can go on as long and as fast as they <font color="#00ff00">please.</font>
+
+560
+00:02:39,340 --> 00:02:39,500
+<font color="#00ff00">They</font> never think that a pony can get tired or have any feelings.
+
+561
+00:02:39,500 --> 00:02:39,760
+They <font color="#00ff00">never</font> think that a pony can get tired or have any feelings.
+
+562
+00:02:39,760 --> 00:02:40,020
+They never <font color="#00ff00">think</font> that a pony can get tired or have any feelings.
+
+563
+00:02:40,020 --> 00:02:40,180
+They never think <font color="#00ff00">that</font> a pony can get tired or have any feelings.
+
+564
+00:02:40,180 --> 00:02:40,340
+They never think that <font color="#00ff00">a</font> pony can get tired or have any feelings.
+
+565
+00:02:40,340 --> 00:02:40,560
+They never think that a <font color="#00ff00">pony</font> can get tired or have any feelings.
+
+566
+00:02:40,560 --> 00:02:40,740
+They never think that a pony <font color="#00ff00">can</font> get tired or have any feelings.
+
+567
+00:02:40,740 --> 00:02:40,900
+They never think that a pony can get tired or have any feelings.
+
+568
+00:02:40,900 --> 00:02:41,000
+They never think that a pony can <font color="#00ff00">get</font> tired or have any feelings.
+
+569
+00:02:41,000 --> 00:02:41,440
+They never think that a pony can get <font color="#00ff00">tired</font> or have any feelings.
+
+570
+00:02:41,440 --> 00:02:41,600
+They never think that a pony can get tired <font color="#00ff00">or</font> have any feelings.
+
+571
+00:02:41,600 --> 00:02:41,840
+They never think that a pony can get tired or <font color="#00ff00">have</font> any feelings.
+
+572
+00:02:41,840 --> 00:02:42,180
+They never think that a pony can get tired or have <font color="#00ff00">any</font> feelings.
+
+573
+00:02:42,180 --> 00:02:42,700
+They never think that a pony can get tired or have any <font color="#00ff00">feelings.</font>
+
+574
+00:02:43,540 --> 00:02:43,680
+<font color="#00ff00">So</font> as the one who was whipping me could not understand I just rose up on my hind legs and let him slip off behind.
+
+575
+00:02:43,680 --> 00:02:43,900
+So <font color="#00ff00">as</font> the one who was whipping me could not understand I just rose up on my hind legs and let him slip off behind.
+
+576
+00:02:43,900 --> 00:02:44,080
+So as <font color="#00ff00">the</font> one who was whipping me could not understand I just rose up on my hind legs and let him slip off behind.
+
+577
+00:02:44,080 --> 00:02:44,240
+So as the <font color="#00ff00">one</font> who was whipping me could not understand I just rose up on my hind legs and let him slip off behind.
+
+578
+00:02:44,240 --> 00:02:44,360
+So as the one <font color="#00ff00">who</font> was whipping me could not understand I just rose up on my hind legs and let him slip off behind.
+
+579
+00:02:44,360 --> 00:02:44,580
+So as the one who <font color="#00ff00">was</font> whipping me could not understand I just rose up on my hind legs and let him slip off behind.
+
+580
+00:02:44,580 --> 00:02:44,820
+So as the one who was <font color="#00ff00">whipping</font> me could not understand I just rose up on my hind legs and let him slip off behind.
+
+581
+00:02:44,820 --> 00:02:45,100
+So as the one who was whipping <font color="#00ff00">me</font> could not understand I just rose up on my hind legs and let him slip off behind.
+
+582
+00:02:45,100 --> 00:02:45,140
+So as the one who was whipping me could not understand I just rose up on my hind legs and let him slip off behind.
+
+583
+00:02:45,140 --> 00:02:45,280
+So as the one who was whipping me <font color="#00ff00">could</font> not understand I just rose up on my hind legs and let him slip off behind.
+
+584
+00:02:45,280 --> 00:02:45,540
+So as the one who was whipping me could <font color="#00ff00">not</font> understand I just rose up on my hind legs and let him slip off behind.
+
+585
+00:02:45,540 --> 00:02:46,140
+So as the one who was whipping me could not <font color="#00ff00">understand</font> I just rose up on my hind legs and let him slip off behind.
+
+586
+00:02:46,140 --> 00:02:46,440
+So as the one who was whipping me could not understand I just rose up on my hind legs and let him slip off behind.
+
+587
+00:02:46,440 --> 00:02:46,580
+So as the one who was whipping me could not understand <font color="#00ff00">I</font> just rose up on my hind legs and let him slip off behind.
+
+588
+00:02:46,580 --> 00:02:46,920
+So as the one who was whipping me could not understand I <font color="#00ff00">just</font> rose up on my hind legs and let him slip off behind.
+
+589
+00:02:46,920 --> 00:02:47,180
+So as the one who was whipping me could not understand I just <font color="#00ff00">rose</font> up on my hind legs and let him slip off behind.
+
+590
+00:02:47,180 --> 00:02:47,400
+So as the one who was whipping me could not understand I just rose <font color="#00ff00">up</font> on my hind legs and let him slip off behind.
+
+591
+00:02:47,400 --> 00:02:47,540
+So as the one who was whipping me could not understand I just rose up <font color="#00ff00">on</font> my hind legs and let him slip off behind.
+
+592
+00:02:47,540 --> 00:02:47,820
+So as the one who was whipping me could not understand I just rose up on <font color="#00ff00">my</font> hind legs and let him slip off behind.
+
+593
+00:02:47,820 --> 00:02:48,080
+So as the one who was whipping me could not understand I just rose up on my <font color="#00ff00">hind</font> legs and let him slip off behind.
+
+594
+00:02:48,080 --> 00:02:48,360
+So as the one who was whipping me could not understand I just rose up on my hind <font color="#00ff00">legs</font> and let him slip off behind.
+
+595
+00:02:48,360 --> 00:02:48,520
+So as the one who was whipping me could not understand I just rose up on my hind legs <font color="#00ff00">and</font> let him slip off behind.
+
+596
+00:02:48,520 --> 00:02:48,700
+So as the one who was whipping me could not understand I just rose up on my hind legs and <font color="#00ff00">let</font> him slip off behind.
+
+597
+00:02:48,700 --> 00:02:48,920
+So as the one who was whipping me could not understand I just rose up on my hind legs and let <font color="#00ff00">him</font> slip off behind.
+
+598
+00:02:48,920 --> 00:02:49,140
+So as the one who was whipping me could not understand I just rose up on my hind legs and let him <font color="#00ff00">slip</font> off behind.
+
+599
+00:02:49,140 --> 00:02:49,300
+So as the one who was whipping me could not understand I just rose up on my hind legs and let him slip off behind.
+
+600
+00:02:49,300 --> 00:02:49,400
+So as the one who was whipping me could not understand I just rose up on my hind legs and let him slip <font color="#00ff00">off</font> behind.
+
+601
+00:02:49,400 --> 00:02:49,880
+So as the one who was whipping me could not understand I just rose up on my hind legs and let him slip off <font color="#00ff00">behind.</font>
+
+602
+00:02:50,480 --> 00:02:50,660
+<font color="#00ff00">That</font> was all.
+
+603
+00:02:50,660 --> 00:02:50,860
+That <font color="#00ff00">was</font> all.
+
+604
+00:02:50,860 --> 00:02:50,980
+That was <font color="#00ff00">all.</font>
+
+605
+00:02:52,020 --> 00:02:52,200
+<font color="#00ff00">He</font> mounted me again and I did the same.
+
+606
+00:02:52,200 --> 00:02:52,500
+He <font color="#00ff00">mounted</font> me again and I did the same.
+
+607
+00:02:52,500 --> 00:02:52,760
+He mounted <font color="#00ff00">me</font> again and I did the same.
+
+608
+00:02:52,760 --> 00:02:53,160
+He mounted me <font color="#00ff00">again</font> and I did the same.
+
+609
+00:02:53,160 --> 00:02:53,400
+He mounted me again and I did the same.
+
+610
+00:02:53,400 --> 00:02:53,580
+He mounted me again <font color="#00ff00">and</font> I did the same.
+
+611
+00:02:53,580 --> 00:02:53,800
+He mounted me again and <font color="#00ff00">I</font> did the same.
+
+612
+00:02:53,800 --> 00:02:53,820
+He mounted me again and I did the same.
+
+613
+00:02:53,820 --> 00:02:53,920
+He mounted me again and I <font color="#00ff00">did</font> the same.
+
+614
+00:02:53,920 --> 00:02:54,180
+He mounted me again and I did <font color="#00ff00">the</font> same.
+
+615
+00:02:54,180 --> 00:02:54,480
+He mounted me again and I did the <font color="#00ff00">same.</font>
+
+616
+00:02:55,680 --> 00:02:55,920
+<font color="#00ff00">Then</font> the other boy got up and as soon as he began to use his stick I laid him on the grass and so on till they were able to understand.
+
+617
+00:02:55,920 --> 00:02:56,160
+Then <font color="#00ff00">the</font> other boy got up and as soon as he began to use his stick I laid him on the grass and so on till they were able to understand.
+
+618
+00:02:56,160 --> 00:02:56,340
+Then the <font color="#00ff00">other</font> boy got up and as soon as he began to use his stick I laid him on the grass and so on till they were able to understand.
+
+619
+00:02:56,340 --> 00:02:56,560
+Then the other <font color="#00ff00">boy</font> got up and as soon as he began to use his stick I laid him on the grass and so on till they were able to understand.
+
+620
+00:02:56,560 --> 00:02:56,820
+Then the other boy <font color="#00ff00">got</font> up and as soon as he began to use his stick I laid him on the grass and so on till they were able to understand.
+
+621
+00:02:56,820 --> 00:02:57,240
+Then the other boy got <font color="#00ff00">up</font> and as soon as he began to use his stick I laid him on the grass and so on till they were able to understand.
+
+622
+00:02:57,240 --> 00:02:57,460
+Then the other boy got up and as soon as he began to use his stick I laid him on the grass and so on till they were able to understand.
+
+623
+00:02:57,460 --> 00:02:57,580
+Then the other boy got up <font color="#00ff00">and</font> as soon as he began to use his stick I laid him on the grass and so on till they were able to understand.
+
+624
+00:02:57,580 --> 00:02:57,900
+Then the other boy got up and <font color="#00ff00">as</font> soon as he began to use his stick I laid him on the grass and so on till they were able to understand.
+
+625
+00:02:57,900 --> 00:02:58,080
+Then the other boy got up and as <font color="#00ff00">soon</font> as he began to use his stick I laid him on the grass and so on till they were able to understand.
+
+626
+00:02:58,080 --> 00:02:58,220
+Then the other boy got up and as soon <font color="#00ff00">as</font> he began to use his stick I laid him on the grass and so on till they were able to understand.
+
+627
+00:02:58,220 --> 00:02:58,340
+Then the other boy got up and as soon as <font color="#00ff00">he</font> began to use his stick I laid him on the grass and so on till they were able to understand.
+
+628
+00:02:58,340 --> 00:02:58,660
+Then the other boy got up and as soon as he <font color="#00ff00">began</font> to use his stick I laid him on the grass and so on till they were able to understand.
+
+629
+00:02:58,660 --> 00:02:58,920
+Then the other boy got up and as soon as he began <font color="#00ff00">to</font> use his stick I laid him on the grass and so on till they were able to understand.
+
+630
+00:02:58,920 --> 00:02:59,160
+Then the other boy got up and as soon as he began to <font color="#00ff00">use</font> his stick I laid him on the grass and so on till they were able to understand.
+
+631
+00:02:59,160 --> 00:02:59,440
+Then the other boy got up and as soon as he began to use <font color="#00ff00">his</font> stick I laid him on the grass and so on till they were able to understand.
+
+632
+00:02:59,440 --> 00:02:59,680
+Then the other boy got up and as soon as he began to use his <font color="#00ff00">stick</font> I laid him on the grass and so on till they were able to understand.
+
+633
+00:02:59,680 --> 00:02:59,900
+Then the other boy got up and as soon as he began to use his stick I laid him on the grass and so on till they were able to understand.
+
+634
+00:02:59,900 --> 00:03:00,140
+Then the other boy got up and as soon as he began to use his stick <font color="#00ff00">I</font> laid him on the grass and so on till they were able to understand.
+
+635
+00:03:00,140 --> 00:03:00,240
+Then the other boy got up and as soon as he began to use his stick I laid him on the grass and so on till they were able to understand.
+
+636
+00:03:00,240 --> 00:03:00,340
+Then the other boy got up and as soon as he began to use his stick I <font color="#00ff00">laid</font> him on the grass and so on till they were able to understand.
+
+637
+00:03:00,340 --> 00:03:00,500
+Then the other boy got up and as soon as he began to use his stick I laid <font color="#00ff00">him</font> on the grass and so on till they were able to understand.
+
+638
+00:03:00,500 --> 00:03:00,640
+Then the other boy got up and as soon as he began to use his stick I laid him <font color="#00ff00">on</font> the grass and so on till they were able to understand.
+
+639
+00:03:00,640 --> 00:03:00,860
+Then the other boy got up and as soon as he began to use his stick I laid him on <font color="#00ff00">the</font> grass and so on till they were able to understand.
+
+640
+00:03:00,860 --> 00:03:01,180
+Then the other boy got up and as soon as he began to use his stick I laid him on the <font color="#00ff00">grass</font> and so on till they were able to understand.
+
+641
+00:03:01,180 --> 00:03:01,460
+Then the other boy got up and as soon as he began to use his stick I laid him on the grass and so on till they were able to understand.
+
+642
+00:03:01,460 --> 00:03:01,720
+Then the other boy got up and as soon as he began to use his stick I laid him on the grass <font color="#00ff00">and</font> so on till they were able to understand.
+
+643
+00:03:01,720 --> 00:03:01,940
+Then the other boy got up and as soon as he began to use his stick I laid him on the grass and <font color="#00ff00">so</font> on till they were able to understand.
+
+644
+00:03:01,940 --> 00:03:02,320
+Then the other boy got up and as soon as he began to use his stick I laid him on the grass and so <font color="#00ff00">on</font> till they were able to understand.
+
+645
+00:03:02,320 --> 00:03:02,460
+Then the other boy got up and as soon as he began to use his stick I laid him on the grass and so on till they were able to understand.
+
+646
+00:03:02,460 --> 00:03:02,580
+Then the other boy got up and as soon as he began to use his stick I laid him on the grass and so on <font color="#00ff00">till</font> they were able to understand.
+
+647
+00:03:02,580 --> 00:03:02,740
+Then the other boy got up and as soon as he began to use his stick I laid him on the grass and so on till <font color="#00ff00">they</font> were able to understand.
+
+648
+00:03:02,740 --> 00:03:02,940
+Then the other boy got up and as soon as he began to use his stick I laid him on the grass and so on till they <font color="#00ff00">were</font> able to understand.
+
+649
+00:03:02,940 --> 00:03:03,180
+Then the other boy got up and as soon as he began to use his stick I laid him on the grass and so on till they were <font color="#00ff00">able</font> to understand.
+
+650
+00:03:03,180 --> 00:03:03,460
+Then the other boy got up and as soon as he began to use his stick I laid him on the grass and so on till they were able <font color="#00ff00">to</font> understand.
+
+651
+00:03:03,460 --> 00:03:04,100
+Then the other boy got up and as soon as he began to use his stick I laid him on the grass and so on till they were able to <font color="#00ff00">understand.</font>
+
+652
+00:03:04,600 --> 00:03:04,760
+<font color="#00ff00">That</font> was all.
+
+653
+00:03:04,760 --> 00:03:04,800
+That was all.
+
+654
+00:03:04,800 --> 00:03:04,980
+That <font color="#00ff00">was</font> all.
+
+655
+00:03:04,980 --> 00:03:05,260
+That was <font color="#00ff00">all.</font>
+
+656
+00:03:05,960 --> 00:03:06,120
+<font color="#00ff00">They</font> are not bad boys.
+
+657
+00:03:06,120 --> 00:03:06,280
+They <font color="#00ff00">are</font> not bad boys.
+
+658
+00:03:06,280 --> 00:03:06,540
+They are <font color="#00ff00">not</font> bad boys.
+
+659
+00:03:06,540 --> 00:03:06,720
+They are not bad boys.
+
+660
+00:03:06,720 --> 00:03:06,860
+They are not <font color="#00ff00">bad</font> boys.
+
+661
+00:03:06,860 --> 00:03:07,300
+They are not bad <font color="#00ff00">boys.</font>
+
+662
+00:03:07,600 --> 00:03:07,760
+<font color="#00ff00">They</font> don't wish to be cruel.
+
+663
+00:03:07,760 --> 00:03:07,980
+They <font color="#00ff00">don't</font> wish to be cruel.
+
+664
+00:03:07,980 --> 00:03:08,060
+They don't wish to be cruel.
+
+665
+00:03:08,060 --> 00:03:08,160
+They don't <font color="#00ff00">wish</font> to be cruel.
+
+666
+00:03:08,160 --> 00:03:08,320
+They don't wish <font color="#00ff00">to</font> be cruel.
+
+667
+00:03:08,320 --> 00:03:08,560
+They don't wish to <font color="#00ff00">be</font> cruel.
+
+668
+00:03:08,560 --> 00:03:08,860
+They don't wish to be <font color="#00ff00">cruel.</font>
+
+669
+00:03:09,700 --> 00:03:09,900
+<font color="#00ff00">I</font> like them very well,
+
+670
+00:03:09,900 --> 00:03:10,020
+I like them very well,
+
+671
+00:03:10,020 --> 00:03:10,120
+I <font color="#00ff00">like</font> them very well,
+
+672
+00:03:10,120 --> 00:03:10,320
+I like <font color="#00ff00">them</font> very well,
+
+673
+00:03:10,320 --> 00:03:10,760
+I like them <font color="#00ff00">very</font> well,
+
+674
+00:03:10,760 --> 00:03:11,080
+I like them very <font color="#00ff00">well,</font>
+
+675
+00:03:11,400 --> 00:03:11,540
+<font color="#00ff00">but</font> you see, I had to give them a lesson.
+
+676
+00:03:11,540 --> 00:03:11,800
+but <font color="#00ff00">you</font> see, I had to give them a lesson.
+
+677
+00:03:11,800 --> 00:03:12,220
+but you <font color="#00ff00">see,</font> I had to give them a lesson.
+
+678
+00:03:12,220 --> 00:03:12,320
+but you see, <font color="#00ff00">I</font> had to give them a lesson.
+
+679
+00:03:12,320 --> 00:03:12,560
+but you see, I <font color="#00ff00">had</font> to give them a lesson.
+
+680
+00:03:12,560 --> 00:03:12,640
+but you see, I had <font color="#00ff00">to</font> give them a lesson.
+
+681
+00:03:12,640 --> 00:03:12,780
+but you see, I had to <font color="#00ff00">give</font> them a lesson.
+
+682
+00:03:12,780 --> 00:03:12,960
+but you see, I had to give <font color="#00ff00">them</font> a lesson.
+
+683
+00:03:12,960 --> 00:03:13,080
+but you see, I had to give them <font color="#00ff00">a</font> lesson.
+
+684
+00:03:13,080 --> 00:03:13,480
+but you see, I had to give them a <font color="#00ff00">lesson.</font>
+
+685
+00:03:14,120 --> 00:03:14,280
+<font color="#00ff00">When</font> they brought me to James and told him I think he was very angry to see such big sticks,
+
+686
+00:03:14,280 --> 00:03:14,500
+When <font color="#00ff00">they</font> brought me to James and told him I think he was very angry to see such big sticks,
+
+687
+00:03:14,500 --> 00:03:14,620
+When they <font color="#00ff00">brought</font> me to James and told him I think he was very angry to see such big sticks,
+
+688
+00:03:14,620 --> 00:03:14,820
+When they brought <font color="#00ff00">me</font> to James and told him I think he was very angry to see such big sticks,
+
+689
+00:03:14,820 --> 00:03:14,920
+When they brought me to James and told him I think he was very angry to see such big sticks,
+
+690
+00:03:14,920 --> 00:03:15,060
+When they brought me <font color="#00ff00">to</font> James and told him I think he was very angry to see such big sticks,
+
+691
+00:03:15,060 --> 00:03:15,340
+When they brought me to <font color="#00ff00">James</font> and told him I think he was very angry to see such big sticks,
+
+692
+00:03:15,340 --> 00:03:15,520
+When they brought me to James <font color="#00ff00">and</font> told him I think he was very angry to see such big sticks,
+
+693
+00:03:15,520 --> 00:03:15,760
+When they brought me to James and <font color="#00ff00">told</font> him I think he was very angry to see such big sticks,
+
+694
+00:03:15,760 --> 00:03:15,920
+When they brought me to James and told <font color="#00ff00">him</font> I think he was very angry to see such big sticks,
+
+695
+00:03:15,920 --> 00:03:16,080
+When they brought me to James and told him <font color="#00ff00">I</font> think he was very angry to see such big sticks,
+
+696
+00:03:16,080 --> 00:03:16,220
+When they brought me to James and told him I <font color="#00ff00">think</font> he was very angry to see such big sticks,
+
+697
+00:03:16,220 --> 00:03:16,380
+When they brought me to James and told him I think <font color="#00ff00">he</font> was very angry to see such big sticks,
+
+698
+00:03:16,380 --> 00:03:16,600
+When they brought me to James and told him I think he <font color="#00ff00">was</font> very angry to see such big sticks,
+
+699
+00:03:16,600 --> 00:03:17,060
+When they brought me to James and told him I think he was <font color="#00ff00">very</font> angry to see such big sticks,
+
+700
+00:03:17,060 --> 00:03:17,420
+When they brought me to James and told him I think he was very <font color="#00ff00">angry</font> to see such big sticks,
+
+701
+00:03:17,420 --> 00:03:17,560
+When they brought me to James and told him I think he was very angry to see such big sticks,
+
+702
+00:03:17,560 --> 00:03:17,660
+When they brought me to James and told him I think he was very angry <font color="#00ff00">to</font> see such big sticks,
+
+703
+00:03:17,660 --> 00:03:17,840
+When they brought me to James and told him I think he was very angry to <font color="#00ff00">see</font> such big sticks,
+
+704
+00:03:17,840 --> 00:03:18,120
+When they brought me to James and told him I think he was very angry to see <font color="#00ff00">such</font> big sticks,
+
+705
+00:03:18,120 --> 00:03:18,160
+When they brought me to James and told him I think he was very angry to see such big sticks,
+
+706
+00:03:18,160 --> 00:03:18,480
+When they brought me to James and told him I think he was very angry to see such <font color="#00ff00">big</font> sticks,
+
+707
+00:03:18,480 --> 00:03:18,700
+When they brought me to James and told him I think he was very angry to see such big <font color="#00ff00">sticks,</font>
+
+708
+00:03:19,600 --> 00:03:19,780
+<font color="#00ff00">he</font> said they were only fit for drovers or gypsies and not for young gentlemen.
+
+709
+00:03:19,780 --> 00:03:19,920
+he <font color="#00ff00">said</font> they were only fit for drovers or gypsies and not for young gentlemen.
+
+710
+00:03:19,920 --> 00:03:20,040
+he said <font color="#00ff00">they</font> were only fit for drovers or gypsies and not for young gentlemen.
+
+711
+00:03:20,040 --> 00:03:20,180
+he said they <font color="#00ff00">were only fit for drovers or gypsies and not for young gentlemen.</font>
+
+712
+00:03:20,180 --> 00:03:20,600
+<font color="#00ff00">were only</font> fit for drovers or gypsies and not for young gentlemen.
+
+713
+00:03:20,600 --> 00:03:20,740
+were only <font color="#00ff00">fit</font> for drovers or gypsies and not for young gentlemen.
+
+714
+00:03:20,740 --> 00:03:20,780
+were only fit for drovers or gypsies and not for young gentlemen.
+
+715
+00:03:20,780 --> 00:03:21,040
+were only fit <font color="#00ff00">for</font> drovers or gypsies and not for young gentlemen.
+
+716
+00:03:21,040 --> 00:03:21,460
+were only fit for <font color="#00ff00">drovers</font> or gypsies and not for young gentlemen.
+
+717
+00:03:21,460 --> 00:03:21,720
+were only fit for drovers <font color="#00ff00">or</font> gypsies and not for young gentlemen.
+
+718
+00:03:21,720 --> 00:03:22,380
+were only fit for drovers or <font color="#00ff00">gypsies</font> and not for young gentlemen.
+
+719
+00:03:22,380 --> 00:03:22,700
+were only fit for drovers or gypsies and not for young gentlemen.
+
+720
+00:03:22,700 --> 00:03:22,900
+were only fit for drovers or gypsies <font color="#00ff00">and</font> not for young gentlemen.
+
+721
+00:03:22,900 --> 00:03:23,160
+were only fit for drovers or gypsies and <font color="#00ff00">not</font> for young gentlemen.
+
+722
+00:03:23,160 --> 00:03:23,180
+were only fit for drovers or gypsies and not for young gentlemen.
+
+723
+00:03:23,180 --> 00:03:23,380
+were only fit for drovers or gypsies and not <font color="#00ff00">for</font> young gentlemen.
+
+724
+00:03:23,380 --> 00:03:23,640
+were only fit for drovers or gypsies and not for <font color="#00ff00">young</font> gentlemen.
+
+725
+00:03:23,640 --> 00:03:24,160
+were only fit for drovers or gypsies and not for young <font color="#00ff00">gentlemen.</font>
+
+726
+00:03:25,160 --> 00:03:25,280
+<font color="#00ff00">If</font> I had been you," said Ginger,
+
+727
+00:03:25,280 --> 00:03:25,720
+If <font color="#00ff00">I</font> had been you," said Ginger,
+
+728
+00:03:25,720 --> 00:03:25,880
+If I <font color="#00ff00">had</font> been you," said Ginger,
+
+729
+00:03:25,880 --> 00:03:25,920
+If I had been you," said Ginger,
+
+730
+00:03:25,920 --> 00:03:26,140
+If I had <font color="#00ff00">been</font> you," said Ginger,
+
+731
+00:03:26,140 --> 00:03:26,860
+If I had been <font color="#00ff00">you,"</font> said Ginger,
+
+732
+00:03:26,860 --> 00:03:26,960
+If I had been you," <font color="#00ff00">said</font> Ginger,
+
+733
+00:03:26,960 --> 00:03:27,380
+If I had been you," said <font color="#00ff00">Ginger,</font>
+
+734
+00:03:27,960 --> 00:03:28,180
+<font color="#00ff00">"I</font> would have given those boys a good kick,
+
+735
+00:03:28,180 --> 00:03:28,340
+"I <font color="#00ff00">would</font> have given those boys a good kick,
+
+736
+00:03:28,340 --> 00:03:28,440
+"I would <font color="#00ff00">have</font> given those boys a good kick,
+
+737
+00:03:28,440 --> 00:03:28,660
+"I would have <font color="#00ff00">given</font> those boys a good kick,
+
+738
+00:03:28,660 --> 00:03:28,980
+"I would have given <font color="#00ff00">those</font> boys a good kick,
+
+739
+00:03:28,980 --> 00:03:29,200
+"I would have given those <font color="#00ff00">boys</font> a good kick,
+
+740
+00:03:29,200 --> 00:03:29,480
+"I would have given those boys <font color="#00ff00">a</font> good kick,
+
+741
+00:03:29,480 --> 00:03:29,640
+"I would have given those boys a good kick,
+
+742
+00:03:29,640 --> 00:03:29,740
+"I would have given those boys a <font color="#00ff00">good</font> kick,
+
+743
+00:03:29,740 --> 00:03:29,960
+"I would have given those boys a good <font color="#00ff00">kick,</font>
+
+744
+00:03:30,440 --> 00:03:30,640
+<font color="#00ff00">and</font> that would have given them a lesson."
+
+745
+00:03:30,640 --> 00:03:30,800
+and that would have given them a lesson."
+
+746
+00:03:30,800 --> 00:03:30,900
+and <font color="#00ff00">that</font> would have given them a lesson."
+
+747
+00:03:30,900 --> 00:03:31,060
+and that <font color="#00ff00">would</font> have given them a lesson."
+
+748
+00:03:31,060 --> 00:03:31,120
+and that would have given them a lesson."
+
+749
+00:03:31,120 --> 00:03:31,220
+and that would <font color="#00ff00">have</font> given them a lesson."
+
+750
+00:03:31,220 --> 00:03:31,360
+and that would have <font color="#00ff00">given</font> them a lesson."
+
+751
+00:03:31,360 --> 00:03:31,600
+and that would have given <font color="#00ff00">them</font> a lesson."
+
+752
+00:03:31,600 --> 00:03:31,760
+and that would have given them <font color="#00ff00">a</font> lesson."
+
+753
+00:03:31,760 --> 00:03:32,140
+and that would have given them a <font color="#00ff00">lesson."</font>
+
+754
+00:03:33,040 --> 00:03:33,260
+<font color="#00ff00">"No</font> doubt you would," said Merrylegs.
+
+755
+00:03:33,260 --> 00:03:33,460
+"No <font color="#00ff00">doubt</font> you would," said Merrylegs.
+
+756
+00:03:33,460 --> 00:03:33,640
+"No doubt <font color="#00ff00">you</font> would," said Merrylegs.
+
+757
+00:03:33,640 --> 00:03:33,940
+"No doubt you <font color="#00ff00">would,"</font> said Merrylegs.
+
+758
+00:03:33,940 --> 00:03:34,400
+"No doubt you would," said Merrylegs.
+
+759
+00:03:34,400 --> 00:03:34,580
+"No doubt you would," <font color="#00ff00">said</font> Merrylegs.
+
+760
+00:03:34,580 --> 00:03:35,020
+"No doubt you would," said <font color="#00ff00">Merrylegs.</font>
+
+761
+00:03:35,720 --> 00:03:35,820
+<font color="#00ff00">"But</font> then I am not quite such a fool,
+
+762
+00:03:35,820 --> 00:03:36,160
+"But <font color="#00ff00">then</font> I am not quite such a fool,
+
+763
+00:03:36,160 --> 00:03:36,220
+"But then I am not quite such a fool,
+
+764
+00:03:36,220 --> 00:03:36,420
+"But then <font color="#00ff00">I</font> am not quite such a fool,
+
+765
+00:03:36,420 --> 00:03:36,580
+"But then I <font color="#00ff00">am</font> not quite such a fool,
+
+766
+00:03:36,580 --> 00:03:36,800
+"But then I am <font color="#00ff00">not</font> quite such a fool,
+
+767
+00:03:36,800 --> 00:03:36,940
+"But then I am not quite such a fool,
+
+768
+00:03:36,940 --> 00:03:37,240
+"But then I am not <font color="#00ff00">quite</font> such a fool,
+
+769
+00:03:37,240 --> 00:03:37,500
+"But then I am not quite <font color="#00ff00">such</font> a fool,
+
+770
+00:03:37,500 --> 00:03:37,700
+"But then I am not quite such <font color="#00ff00">a</font> fool,
+
+771
+00:03:37,700 --> 00:03:37,800
+"But then I am not quite such a <font color="#00ff00">fool,</font>
+
+772
+00:03:38,240 --> 00:03:38,540
+<font color="#00ff00">begging</font> your pardon,
+
+773
+00:03:38,540 --> 00:03:38,840
+begging <font color="#00ff00">your</font> pardon,
+
+774
+00:03:38,840 --> 00:03:39,260
+begging your <font color="#00ff00">pardon,</font>
+
+775
+00:03:39,580 --> 00:03:39,800
+<font color="#00ff00">as</font> to anger our master or make James ashamed of me.
+
+776
+00:03:39,800 --> 00:03:39,920
+as to anger our master or make James ashamed of me.
+
+777
+00:03:39,920 --> 00:03:40,040
+as <font color="#00ff00">to</font> anger our master or make James ashamed of me.
+
+778
+00:03:40,040 --> 00:03:40,320
+as to <font color="#00ff00">anger</font> our master or make James ashamed of me.
+
+779
+00:03:40,320 --> 00:03:40,580
+as to anger <font color="#00ff00">our</font> master or make James ashamed of me.
+
+780
+00:03:40,580 --> 00:03:40,960
+as to anger our <font color="#00ff00">master</font> or make James ashamed of me.
+
+781
+00:03:40,960 --> 00:03:41,300
+as to anger our master <font color="#00ff00">or</font> make James ashamed of me.
+
+782
+00:03:41,300 --> 00:03:41,560
+as to anger our master or <font color="#00ff00">make</font> James ashamed of me.
+
+783
+00:03:41,560 --> 00:03:41,600
+as to anger our master or make James ashamed of me.
+
+784
+00:03:41,600 --> 00:03:41,960
+as to anger our master or make <font color="#00ff00">James</font> ashamed of me.
+
+785
+00:03:41,960 --> 00:03:42,380
+as to anger our master or make James <font color="#00ff00">ashamed</font> of me.
+
+786
+00:03:42,380 --> 00:03:42,600
+as to anger our master or make James ashamed <font color="#00ff00">of</font> me.
+
+787
+00:03:42,600 --> 00:03:43,420
+as to anger our master or make James ashamed of <font color="#00ff00">me.</font>
+
+788
+00:03:43,420 --> 00:03:43,860
+<font color="#00ff00">Besides,</font>
+
+789
+00:03:44,260 --> 00:03:44,580
+<font color="#00ff00">those</font> children are under my charge when they are riding.
+
+790
+00:03:44,580 --> 00:03:44,620
+those children are under my charge when they are riding.
+
+791
+00:03:44,620 --> 00:03:44,940
+those <font color="#00ff00">children</font> are under my charge when they are riding.
+
+792
+00:03:44,940 --> 00:03:45,100
+those children <font color="#00ff00">are</font> under my charge when they are riding.
+
+793
+00:03:45,100 --> 00:03:45,440
+those children are <font color="#00ff00">under</font> my charge when they are riding.
+
+794
+00:03:45,440 --> 00:03:45,760
+those children are under <font color="#00ff00">my</font> charge when they are riding.
+
+795
+00:03:45,760 --> 00:03:46,040
+those children are under my <font color="#00ff00">charge</font> when they are riding.
+
+796
+00:03:46,040 --> 00:03:46,080
+those children are under my charge when they are riding.
+
+797
+00:03:46,080 --> 00:03:46,220
+those children are under my charge <font color="#00ff00">when</font> they are riding.
+
+798
+00:03:46,220 --> 00:03:46,420
+those children are under my charge when <font color="#00ff00">they</font> are riding.
+
+799
+00:03:46,420 --> 00:03:46,620
+those children are under my charge when they <font color="#00ff00">are</font> riding.
+
+800
+00:03:46,620 --> 00:03:47,000
+those children are under my charge when they are <font color="#00ff00">riding.</font>
+
+801
+00:03:47,280 --> 00:03:47,460
+<font color="#00ff00">I</font> tell you they are entrusted to me.
+
+802
+00:03:47,460 --> 00:03:47,500
+I tell you they are entrusted to me.
+
+803
+00:03:47,500 --> 00:03:47,700
+I <font color="#00ff00">tell</font> you they are entrusted to me.
+
+804
+00:03:47,700 --> 00:03:47,860
+I tell <font color="#00ff00">you</font> they are entrusted to me.
+
+805
+00:03:47,860 --> 00:03:47,980
+I tell you <font color="#00ff00">they</font> are entrusted to me.
+
+806
+00:03:47,980 --> 00:03:48,280
+I tell you they <font color="#00ff00">are</font> entrusted to me.
+
+807
+00:03:48,280 --> 00:03:48,640
+I tell you they are <font color="#00ff00">entrusted</font> to me.
+
+808
+00:03:48,640 --> 00:03:48,760
+I tell you they are entrusted to me.
+
+809
+00:03:48,760 --> 00:03:48,860
+I tell you they are entrusted <font color="#00ff00">to</font> me.
+
+810
+00:03:48,860 --> 00:03:49,020
+I tell you they are entrusted to <font color="#00ff00">me.</font>
+
+811
+00:03:49,560 --> 00:03:50,000
+<font color="#00ff00">Why,</font> only the other day I heard our master say to Mrs.
+
+812
+00:03:50,000 --> 00:03:50,360
+Why, <font color="#00ff00">only</font> the other day I heard our master say to Mrs.
+
+813
+00:03:50,360 --> 00:03:50,560
+Why, only <font color="#00ff00">the</font> other day I heard our master say to Mrs.
+
+814
+00:03:50,560 --> 00:03:50,780
+Why, only the <font color="#00ff00">other</font> day I heard our master say to Mrs.
+
+815
+00:03:50,780 --> 00:03:51,040
+Why, only the other <font color="#00ff00">day</font> I heard our master say to Mrs.
+
+816
+00:03:51,040 --> 00:03:51,180
+Why, only the other day <font color="#00ff00">I</font> heard our master say to Mrs.
+
+817
+00:03:51,180 --> 00:03:51,420
+Why, only the other day I <font color="#00ff00">heard</font> our master say to Mrs.
+
+818
+00:03:51,420 --> 00:03:51,700
+Why, only the other day I heard <font color="#00ff00">our</font> master say to Mrs.
+
+819
+00:03:51,700 --> 00:03:51,980
+Why, only the other day I heard our <font color="#00ff00">master</font> say to Mrs.
+
+820
+00:03:51,980 --> 00:03:52,020
+Why, only the other day I heard our master say to Mrs.
+
+821
+00:03:52,020 --> 00:03:52,200
+Why, only the other day I heard our master <font color="#00ff00">say</font> to Mrs.
+
+822
+00:03:52,200 --> 00:03:52,220
+Why, only the other day I heard our master say to Mrs.
+
+823
+00:03:52,220 --> 00:03:52,360
+Why, only the other day I heard our master say <font color="#00ff00">to</font> Mrs.
+
+824
+00:03:52,360 --> 00:03:52,760
+Why, only the other day I heard our master say to <font color="#00ff00">Mrs.</font>
+
+825
+00:03:52,760 --> 00:03:53,240
+<font color="#00ff00">Bloomfield,</font>
+
+826
+00:03:53,800 --> 00:03:54,000
+<font color="#00ff00">'My</font> dear madam, you need not be anxious about the children.
+
+827
+00:03:54,000 --> 00:03:54,260
+'My <font color="#00ff00">dear</font> madam, you need not be anxious about the children.
+
+828
+00:03:54,260 --> 00:03:54,600
+'My dear <font color="#00ff00">madam,</font> you need not be anxious about the children.
+
+829
+00:03:54,600 --> 00:03:54,860
+'My dear madam, you need not be anxious about the children.
+
+830
+00:03:54,860 --> 00:03:55,080
+'My dear madam, <font color="#00ff00">you</font> need not be anxious about the children.
+
+831
+00:03:55,080 --> 00:03:55,300
+'My dear madam, you <font color="#00ff00">need</font> not be anxious about the children.
+
+832
+00:03:55,300 --> 00:03:55,480
+'My dear madam, you need <font color="#00ff00">not</font> be anxious about the children.
+
+833
+00:03:55,480 --> 00:03:55,580
+'My dear madam, you need not be anxious about the children.
+
+834
+00:03:55,580 --> 00:03:55,700
+'My dear madam, you need not <font color="#00ff00">be</font> anxious about the children.
+
+835
+00:03:55,700 --> 00:03:56,060
+'My dear madam, you need not be <font color="#00ff00">anxious</font> about the children.
+
+836
+00:03:56,060 --> 00:03:56,300
+'My dear madam, you need not be anxious <font color="#00ff00">about</font> the children.
+
+837
+00:03:56,300 --> 00:03:56,420
+'My dear madam, you need not be anxious about the children.
+
+838
+00:03:56,420 --> 00:03:56,560
+'My dear madam, you need not be anxious about <font color="#00ff00">the</font> children.
+
+839
+00:03:56,560 --> 00:03:56,980
+'My dear madam, you need not be anxious about the <font color="#00ff00">children.</font>
+
+840
+00:03:57,280 --> 00:03:57,580
+<font color="#00ff00">My</font> old merrylegs will take as much care of them as you or I could.
+
+841
+00:03:57,580 --> 00:03:57,880
+My <font color="#00ff00">old</font> merrylegs will take as much care of them as you or I could.
+
+842
+00:03:57,880 --> 00:03:58,380
+My old <font color="#00ff00">merrylegs</font> will take as much care of them as you or I could.
+
+843
+00:03:58,380 --> 00:03:58,440
+My old merrylegs will take as much care of them as you or I could.
+
+844
+00:03:58,440 --> 00:03:58,540
+My old merrylegs <font color="#00ff00">will</font> take as much care of them as you or I could.
+
+845
+00:03:58,540 --> 00:03:58,760
+My old merrylegs will <font color="#00ff00">take</font> as much care of them as you or I could.
+
+846
+00:03:58,760 --> 00:03:59,120
+My old merrylegs will take <font color="#00ff00">as</font> much care of them as you or I could.
+
+847
+00:03:59,120 --> 00:03:59,360
+My old merrylegs will take as <font color="#00ff00">much</font> care of them as you or I could.
+
+848
+00:03:59,360 --> 00:03:59,380
+My old merrylegs will take as much care of them as you or I could.
+
+849
+00:03:59,380 --> 00:03:59,580
+My old merrylegs will take as much <font color="#00ff00">care</font> of them as you or I could.
+
+850
+00:03:59,580 --> 00:03:59,780
+My old merrylegs will take as much care <font color="#00ff00">of</font> them as you or I could.
+
+851
+00:03:59,780 --> 00:04:00,000
+My old merrylegs will take as much care of <font color="#00ff00">them</font> as you or I could.
+
+852
+00:04:00,000 --> 00:04:00,200
+My old merrylegs will take as much care of them <font color="#00ff00">as</font> you or I could.
+
+853
+00:04:00,200 --> 00:04:00,460
+My old merrylegs will take as much care of them as <font color="#00ff00">you</font> or I could.
+
+854
+00:04:00,460 --> 00:04:00,640
+My old merrylegs will take as much care of them as you <font color="#00ff00">or</font> I could.
+
+855
+00:04:00,640 --> 00:04:00,860
+My old merrylegs will take as much care of them as you or <font color="#00ff00">I</font> could.
+
+856
+00:04:00,860 --> 00:04:01,100
+My old merrylegs will take as much care of them as you or I <font color="#00ff00">could.</font>
+
+857
+00:04:01,580 --> 00:04:01,800
+<font color="#00ff00">I</font> assure you I would not sell that pony for any money.
+
+858
+00:04:01,800 --> 00:04:02,100
+I <font color="#00ff00">assure</font> you I would not sell that pony for any money.
+
+859
+00:04:02,100 --> 00:04:02,360
+I assure <font color="#00ff00">you</font> I would not sell that pony for any money.
+
+860
+00:04:02,360 --> 00:04:02,520
+I assure you <font color="#00ff00">I</font> would not sell that pony for any money.
+
+861
+00:04:02,520 --> 00:04:02,860
+I assure you I <font color="#00ff00">would</font> not sell that pony for any money.
+
+862
+00:04:02,860 --> 00:04:03,100
+I assure you I would <font color="#00ff00">not</font> sell that pony for any money.
+
+863
+00:04:03,100 --> 00:04:03,120
+I assure you I would not sell that pony for any money.
+
+864
+00:04:03,120 --> 00:04:03,300
+I assure you I would not <font color="#00ff00">sell</font> that pony for any money.
+
+865
+00:04:03,300 --> 00:04:03,580
+I assure you I would not sell <font color="#00ff00">that</font> pony for any money.
+
+866
+00:04:03,580 --> 00:04:03,800
+I assure you I would not sell that <font color="#00ff00">pony</font> for any money.
+
+867
+00:04:03,800 --> 00:04:04,140
+I assure you I would not sell that pony <font color="#00ff00">for</font> any money.
+
+868
+00:04:04,140 --> 00:04:04,440
+I assure you I would not sell that pony for <font color="#00ff00">any</font> money.
+
+869
+00:04:04,440 --> 00:04:04,740
+I assure you I would not sell that pony for any <font color="#00ff00">money.</font>
+
+870
+00:04:05,220 --> 00:04:05,400
+<font color="#00ff00">He</font> is so perfectly good-tempered and trustworthy.
+
+871
+00:04:05,400 --> 00:04:05,880
+He <font color="#00ff00">is</font> so perfectly good-tempered and trustworthy.
+
+872
+00:04:05,880 --> 00:04:05,960
+He is so perfectly good-tempered and trustworthy.
+
+873
+00:04:05,960 --> 00:04:06,380
+He is <font color="#00ff00">so</font> perfectly good-tempered and trustworthy.
+
+874
+00:04:06,380 --> 00:04:06,640
+He is so perfectly good-tempered and trustworthy.
+
+875
+00:04:06,640 --> 00:04:06,760
+He is so <font color="#00ff00">perfectly</font> good-tempered and trustworthy.
+
+876
+00:04:06,760 --> 00:04:06,980
+He is so perfectly good-tempered and trustworthy.
+
+877
+00:04:06,980 --> 00:04:07,080
+He is so perfectly <font color="#00ff00">good</font>-tempered and trustworthy.
+
+878
+00:04:07,080 --> 00:04:07,520
+He is so perfectly good<font color="#00ff00">-tempered</font> and trustworthy.
+
+879
+00:04:07,520 --> 00:04:07,800
+He is so perfectly good-tempered and trustworthy.
+
+880
+00:04:07,800 --> 00:04:08,080
+He is so perfectly good-tempered <font color="#00ff00">and</font> trustworthy.
+
+881
+00:04:08,080 --> 00:04:08,800
+He is so perfectly good-tempered and <font color="#00ff00">trustworthy.</font>
+
+882
+00:04:09,880 --> 00:04:10,020
+<font color="#00ff00">Do</font> you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+883
+00:04:10,020 --> 00:04:10,160
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+884
+00:04:10,160 --> 00:04:10,260
+Do <font color="#00ff00">you</font> think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+885
+00:04:10,260 --> 00:04:10,460
+Do you <font color="#00ff00">think</font> I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+886
+00:04:10,460 --> 00:04:10,620
+Do you think <font color="#00ff00">I</font> am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+887
+00:04:10,620 --> 00:04:10,880
+Do you think I <font color="#00ff00">am</font> such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+888
+00:04:10,880 --> 00:04:11,240
+Do you think I am <font color="#00ff00">such</font> an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+889
+00:04:11,240 --> 00:04:11,440
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+890
+00:04:11,440 --> 00:04:11,540
+Do you think I am such <font color="#00ff00">an</font> ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+891
+00:04:11,540 --> 00:04:12,140
+Do you think I am such an <font color="#00ff00">ungrateful</font> brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+892
+00:04:12,140 --> 00:04:12,220
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+893
+00:04:12,220 --> 00:04:12,560
+Do you think I am such an ungrateful <font color="#00ff00">brute</font> as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+894
+00:04:12,560 --> 00:04:12,940
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+895
+00:04:12,940 --> 00:04:13,140
+Do you think I am such an ungrateful brute <font color="#00ff00">as</font> to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+896
+00:04:13,140 --> 00:04:13,240
+Do you think I am such an ungrateful brute as <font color="#00ff00">to</font> forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+897
+00:04:13,240 --> 00:04:13,380
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+898
+00:04:13,380 --> 00:04:13,600
+Do you think I am such an ungrateful brute as to <font color="#00ff00">forget</font> all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+899
+00:04:13,600 --> 00:04:13,720
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+900
+00:04:13,720 --> 00:04:14,080
+Do you think I am such an ungrateful brute as to forget <font color="#00ff00">all</font> the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+901
+00:04:14,080 --> 00:04:14,320
+Do you think I am such an ungrateful brute as to forget all <font color="#00ff00">the</font> kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+902
+00:04:14,320 --> 00:04:14,600
+Do you think I am such an ungrateful brute as to forget all the <font color="#00ff00">kind</font> treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+903
+00:04:14,600 --> 00:04:14,680
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+904
+00:04:14,680 --> 00:04:15,000
+Do you think I am such an ungrateful brute as to forget all the kind <font color="#00ff00">treatment</font> I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+905
+00:04:15,000 --> 00:04:15,200
+Do you think I am such an ungrateful brute as to forget all the kind treatment <font color="#00ff00">I</font> have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+906
+00:04:15,200 --> 00:04:15,380
+Do you think I am such an ungrateful brute as to forget all the kind treatment I <font color="#00ff00">have</font> had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+907
+00:04:15,380 --> 00:04:15,600
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have <font color="#00ff00">had</font> here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+908
+00:04:15,600 --> 00:04:15,700
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+909
+00:04:15,700 --> 00:04:15,800
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had <font color="#00ff00">here</font> for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+910
+00:04:15,800 --> 00:04:15,900
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+911
+00:04:15,900 --> 00:04:16,000
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here <font color="#00ff00">for</font> five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+912
+00:04:16,000 --> 00:04:16,360
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for <font color="#00ff00">five</font> years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+913
+00:04:16,360 --> 00:04:16,760
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five <font color="#00ff00">years</font> and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+914
+00:04:16,760 --> 00:04:16,980
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+915
+00:04:16,980 --> 00:04:17,140
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years <font color="#00ff00">and</font> all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+916
+00:04:17,140 --> 00:04:17,320
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and <font color="#00ff00">all</font> the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+917
+00:04:17,320 --> 00:04:17,580
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all <font color="#00ff00">the</font> trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+918
+00:04:17,580 --> 00:04:17,800
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the <font color="#00ff00">trust</font> they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+919
+00:04:17,800 --> 00:04:17,820
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+920
+00:04:17,820 --> 00:04:18,060
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust <font color="#00ff00">they</font> place in me and turn vicious because a couple of ignorant boys used me badly.
+
+921
+00:04:18,060 --> 00:04:18,240
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+922
+00:04:18,240 --> 00:04:18,340
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they <font color="#00ff00">place</font> in me and turn vicious because a couple of ignorant boys used me badly.
+
+923
+00:04:18,340 --> 00:04:18,480
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place <font color="#00ff00">in</font> me and turn vicious because a couple of ignorant boys used me badly.
+
+924
+00:04:18,480 --> 00:04:18,760
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in <font color="#00ff00">me</font> and turn vicious because a couple of ignorant boys used me badly.
+
+925
+00:04:18,760 --> 00:04:18,920
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+926
+00:04:18,920 --> 00:04:19,100
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me <font color="#00ff00">and</font> turn vicious because a couple of ignorant boys used me badly.
+
+927
+00:04:19,100 --> 00:04:19,380
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and <font color="#00ff00">turn</font> vicious because a couple of ignorant boys used me badly.
+
+928
+00:04:19,380 --> 00:04:19,760
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn <font color="#00ff00">vicious</font> because a couple of ignorant boys used me badly.
+
+929
+00:04:19,760 --> 00:04:19,800
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+930
+00:04:19,800 --> 00:04:20,040
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious <font color="#00ff00">because</font> a couple of ignorant boys used me badly.
+
+931
+00:04:20,040 --> 00:04:20,200
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because <font color="#00ff00">a</font> couple of ignorant boys used me badly.
+
+932
+00:04:20,200 --> 00:04:20,400
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a <font color="#00ff00">couple</font> of ignorant boys used me badly.
+
+933
+00:04:20,400 --> 00:04:20,700
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple <font color="#00ff00">of</font> ignorant boys used me badly.
+
+934
+00:04:20,700 --> 00:04:21,020
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of <font color="#00ff00">ignorant</font> boys used me badly.
+
+935
+00:04:21,020 --> 00:04:21,040
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me badly.
+
+936
+00:04:21,040 --> 00:04:21,340
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant <font color="#00ff00">boys</font> used me badly.
+
+937
+00:04:21,340 --> 00:04:21,760
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys <font color="#00ff00">used</font> me badly.
+
+938
+00:04:21,760 --> 00:04:22,040
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used <font color="#00ff00">me</font> badly.
+
+939
+00:04:22,040 --> 00:04:22,500
+Do you think I am such an ungrateful brute as to forget all the kind treatment I have had here for five years and all the trust they place in me and turn vicious because a couple of ignorant boys used me <font color="#00ff00">badly.</font>
+
+940
+00:04:22,880 --> 00:04:23,640
+<font color="#00ff00">No,</font>
+
+941
+00:04:23,640 --> 00:04:23,920
+<font color="#00ff00">no.</font>
+
+942
+00:04:24,380 --> 00:04:24,680
+<font color="#00ff00">You</font> never had a good place where they were kind to you,
+
+943
+00:04:24,680 --> 00:04:25,020
+You <font color="#00ff00">never</font> had a good place where they were kind to you,
+
+944
+00:04:25,020 --> 00:04:25,260
+You never <font color="#00ff00">had</font> a good place where they were kind to you,
+
+945
+00:04:25,260 --> 00:04:25,400
+You never had <font color="#00ff00">a</font> good place where they were kind to you,
+
+946
+00:04:25,400 --> 00:04:25,600
+You never had a <font color="#00ff00">good</font> place where they were kind to you,
+
+947
+00:04:25,600 --> 00:04:25,880
+You never had a good place where they were kind to you,
+
+948
+00:04:25,880 --> 00:04:25,980
+You never had a good <font color="#00ff00">place</font> where they were kind to you,
+
+949
+00:04:25,980 --> 00:04:26,160
+You never had a good place <font color="#00ff00">where</font> they were kind to you,
+
+950
+00:04:26,160 --> 00:04:26,300
+You never had a good place where <font color="#00ff00">they</font> were kind to you,
+
+951
+00:04:26,300 --> 00:04:26,480
+You never had a good place where they <font color="#00ff00">were</font> kind to you,
+
+952
+00:04:26,480 --> 00:04:26,520
+You never had a good place where they were kind to you,
+
+953
+00:04:26,520 --> 00:04:26,860
+You never had a good place where they were <font color="#00ff00">kind</font> to you,
+
+954
+00:04:26,860 --> 00:04:27,080
+You never had a good place where they were kind <font color="#00ff00">to</font> you,
+
+955
+00:04:27,080 --> 00:04:27,260
+You never had a good place where they were kind to <font color="#00ff00">you,</font>
+
+956
+00:04:27,560 --> 00:04:27,840
+<font color="#00ff00">and</font> so you don't know,
+
+957
+00:04:27,840 --> 00:04:28,020
+and <font color="#00ff00">so</font> you don't know,
+
+958
+00:04:28,020 --> 00:04:28,240
+and so <font color="#00ff00">you</font> don't know,
+
+959
+00:04:28,240 --> 00:04:28,600
+and so you <font color="#00ff00">don't</font> know,
+
+960
+00:04:28,600 --> 00:04:28,940
+and so you don't <font color="#00ff00">know,</font>
+
+961
+00:04:29,180 --> 00:04:29,340
+<font color="#00ff00">and</font> I'm sorry for you,
+
+962
+00:04:29,340 --> 00:04:29,640
+and <font color="#00ff00">I'm</font> sorry for you,
+
+963
+00:04:29,640 --> 00:04:29,940
+and I'm <font color="#00ff00">sorry</font> for you,
+
+964
+00:04:29,940 --> 00:04:30,180
+and I'm sorry <font color="#00ff00">for</font> you,
+
+965
+00:04:30,180 --> 00:04:30,340
+and I'm sorry for <font color="#00ff00">you,</font>
+
+966
+00:04:30,720 --> 00:04:30,820
+<font color="#00ff00">but</font> I can tell you good places make good horses.
+
+967
+00:04:30,820 --> 00:04:30,980
+but <font color="#00ff00">I</font> can tell you good places make good horses.
+
+968
+00:04:30,980 --> 00:04:31,140
+but I <font color="#00ff00">can</font> tell you good places make good horses.
+
+969
+00:04:31,140 --> 00:04:31,340
+but I can <font color="#00ff00">tell</font> you good places make good horses.
+
+970
+00:04:31,340 --> 00:04:31,520
+but I can tell <font color="#00ff00">you</font> good places make good horses.
+
+971
+00:04:31,520 --> 00:04:31,560
+but I can tell you good places make good horses.
+
+972
+00:04:31,560 --> 00:04:31,740
+but I can tell you <font color="#00ff00">good</font> places make good horses.
+
+973
+00:04:31,740 --> 00:04:31,820
+but I can tell you good places make good horses.
+
+974
+00:04:31,820 --> 00:04:32,180
+but I can tell you good <font color="#00ff00">places</font> make good horses.
+
+975
+00:04:32,180 --> 00:04:32,420
+but I can tell you good places <font color="#00ff00">make</font> good horses.
+
+976
+00:04:32,420 --> 00:04:32,460
+but I can tell you good places make good horses.
+
+977
+00:04:32,460 --> 00:04:32,640
+but I can tell you good places make <font color="#00ff00">good</font> horses.
+
+978
+00:04:32,640 --> 00:04:32,960
+but I can tell you good places make good <font color="#00ff00">horses.</font>
+
+979
+00:04:33,900 --> 00:04:34,080
+<font color="#00ff00">I</font> wouldn't vex our people for anything.
+
+980
+00:04:34,080 --> 00:04:34,360
+I <font color="#00ff00">wouldn't</font> vex our people for anything.
+
+981
+00:04:34,360 --> 00:04:34,620
+I wouldn't <font color="#00ff00">vex</font> our people for anything.
+
+982
+00:04:34,620 --> 00:04:34,780
+I wouldn't vex <font color="#00ff00">our</font> people for anything.
+
+983
+00:04:34,780 --> 00:04:35,020
+I wouldn't vex our <font color="#00ff00">people</font> for anything.
+
+984
+00:04:35,020 --> 00:04:35,300
+I wouldn't vex our people <font color="#00ff00">for</font> anything.
+
+985
+00:04:35,300 --> 00:04:35,740
+I wouldn't vex our people for <font color="#00ff00">anything.</font>
+
+986
+00:04:36,140 --> 00:04:36,320
+<font color="#00ff00">I</font> love them,
+
+987
+00:04:36,320 --> 00:04:36,560
+I <font color="#00ff00">love</font> them,
+
+988
+00:04:36,560 --> 00:04:37,060
+I love <font color="#00ff00">them,</font>
+
+989
+00:04:37,060 --> 00:04:37,120
+<font color="#00ff00">I</font> do," said Merrylegs.
+
+990
+00:04:37,120 --> 00:04:37,380
+I <font color="#00ff00">do,"</font> said Merrylegs.
+
+991
+00:04:37,380 --> 00:04:37,800
+I do," said Merrylegs.
+
+992
+00:04:37,800 --> 00:04:37,980
+I do," <font color="#00ff00">said</font> Merrylegs.
+
+993
+00:04:37,980 --> 00:04:38,420
+I do," said <font color="#00ff00">Merrylegs.</font>
+
+994
+00:04:39,120 --> 00:04:39,720
+<font color="#00ff00">Besides,</font>
+
+995
+00:04:40,140 --> 00:04:40,260
+<font color="#00ff00">he</font> went on,
+
+996
+00:04:40,260 --> 00:04:40,480
+he <font color="#00ff00">went</font> on,
+
+997
+00:04:40,480 --> 00:04:40,740
+he went <font color="#00ff00">on,</font>
+
+998
+00:04:41,140 --> 00:04:41,240
+<font color="#00ff00">"If</font> I took to kicking,
+
+999
+00:04:41,240 --> 00:04:41,440
+"If <font color="#00ff00">I</font> took to kicking,
+
+1000
+00:04:41,440 --> 00:04:41,480
+"If I took to kicking,
+
+1001
+00:04:41,480 --> 00:04:41,660
+"If I <font color="#00ff00">took</font> to kicking,
+
+1002
+00:04:41,660 --> 00:04:41,800
+"If I took to kicking,
+
+1003
+00:04:41,800 --> 00:04:41,900
+"If I took <font color="#00ff00">to</font> kicking,
+
+1004
+00:04:41,900 --> 00:04:42,360
+"If I took to <font color="#00ff00">kicking,</font>
+
+1005
+00:04:42,360 --> 00:04:42,500
+<font color="#00ff00">where</font> should I be?
+
+1006
+00:04:42,500 --> 00:04:42,660
+where <font color="#00ff00">should</font> I be?
+
+1007
+00:04:42,660 --> 00:04:42,900
+where should <font color="#00ff00">I</font> be?
+
+1008
+00:04:42,900 --> 00:04:43,160
+where should I <font color="#00ff00">be?</font>
+
+1009
+00:04:43,680 --> 00:04:44,060
+<font color="#00ff00">Why,</font> sold off in a jiffy and no character,
+
+1010
+00:04:44,060 --> 00:04:44,360
+Why, <font color="#00ff00">sold</font> off in a jiffy and no character,
+
+1011
+00:04:44,360 --> 00:04:44,540
+Why, sold <font color="#00ff00">off</font> in a jiffy and no character,
+
+1012
+00:04:44,540 --> 00:04:44,660
+Why, sold off <font color="#00ff00">in</font> a jiffy and no character,
+
+1013
+00:04:44,660 --> 00:04:44,820
+Why, sold off in <font color="#00ff00">a</font> jiffy and no character,
+
+1014
+00:04:44,820 --> 00:04:45,160
+Why, sold off in a <font color="#00ff00">jiffy</font> and no character,
+
+1015
+00:04:45,160 --> 00:04:45,280
+Why, sold off in a jiffy <font color="#00ff00">and</font> no character,
+
+1016
+00:04:45,280 --> 00:04:45,420
+Why, sold off in a jiffy and no character,
+
+1017
+00:04:45,420 --> 00:04:45,520
+Why, sold off in a jiffy and <font color="#00ff00">no</font> character,
+
+1018
+00:04:45,520 --> 00:04:46,000
+Why, sold off in a jiffy and no <font color="#00ff00">character,</font>
+
+1019
+00:04:46,460 --> 00:04:46,680
+<font color="#00ff00">and</font> I might find myself slaved about under a butcher's boy,
+
+1020
+00:04:46,680 --> 00:04:46,800
+and <font color="#00ff00">I</font> might find myself slaved about under a butcher's boy,
+
+1021
+00:04:46,800 --> 00:04:47,000
+and I <font color="#00ff00">might</font> find myself slaved about under a butcher's boy,
+
+1022
+00:04:47,000 --> 00:04:47,040
+and I might find myself slaved about under a butcher's boy,
+
+1023
+00:04:47,040 --> 00:04:47,200
+and I might <font color="#00ff00">find</font> myself slaved about under a butcher's boy,
+
+1024
+00:04:47,200 --> 00:04:47,640
+and I might find <font color="#00ff00">myself</font> slaved about under a butcher's boy,
+
+1025
+00:04:47,640 --> 00:04:47,740
+and I might find myself slaved about under a butcher's boy,
+
+1026
+00:04:47,740 --> 00:04:48,120
+and I might find myself <font color="#00ff00">slaved</font> about under a butcher's boy,
+
+1027
+00:04:48,120 --> 00:04:48,500
+and I might find myself slaved <font color="#00ff00">about</font> under a butcher's boy,
+
+1028
+00:04:48,500 --> 00:04:48,520
+and I might find myself slaved about under a butcher's boy,
+
+1029
+00:04:48,520 --> 00:04:48,740
+and I might find myself slaved about <font color="#00ff00">under</font> a butcher's boy,
+
+1030
+00:04:48,740 --> 00:04:48,920
+and I might find myself slaved about under <font color="#00ff00">a</font> butcher's boy,
+
+1031
+00:04:48,920 --> 00:04:49,360
+and I might find myself slaved about under a <font color="#00ff00">butcher's</font> boy,
+
+1032
+00:04:49,360 --> 00:04:49,560
+and I might find myself slaved about under a butcher's <font color="#00ff00">boy,</font>
+
+1033
+00:04:50,020 --> 00:04:50,260
+<font color="#00ff00">or</font> work to death at some seaside place where no one cared for me,
+
+1034
+00:04:50,260 --> 00:04:50,560
+or <font color="#00ff00">work</font> to death at some seaside place where no one cared for me,
+
+1035
+00:04:50,560 --> 00:04:50,820
+or work <font color="#00ff00">to</font> death at some seaside place where no one cared for me,
+
+1036
+00:04:50,820 --> 00:04:50,900
+or work to death at some seaside place where no one cared for me,
+
+1037
+00:04:50,900 --> 00:04:51,000
+or work to <font color="#00ff00">death</font> at some seaside place where no one cared for me,
+
+1038
+00:04:51,000 --> 00:04:51,120
+or work to death <font color="#00ff00">at</font> some seaside place where no one cared for me,
+
+1039
+00:04:51,120 --> 00:04:51,160
+or work to death at some seaside place where no one cared for me,
+
+1040
+00:04:51,160 --> 00:04:51,420
+or work to death at <font color="#00ff00">some</font> seaside place where no one cared for me,
+
+1041
+00:04:51,420 --> 00:04:51,460
+or work to death at some seaside place where no one cared for me,
+
+1042
+00:04:51,460 --> 00:04:52,000
+or work to death at some <font color="#00ff00">seaside</font> place where no one cared for me,
+
+1043
+00:04:52,000 --> 00:04:52,140
+or work to death at some seaside place where no one cared for me,
+
+1044
+00:04:52,140 --> 00:04:52,240
+or work to death at some seaside <font color="#00ff00">place</font> where no one cared for me,
+
+1045
+00:04:52,240 --> 00:04:52,260
+or work to death at some seaside place where no one cared for me,
+
+1046
+00:04:52,260 --> 00:04:52,440
+or work to death at some seaside place <font color="#00ff00">where</font> no one cared for me,
+
+1047
+00:04:52,440 --> 00:04:52,660
+or work to death at some seaside place where <font color="#00ff00">no</font> one cared for me,
+
+1048
+00:04:52,660 --> 00:04:52,820
+or work to death at some seaside place where no <font color="#00ff00">one</font> cared for me,
+
+1049
+00:04:52,820 --> 00:04:53,040
+or work to death at some seaside place where no one <font color="#00ff00">cared</font> for me,
+
+1050
+00:04:53,040 --> 00:04:53,240
+or work to death at some seaside place where no one cared <font color="#00ff00">for</font> me,
+
+1051
+00:04:53,240 --> 00:04:53,460
+or work to death at some seaside place where no one cared for <font color="#00ff00">me,</font>
+
+1052
+00:04:54,020 --> 00:04:54,220
+<font color="#00ff00">except</font> to find out how fast I could go,
+
+1053
+00:04:54,220 --> 00:04:54,360
+except to find out how fast I could go,
+
+1054
+00:04:54,360 --> 00:04:54,460
+except <font color="#00ff00">to</font> find out how fast I could go,
+
+1055
+00:04:54,460 --> 00:04:54,620
+except to <font color="#00ff00">find</font> out how fast I could go,
+
+1056
+00:04:54,620 --> 00:04:54,820
+except to find <font color="#00ff00">out</font> how fast I could go,
+
+1057
+00:04:54,820 --> 00:04:55,120
+except to find out <font color="#00ff00">how</font> fast I could go,
+
+1058
+00:04:55,120 --> 00:04:55,460
+except to find out how <font color="#00ff00">fast</font> I could go,
+
+1059
+00:04:55,460 --> 00:04:55,600
+except to find out how fast <font color="#00ff00">I</font> could go,
+
+1060
+00:04:55,600 --> 00:04:55,680
+except to find out how fast I could go,
+
+1061
+00:04:55,680 --> 00:04:55,780
+except to find out how fast I <font color="#00ff00">could</font> go,
+
+1062
+00:04:55,780 --> 00:04:56,180
+except to find out how fast I could <font color="#00ff00">go,</font>
+
+1063
+00:04:56,560 --> 00:04:56,780
+<font color="#00ff00">or</font> be flogged along in some cart with three or four great men in it,
+
+1064
+00:04:56,780 --> 00:04:57,020
+or <font color="#00ff00">be</font> flogged along in some cart with three or four great men in it,
+
+1065
+00:04:57,020 --> 00:04:57,380
+or be <font color="#00ff00">flogged</font> along in some cart with three or four great men in it,
+
+1066
+00:04:57,380 --> 00:04:57,620
+or be flogged <font color="#00ff00">along</font> in some cart with three or four great men in it,
+
+1067
+00:04:57,620 --> 00:04:57,800
+or be flogged along <font color="#00ff00">in</font> some cart with three or four great men in it,
+
+1068
+00:04:57,800 --> 00:04:58,160
+or be flogged along in <font color="#00ff00">some</font> cart with three or four great men in it,
+
+1069
+00:04:58,160 --> 00:04:58,480
+or be flogged along in some <font color="#00ff00">cart</font> with three or four great men in it,
+
+1070
+00:04:58,480 --> 00:04:58,500
+or be flogged along in some cart with three or four great men in it,
+
+1071
+00:04:58,500 --> 00:04:58,700
+or be flogged along in some cart <font color="#00ff00">with</font> three or four great men in it,
+
+1072
+00:04:58,700 --> 00:04:58,740
+or be flogged along in some cart with three or four great men in it,
+
+1073
+00:04:58,740 --> 00:04:58,960
+or be flogged along in some cart with <font color="#00ff00">three</font> or four great men in it,
+
+1074
+00:04:58,960 --> 00:04:59,040
+or be flogged along in some cart with three <font color="#00ff00">or</font> four great men in it,
+
+1075
+00:04:59,040 --> 00:04:59,340
+or be flogged along in some cart with three or <font color="#00ff00">four</font> great men in it,
+
+1076
+00:04:59,340 --> 00:04:59,620
+or be flogged along in some cart with three or four <font color="#00ff00">great</font> men in it,
+
+1077
+00:04:59,620 --> 00:04:59,820
+or be flogged along in some cart with three or four great <font color="#00ff00">men</font> in it,
+
+1078
+00:04:59,820 --> 00:04:59,960
+or be flogged along in some cart with three or four great men <font color="#00ff00">in</font> it,
+
+1079
+00:04:59,960 --> 00:05:00,060
+or be flogged along in some cart with three or four great men in <font color="#00ff00">it,</font>
+
+1080
+00:05:00,400 --> 00:05:00,640
+<font color="#00ff00">going</font> out for a Sunday spree,
+
+1081
+00:05:00,640 --> 00:05:00,820
+going out for a Sunday spree,
+
+1082
+00:05:00,820 --> 00:05:00,920
+going <font color="#00ff00">out</font> for a Sunday spree,
+
+1083
+00:05:00,920 --> 00:05:01,080
+going out <font color="#00ff00">for</font> a Sunday spree,
+
+1084
+00:05:01,080 --> 00:05:01,180
+going out for <font color="#00ff00">a</font> Sunday spree,
+
+1085
+00:05:01,180 --> 00:05:01,560
+going out for a <font color="#00ff00">Sunday</font> spree,
+
+1086
+00:05:01,560 --> 00:05:02,240
+going out for a Sunday <font color="#00ff00">spree,</font>
+
+1087
+00:05:02,240 --> 00:05:02,360
+<font color="#00ff00">as</font> I have often seen in the place I lived in before I came here."
+
+1088
+00:05:02,360 --> 00:05:02,500
+as <font color="#00ff00">I</font> have often seen in the place I lived in before I came here."
+
+1089
+00:05:02,500 --> 00:05:02,700
+as I <font color="#00ff00">have</font> often seen in the place I lived in before I came here."
+
+1090
+00:05:02,700 --> 00:05:03,040
+as I have <font color="#00ff00">often</font> seen in the place I lived in before I came here."
+
+1091
+00:05:03,040 --> 00:05:03,300
+as I have often <font color="#00ff00">seen</font> in the place I lived in before I came here."
+
+1092
+00:05:03,300 --> 00:05:03,440
+as I have often seen <font color="#00ff00">in</font> the place I lived in before I came here."
+
+1093
+00:05:03,440 --> 00:05:03,620
+as I have often seen in <font color="#00ff00">the</font> place I lived in before I came here."
+
+1094
+00:05:03,620 --> 00:05:03,780
+as I have often seen in the <font color="#00ff00">place</font> I lived in before I came here."
+
+1095
+00:05:03,780 --> 00:05:03,800
+as I have often seen in the place I lived in before I came here."
+
+1096
+00:05:03,800 --> 00:05:04,060
+as I have often seen in the place <font color="#00ff00">I</font> lived in before I came here."
+
+1097
+00:05:04,060 --> 00:05:04,200
+as I have often seen in the place I <font color="#00ff00">lived</font> in before I came here."
+
+1098
+00:05:04,200 --> 00:05:04,440
+as I have often seen in the place I lived <font color="#00ff00">in</font> before I came here."
+
+1099
+00:05:04,440 --> 00:05:04,680
+as I have often seen in the place I lived in <font color="#00ff00">before</font> I came here."
+
+1100
+00:05:04,680 --> 00:05:04,920
+as I have often seen in the place I lived in before <font color="#00ff00">I</font> came here."
+
+1101
+00:05:04,920 --> 00:05:05,120
+as I have often seen in the place I lived in before I <font color="#00ff00">came</font> here."
+
+1102
+00:05:05,120 --> 00:05:05,420
+as I have often seen in the place I lived in before I came <font color="#00ff00">here."</font>
+
+1103
+00:05:06,460 --> 00:05:06,880
+<font color="#00ff00">"No,"</font>
+
+1104
+00:05:07,440 --> 00:05:07,620
+<font color="#00ff00">said</font> he, shaking his head.
+
+1105
+00:05:07,620 --> 00:05:08,220
+said <font color="#00ff00">he,</font> shaking his head.
+
+1106
+00:05:08,220 --> 00:05:08,540
+said he, <font color="#00ff00">shaking</font> his head.
+
+1107
+00:05:08,540 --> 00:05:08,860
+said he, shaking <font color="#00ff00">his</font> head.
+
+1108
+00:05:08,860 --> 00:05:09,000
+said he, shaking his <font color="#00ff00">head.</font>
+
+1109
+00:05:09,600 --> 00:05:09,780
+<font color="#00ff00">"I</font> hope I shall never come to that."
+
+1110
+00:05:09,780 --> 00:05:09,940
+"I hope I shall never come to that."
+
+1111
+00:05:09,940 --> 00:05:10,040
+"I <font color="#00ff00">hope</font> I shall never come to that."
+
+1112
+00:05:10,040 --> 00:05:10,260
+"I hope <font color="#00ff00">I</font> shall never come to that."
+
+1113
+00:05:10,260 --> 00:05:10,420
+"I hope I <font color="#00ff00">shall</font> never come to that."
+
+1114
+00:05:10,420 --> 00:05:10,700
+"I hope I shall <font color="#00ff00">never</font> come to that."
+
+1115
+00:05:10,700 --> 00:05:10,980
+"I hope I shall never <font color="#00ff00">come</font> to that."
+
+1116
+00:05:10,980 --> 00:05:11,180
+"I hope I shall never come <font color="#00ff00">to</font> that."
+
+1117
+00:05:11,180 --> 00:05:11,320
+"I hope I shall never come to <font color="#00ff00">that."</font>

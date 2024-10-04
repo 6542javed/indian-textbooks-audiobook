@@ -82,7 +82,7 @@
             <div class="menu-item" data-class="4">Class IV</div>
             <!-- <div class="menu-item" data-class="5">Class V</div> -->
             <!-- <div class="menu-item" data-class="6">Class VI</div> -->
-            <!-- <div class="menu-item" data-class="7">Class VII</div> -->
+            <div class="menu-item" data-class="7">Class VII</div>
             <!-- <div class="menu-item" data-class="8">Class VIII</div> -->
             <!-- <div class="menu-item" data-class="9">Class IX</div> -->
             <!-- <div class="menu-item" data-class="10">Class X</div> -->
@@ -91,7 +91,10 @@
         </div>
 
         <div class="submenu" id="class-4-submenu">
-            <div class="submenu-item" data-book="snowflakes">Snowflakes Book</div>
+            <div class="submenu-item" data-book="snowflakes4">Snowflakes Book</div>
+        </div>
+        <div class="submenu" id="class-7-submenu">
+            <div class="submenu-item" data-book="snowflakes7">Snowflakes Book</div>
         </div>
         <div class="submenu" id="class-9-submenu">
             <div class="submenu-item" data-book="firstflight">First Flight Book</div>
@@ -100,9 +103,13 @@
             <div class="submenu-item" data-book="hornbill">Hornbill Book</div>
         </div>
 
-        <div class="lesson-menu" id="snowflakes-lessons">
+        <div class="lesson-menu" id="snowflakes4-lessons">
             <!-- <a href="class4/snowflakes/kitten.html"><div class="lesson-item">Lesson 1: The Kitten at Play</div></a> -->
             <a href="class4/snowflakes/merrylegs.html"><div class="lesson-item">Lesson 6: Merrylegs</div></a>
+        </div>
+        <div class="lesson-menu" id="snowflakes7-lessons">
+            <!-- <a href="class4/snowflakes/kitten.html"><div class="lesson-item">Lesson 1: The Kitten at Play</div></a> -->
+            <a href="class7/snowflakes7/egyptian.html"><div class="lesson-item">The Egyptian Invent Writing</div></a>
         </div>
         <div class="lesson-menu" id="firstflight-lessons">
             <a href="class9/thesoundofmusic.html"><div class="lesson-item">Lesson 2: The Sound Of Music</div></a>
@@ -120,25 +127,60 @@
             var currentMenu = 'menu';
             var previousMenu = '';
             var currentClass = '';
+            var currentBook = '';
+
+            // Function to save menu state
+            function saveMenuState() {
+                sessionStorage.setItem('currentMenu', currentMenu);
+                sessionStorage.setItem('previousMenu', previousMenu);
+                sessionStorage.setItem('currentClass', currentClass);
+                sessionStorage.setItem('currentBook', currentBook);
+            }
+
+            // Function to load menu state
+            function loadMenuState() {
+                currentMenu = sessionStorage.getItem('currentMenu') || 'menu';
+                previousMenu = sessionStorage.getItem('previousMenu') || '';
+                currentClass = sessionStorage.getItem('currentClass') || '';
+                currentBook = sessionStorage.getItem('currentBook') || '';
+
+                if (currentMenu === 'submenu') {
+                    $('.menu').hide();
+                    $('#class-' + currentClass + '-submenu').show();
+                    $('.back-button').show();
+                } else if (currentMenu === 'lesson-menu') {
+                    $('.menu').hide();
+                    $('.submenu').hide();
+                    $('#' + currentBook + '-lessons').show();
+                    $('.back-button').show();
+                }
+            }
+
+            // Load menu state on page load
+            loadMenuState();
 
             $('.menu-item').click(function(){
                 var classNumber = $(this).data('class');
                 currentClass = classNumber;
                 previousMenu = 'menu';
                 currentMenu = 'submenu';
+                currentBook = '';
                 $('.menu').hide();
                 $('.submenu').hide();
                 $('#class-' + classNumber + '-submenu').show();
                 $('.back-button').show();
+                saveMenuState();
             });
 
             $('.submenu-item').click(function(){
                 var bookName = $(this).data('book');
                 previousMenu = 'submenu';
                 currentMenu = 'lesson-menu';
+                currentBook = bookName;
                 $('.submenu').hide();
                 $('#' + bookName + '-lessons').show();
                 $('.back-button').show();
+                saveMenuState();
             });
 
             $('.back-button').click(function(){
@@ -146,12 +188,15 @@
                     $('.lesson-menu').hide();
                     $('#class-' + currentClass + '-submenu').show();
                     currentMenu = 'submenu';
+                    currentBook = '';
                 } else if (currentMenu === 'submenu') {
                     $('.submenu').hide();
                     $('.menu').show();
                     $('.back-button').hide();
                     currentMenu = 'menu';
+                    currentClass = '';
                 }
+                saveMenuState();
             });
         });
     </script>
