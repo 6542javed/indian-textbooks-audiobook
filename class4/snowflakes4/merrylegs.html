@@ -7,30 +7,50 @@
   <link rel="stylesheet" href="../../../load-custom-font.css" type="text/css">
   <link rel="stylesheet" href="../../../styles/stylesheet.css" type="text/css" charset="utf-8" />
   <style>
+    /* Base Styles */
     body {
       font-family: 'itc_bookman_stdregular', Arial, sans-serif;
       line-height: 1.6;
       margin: 0;
       padding: 0 20px;
+      background-color: #ffffff; /* Added background color for consistency */
+      color: #333333; /* Improved text color for better readability */
     }
+
     .container {
       max-width: 62.5%;
-      margin: auto;
+      margin: 0 auto;
       padding-bottom: 6%;
     }
+
+    /* Responsive Container */
+    @media (max-width: 1024px) {
+      .container {
+        max-width: 80%;
+      }
+    }
+
     @media (max-width: 768px) {
       .container {
         max-width: 100%;
+        margin-top: 90px; /* Adjusted padding for smaller screens */
         padding-bottom: 15%;
       }
     }
+
+    /* Transcript Styles */
     #transcript p {
       text-indent: 30px;
-      margin-bottom: -0.75em;
+      margin-bottom: 0.75em; /* Changed to positive margin for better spacing */
+      line-height: 1.8; /* Increased line-height for readability */
+      font-size: 1rem; /* Set a base font size */
     }
+
     #transcript p:first-of-type {
       text-indent: 0;
     }
+
+    /* Highlighted Word Styles */
     .current-word {
       background-color: #fff2ac;
       color: #000;
@@ -38,7 +58,10 @@
       transition: background-color 0.3s ease;
       position: relative;
       z-index: 1;
+      padding: 2px 4px; /* Added padding for touch-friendly areas */
+      border-radius: 3px; /* Rounded corners for better aesthetics */
     }
+
     .current-word::before {
       content: "";
       position: absolute;
@@ -51,9 +74,13 @@
       z-index: -1;
       border-radius: 3px;
     }
-    .current-word:hover {
+
+    .current-word:hover,
+    .current-word:focus {
       background-color: #ffe678;
     }
+
+    /* Audio Player Styles */
     audio {
       width: 100%;
       position: fixed;
@@ -64,24 +91,63 @@
       box-sizing: border-box;
       z-index: 9999;
     }
+
+    /* Back Button Styles */
     .back-button {
-        position: absolute;
-        top: 20px;
-        left: 20px;
-        padding: 10px 15px;
-        background: #f7f7f7;
-        border: 1px solid #ddd;
-        border-radius: 5px;
-        cursor: pointer;
-        transition: background 0.3s;
+      position: fixed; /* Fixed positioning for consistent placement */
+      top: 20px;
+      left: 20px;
+      padding: 10px 15px;
+      background: #f7f7f7;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background 0.3s;
+      z-index: 10000; /* Ensure it's above other elements */
+      font-size: 1rem; /* Increased font size for readability */
     }
-    .back-button:hover {
-        background: #e0e0e0;
+
+    .back-button:hover,
+    .back-button:focus {
+      background: #e0e0e0;
+    }
+
+    /* Enhanced Media Queries for Smaller Devices */
+    @media (max-width: 480px) {
+      body {
+        padding: 0 10px;
+      }
+
+      #transcript {
+        margin-top: 60px; /* Add top margin to prevent overlap */
+      }
+
+      #transcript p {
+        font-size: 0.9rem;
+        text-indent: 20px;
+      }
+
+      .current-word {
+        padding: 1px 3px;
+      }
+
+      .back-button {
+        top: 10px;
+        left: 10px;
+        padding: 8px 12px;
+        font-size: 0.9rem;
+      }
+
+      audio {
+        padding: 8px;
+      }
     }
   </style>
 </head>
 <body>
-  <!-- <div class="back-button">Back</div> -->
+  <!-- Back to Menu Button -->
+  <button class="back-button" id="backButton">Back to Menu</button>
+
   <div class="container">
     <div id="transcript"></div>
     <audio id="myAudio" src="merrylegs.mp3" controls></audio>
@@ -92,47 +158,23 @@
   <!-- Lesson-Specific Configuration -->
 </body>
 <script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const transcriptElement = document.getElementById('transcript');
+    const audioElement = document.getElementById('myAudio');
+    const filePath = 'merrylegs.srt';
+    const paragraphBreaks = new Set([89, 127, 135, 182, 206, 328, 641, 665, 863]);
 
-document.addEventListener('DOMContentLoaded', () => {
-  const transcriptElement = document.getElementById('transcript');
-  const audioElement = document.getElementById('myAudio');
-  const filePath = 'merrylegs.srt';
-  const paragraphBreaks = new Set([89, 127, 135, 182, 206, 328, 641, 665, 863]);
-
-  new TranscriptHighlighter({
-    filePath,
-    audioElement,
-    transcriptElement,
-    paragraphBreaks
+    new TranscriptHighlighter({
+      filePath,
+      audioElement,
+      transcriptElement,
+      paragraphBreaks
+    });
   });
-});
 
-// for back button
-document.addEventListener('DOMContentLoaded', function() {
-    var currentMenu = sessionStorage.getItem('currentMenu');
-    var currentClass = sessionStorage.getItem('currentClass');
-    var currentBook = sessionStorage.getItem('currentBook');
-
-    if (currentMenu && currentClass && currentBook) {
-        var backButton = document.createElement('button');
-        backButton.textContent = 'Back to Menu';
-        backButton.style.cssText = `
-            position: fixed;
-            top: 20px;
-            left: 20px;
-            padding: 10px 15px;
-            background: #f7f7f7;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            cursor: pointer;
-        `;
-
-        backButton.addEventListener('click', function() {
-            window.location.href = '../../../index.html';
-        });
-
-        document.body.appendChild(backButton);
-    }
-});
+  // For Back Button Functionality
+  document.getElementById('backButton').addEventListener('click', function() {
+    window.location.href = '../../../index.html';
+  });
 </script>
 </html>
